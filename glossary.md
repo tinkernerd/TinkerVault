@@ -1,16 +1,5 @@
-# A
-
-# B
-
-# C
-
-# D
-
-# E
-
-# L
-
-## LED
+# Glossary
+# LED
 Light-Emitting Diode
 [LED - Wikipedia](https://en.wikipedia.org/wiki/Light-emitting_diode)  
 [LED lamp - Wikipedia](https://en.wikipedia.org/wiki/LED_lamp)  
