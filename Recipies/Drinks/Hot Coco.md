@@ -1,0 +1,4 @@
+- [9 Spiked Hot Chocolate Recipes To Keep You Cozy All Winter](https://www.forbes.com/sites/karlaalindahao/2023/11/12/best-spiked-hot-chocolate-recipes-2023/?sh=709fb35442f3)
+- [boozy hot chocolate - Google Search](https://www.google.com/search?q=boozy+hot+chocolate&rlz=1C1RXQR_enUS1085US1085&oq=boozy+hot+chocolate&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUwMzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+- [Peppermint Schnapps Hot Chocolate – A Couple Cooks](https://www.acouplecooks.com/peppermint-schnapps-hot-chocolate/)
+- [perperment snob hot chocolate - Google Search](https://www.google.com/search?q=perperment+snob+hot+chocolate&rlz=1C1RXQR_enUS1085US1085&oq=perperment+snob+hot+chocolate&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIwMDc3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
