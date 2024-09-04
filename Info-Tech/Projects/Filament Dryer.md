@@ -1,2 +1,0 @@
-- [IKEA Samla Filament Spool Roller by Crosslink | Download free STL model | Printables.com](https://www.printables.com/model/72870-ikea-samla-filament-spool-roller)
-- 
