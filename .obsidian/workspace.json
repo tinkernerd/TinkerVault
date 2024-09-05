@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D Printing/index.md",
+                "file": "Info-Tech/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Printing/index.md",
+                "file": "Info-Tech/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Printing/index.md",
+                "file": "Info-Tech/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D Printing/index.md"
+                "file": "Info-Tech/index.md"
               }
             }
           },
@@ -496,6 +496,14 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "9c38dbdb420e578a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -518,23 +526,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95ef4cfdf5ee0fe7",
+  "active": "25669383a6f07ef2",
   "lastOpenFiles": [
-    "3D Printing/PrintingMinis.md",
-    "3D Printing/How To Change a 3D Printer Nozzle  MatterHackers.md",
-    "3D Printing/index.md",
-    "3D Printing/3D Printer Bed Leveling Easy Step-by-Step Guide  All3DP.md",
-    "3D Printing/The Olsson Ruby.md",
-    "3D Printing/Calculate 3D printing costs.md",
+    "Info-Tech/3D Printing/index.md",
+    "Untitled 1",
+    "Untitled",
+    "Info-Tech/3D Printing/PrintingMinis.md",
+    "Info-Tech/3D Printing/How To Change a 3D Printer Nozzle  MatterHackers.md",
+    "Info-Tech/3D Printing/3D Printer Bed Leveling Easy Step-by-Step Guide  All3DP.md",
+    "Info-Tech/3D Printing/The Olsson Ruby.md",
+    "Info-Tech/3D Printing/Calculate 3D printing costs.md",
     "Resources/Glossary.md",
-    "3D Printing/3D Printing Getting to Benchy with the Ender 3 – Rob Connolly's Blog.md",
+    "Info-Tech/3D Printing/3D Printing Getting to Benchy with the Ender 3 – Rob Connolly's Blog.md",
     "Resources/index.md",
     "99-Utilities/resume.md",
     "Resources/Bookmarks.md",
     "README.md",
-    "99-Utilities/Info-Tech/index.md",
-    "Linux/Installs/Github.md",
-    "Github/index.md",
+    "Info-Tech/index.md",
+    "Info-Tech/Linux/Installs/Github.md",
+    "Info-Tech/Github/index.md",
     "Photography/Photo Basics.md",
     "Recipies/Drinks/Hot Coco.md",
     "Recipies/Drinks/Homemade Ginger Ale.md",
@@ -547,7 +557,6 @@
     "glossary.md",
     "Photography",
     "Fundamentals/Lights.md",
-    "Info-Tech/Parts/Arcade Buttons.md",
     "Info-Tech/Parts",
     "Fundamentals",
     "HTML import",
@@ -555,10 +564,8 @@
     "99-Utilities/attachments/Linux-Cheat-Sheet-Sponsored-By-Loggly.pdf",
     "99-Utilities/attachments/LUOD.pdf",
     "99-Utilities/attachments/LM_2016_Common_Legal_Citations_528474_7.pdf",
-    "99-Utilities/attachments/Simplicity_TheFinerArtOfCreatingSoftware_CheatSheet_1Page 1.pdf",
     "99-Utilities/attachments/wJjgiiv_d.webp",
     "99-Utilities/assets/uc.svg",
-    "99-Utilities/attachments/Finxter-Python-Cheat-Sheet-Complex-Data-Types 1.pdf",
     "99-Utilities/assets/header.png",
     "99-Utilities/assets/header 1.png",
     "99-Utilities/attachments/7577066.png",
