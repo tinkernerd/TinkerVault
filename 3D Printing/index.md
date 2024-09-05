@@ -33,11 +33,6 @@ dg-show-inline-title: true
 [Ender 3 Test Print: Best Models to Challenge Your Ender 3 | All3DP](https://all3dp.com/2/ender-3-test-print-the-best-models-to-challenge-your-ender-3/)
 
 **Prusa:**  
-[A detailed guide to printing your minis! : PrintedMinis](https://www.reddit.com/r/PrintedMinis/comments/68umnm/a_detailed_guide_to_printing_your_minis/)
+
 [Prusa Knowledge Base | First Layer Calibration](https://help.prusa3d.com/en/article/first-layer-calibration_112364)
 
-**Cost:**
-[How to calculate 3D printing costs? - Original Prusa 3D Printers](https://blog.prusa3d.com/how-to-calculate-printing-costs_38650/)
-
-**Ruby:**
-[The Olsson Ruby instructions for use - 3DVerkstan Knowledge Base](https://support.3dverkstan.se/article/66-the-olsson-ruby-instructions-for-use)

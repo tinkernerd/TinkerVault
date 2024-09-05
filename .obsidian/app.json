@@ -1,3 +1,14 @@
 {
+  "autoPairMarkdown": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01-Jellyfish",
+  "attachmentFolderPath": "99-Utilities/attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
   "alwaysUpdateLinks": true
 }

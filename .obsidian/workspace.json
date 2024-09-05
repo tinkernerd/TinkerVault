@@ -1,21 +1,21 @@
 {
   "main": {
-    "id": "37220364e80c4261",
+    "id": "8210e393c759a939",
     "type": "split",
     "children": [
       {
-        "id": "9de70556784549fb",
+        "id": "a6bb54ceb405d513",
         "type": "tabs",
         "children": [
           {
-            "id": "7f4298b5020afdd0",
+            "id": "95ef4cfdf5ee0fe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/ISYS 115/index.md",
+                "file": "3D Printing/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4e8ee703f76a41aa",
+    "id": "b153dca567b64b46",
     "type": "split",
     "children": [
       {
-        "id": "5634c4ed3928f533",
+        "id": "a103677cc38170bb",
         "type": "tabs",
         "children": [
           {
-            "id": "5c88fde5b2ec35c9",
+            "id": "25669383a6f07ef2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "ee921322e2e07690",
+            "id": "79ea6bf980791f64",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "7c2647fec9577cb8",
+            "id": "420ab1c6e2d1460c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 564.5
   },
   "right": {
-    "id": "ba4473c24059adea",
+    "id": "cbe849bd0637fa72",
     "type": "split",
     "children": [
       {
-        "id": "a6c4dae6d8aaf072",
+        "id": "78c502afc2395726",
         "type": "tabs",
         "children": [
           {
-            "id": "64466348bdf23c0a",
+            "id": "71dce08347e390aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/ISYS 115/index.md",
+                "file": "3D Printing/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "6c63e6edd8dae378",
+            "id": "0d4b9aebac05af48",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/ISYS 115/index.md",
+                "file": "3D Printing/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "870592b311cc318c",
+            "id": "c3ae63fcd73d0daa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +120,381 @@
             }
           },
           {
-            "id": "01469de025cd6b45",
+            "id": "06cd48da14e34e5a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/ISYS 115/index.md"
+                "file": "3D Printing/index.md"
               }
+            }
+          },
+          {
+            "id": "c58dbe773dbdebf2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "56a3b0605e823cbc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "34d5bbbb652ad7da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6cacb840a9e2cb0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "389f6a83e4bfb723",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1939a41946bc8e56",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "94afd2b535b67837",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee27069ed6f7f559",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfe075eddc35f8ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad82178d82923018",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5208daabf27ed6a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3d9a91a38e3821b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9a88398c9a2a666",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "80656d67cbd25e6b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb19db201a4ede57",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "75ab41c40b115d3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8178f9bcc614ceeb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9837a2a595c9b998",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe3f9286c88d7dea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a255cf23b88cd1d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d2487b310100cc1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c319770ce9b2f13",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2626609701c91f16",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "874ea4b27dcd05b7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8959237bad670539",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca1170ddcbd0388e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dceff9a8b931f8db",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "df98c5a70f86f3f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fed423f3bff409b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f845405c3f17485e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "57b4dbf27fc4e48a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bb5f26039647711",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d19e2a26b682341",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6faec52d3ffc604c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "686d76c89f3a403a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d60fb733851e8da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3be0ed2469aeb9c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1166006287dde132",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "231ba0ea4b2a8902",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "19d899b311ff7ce2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d33d299b886c4618",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "94f4d9366e5da2b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4cf092e7f16b1f2d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1bd16cf93aa47fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "635fc42d5bf5e9b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cbb71291271bff60",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -139,30 +507,65 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "recipe-grabber:Recipe Grabber": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f4298b5020afdd0",
+  "active": "95ef4cfdf5ee0fe7",
   "lastOpenFiles": [
-    "JavaScript/ISYS 115/Week1-115.md",
-    "JavaScript/ISYS 115/index.md",
-    "Linux/Installs/Github.md",
-    "JavaScript/ISYS 115",
-    "HVARC.md",
-    "JavaScript",
-    "Lights.md",
-    "Github/index.md",
-    "Python/Python 229.md",
-    "Github",
-    "Programming/index.md",
+    "3D Printing/PrintingMinis.md",
+    "3D Printing/How To Change a 3D Printer Nozzle  MatterHackers.md",
     "3D Printing/index.md",
+    "3D Printing/3D Printer Bed Leveling Easy Step-by-Step Guide  All3DP.md",
+    "3D Printing/The Olsson Ruby.md",
+    "3D Printing/Calculate 3D printing costs.md",
+    "Resources/Glossary.md",
+    "3D Printing/3D Printing Getting to Benchy with the Ender 3 – Rob Connolly's Blog.md",
+    "Resources/index.md",
+    "99-Utilities/resume.md",
+    "Resources/Bookmarks.md",
+    "README.md",
     "99-Utilities/Info-Tech/index.md",
-    "Automation/Ansible.md",
-    "Linux/add-Sudo-Users-Groups.md",
-    "Info-Tech/Github"
+    "Linux/Installs/Github.md",
+    "Github/index.md",
+    "Photography/Photo Basics.md",
+    "Recipies/Drinks/Hot Coco.md",
+    "Recipies/Drinks/Homemade Ginger Ale.md",
+    "Recipies/Drinks/Hard Cider.md",
+    "Recipies/Drinks/Boozy Tea.md",
+    "Homemade Ginger Ale.md",
+    "Recipies/Drinks/Mead/Grapes.md",
+    "1725423843047.md",
+    "Untitled.canvas",
+    "glossary.md",
+    "Photography",
+    "Fundamentals/Lights.md",
+    "Info-Tech/Parts/Arcade Buttons.md",
+    "Info-Tech/Parts",
+    "Fundamentals",
+    "HTML import",
+    "Aviation/PPL Notes",
+    "99-Utilities/attachments/Linux-Cheat-Sheet-Sponsored-By-Loggly.pdf",
+    "99-Utilities/attachments/LUOD.pdf",
+    "99-Utilities/attachments/LM_2016_Common_Legal_Citations_528474_7.pdf",
+    "99-Utilities/attachments/Simplicity_TheFinerArtOfCreatingSoftware_CheatSheet_1Page 1.pdf",
+    "99-Utilities/attachments/wJjgiiv_d.webp",
+    "99-Utilities/assets/uc.svg",
+    "99-Utilities/attachments/Finxter-Python-Cheat-Sheet-Complex-Data-Types 1.pdf",
+    "99-Utilities/assets/header.png",
+    "99-Utilities/assets/header 1.png",
+    "99-Utilities/attachments/7577066.png",
+    "assets/wJjgiiv_d.webp",
+    "assets/uc.svg",
+    "assets/header.png",
+    "assets/7577066.png",
+    "99-Utilities/attachments/header.png"
   ]
 }
