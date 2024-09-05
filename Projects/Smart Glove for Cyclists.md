@@ -1,0 +1,2 @@
+#3dprinting #3dprint #thingiverse #Projects
+- [Smartglove for Cyclists : 12 Steps (with Pictures) - Instructables](https://www.instructables.com/id/Smartglove-for-Cyclists/?utm_source=newsletter&utm_medium=email)
