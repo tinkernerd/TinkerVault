@@ -15,14 +15,14 @@ jobs:
         uses: actions/checkout@v3
         with:
           repository: nicholas-stull/tinkerdocs  # Update this to your GitHub username and repo
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       # Step 2: Checkout the Tinkerverse repository and initialize submodules
       - name: Checkout Tinkerverse with Submodules
         uses: actions/checkout@v3
         with:
           repository: nicholas-stull/tinkerverse  # Update this to your GitHub username and repo
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           submodules: recursive
 
       # Step 3: Update the TinkerDocs submodule in the Tinkerverse repo
