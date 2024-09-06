@@ -1,0 +1,35 @@
+name: Update TinkerDocs Submodule in Tinkerverse
+
+on:
+  push:
+    branches:
+      - main  # Trigger on main branch, adjust if necessary
+
+jobs:
+  update-tinkerverse:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the TinkerDocs repo
+      - name: Checkout TinkerDocs
+        uses: actions/checkout@v3
+
+      # Step 2: Checkout the Tinkerverse repository and initialize submodules
+      - name: Checkout Tinkerverse with Submodules
+        uses: actions/checkout@v3
+        with:
+          repository: nicholas-stull/tinkerverse  # Update this to your GitHub username and repo
+          token: ${{ secrets.GITHUB_TOKEN }}
+          submodules: recursive
+
+      # Step 3: Update the TinkerDocs submodule in the Tinkerverse repo
+      - name: Update TinkerDocs Submodule
+        run: |
+          git submodule update --remote docs  # Replace with the actual path to the submodule in Tinkerverse
+
+      # Step 4: Commit and push the changes to the Tinkerverse repo
+      - name: Commit and Push Changes
+        run: |
+          git add .
+          git commit -m "Updated TinkerDocs submodule"
+          git push origin main  # Adjust branch if necessary
