@@ -13,6 +13,9 @@ jobs:
       # Step 1: Checkout the TinkerDocs repo
       - name: Checkout TinkerDocs
         uses: actions/checkout@v3
+        with:
+          repository: nicholas-stull/tinkerdocs  # Update this to your GitHub username and repo
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 2: Checkout the Tinkerverse repository and initialize submodules
       - name: Checkout Tinkerverse with Submodules
@@ -27,9 +30,11 @@ jobs:
         run: |
           git submodule update --remote docs  # Replace with the actual path to the submodule in Tinkerverse
 
-      # Step 4: Commit and push the changes to the Tinkerverse repo
+      # Step 4: Commit and Push Changes
       - name: Commit and Push Changes
         run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add .
-          git commit -m "Updated TinkerDocs submodule"
+          git commit -m "Update TinkerDocs submodule" || echo "No changes to commit"
           git push origin main  # Adjust branch if necessary
