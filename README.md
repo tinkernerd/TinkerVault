@@ -1,4 +1,4 @@
-![Header](/99-Utilities/assets/header.png)
+![Header](https://raw.githubusercontent.com/Nicholas-Stull/TinkerDocs/main/.github/assets/banner.png)
 # TinkerDocs
 # Howdy I'm Nick
 
