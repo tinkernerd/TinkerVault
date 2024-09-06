@@ -3,7 +3,7 @@ tags: recipe
 created: 2005-12-05T19:43:58.000-05:00
 author: 
 url: https://www.simplyrecipes.com/recipes/homemade_ginger_ale/ 
-title:Homemade Ginger Ale
+title: Homemade Ginger Ale
 dg-publish: true
 type: Recipe
 ---
