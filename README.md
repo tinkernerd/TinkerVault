@@ -1,4 +1,4 @@
-![Header](../99-Utilities/assets/header.png)
+![Header](/99-Utilities/assets/header.png)
 # TinkerDocs
 # Howdy I'm Nick
 
