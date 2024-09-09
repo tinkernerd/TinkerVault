@@ -2,7 +2,6 @@
 title: Github
 dg-publish: true
 ---
-
 # Signing github releases
 [MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki)
 [Signed Commits. How to get the shiny “Verified” badge… | by Izaak Schroeder | Bootstart | Medium](https://medium.com/bootstart/signed-commits-ec2cab9e7254)
