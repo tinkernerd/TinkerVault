@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a6bb54ceb405d513",
+        "id": "e4d18065c54c549a",
         "type": "tabs",
         "children": [
           {
-            "id": "95ef4cfdf5ee0fe7",
+            "id": "314c77b87d4afb8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info-Tech/index.md",
+                "file": "Resources/resume.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info-Tech/index.md",
+                "file": "Resources/resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info-Tech/index.md",
+                "file": "Resources/resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info-Tech/index.md"
+                "file": "Resources/resume.md"
               }
             }
           },
@@ -138,374 +138,15 @@
             }
           },
           {
-            "id": "56a3b0605e823cbc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "34d5bbbb652ad7da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6cacb840a9e2cb0e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "389f6a83e4bfb723",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1939a41946bc8e56",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "94afd2b535b67837",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ee27069ed6f7f559",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dfe075eddc35f8ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ad82178d82923018",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5208daabf27ed6a1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d3d9a91a38e3821b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e9a88398c9a2a666",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "80656d67cbd25e6b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cb19db201a4ede57",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "75ab41c40b115d3a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8178f9bcc614ceeb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9837a2a595c9b998",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe3f9286c88d7dea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a255cf23b88cd1d0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6d2487b310100cc1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6c319770ce9b2f13",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2626609701c91f16",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "874ea4b27dcd05b7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8959237bad670539",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ca1170ddcbd0388e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dceff9a8b931f8db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "df98c5a70f86f3f9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "fed423f3bff409b4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f845405c3f17485e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "57b4dbf27fc4e48a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8bb5f26039647711",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9d19e2a26b682341",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6faec52d3ffc604c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "686d76c89f3a403a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d60fb733851e8da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3be0ed2469aeb9c0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1166006287dde132",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "231ba0ea4b2a8902",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "19d899b311ff7ce2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d33d299b886c4618",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "94f4d9366e5da2b4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4cf092e7f16b1f2d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f1bd16cf93aa47fc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "635fc42d5bf5e9b3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cbb71291271bff60",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9c38dbdb420e578a",
+            "id": "aff708d0bb3db461",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -523,56 +164,60 @@
       "recipe-grabber:Recipe Grabber": false,
       "templater-obsidian:Templater": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25669383a6f07ef2",
+  "active": "314c77b87d4afb8c",
   "lastOpenFiles": [
-    "Info-Tech/3D Printing/index.md",
-    "Untitled 1",
-    "Untitled",
-    "Info-Tech/3D Printing/PrintingMinis.md",
-    "Info-Tech/3D Printing/How To Change a 3D Printer Nozzle  MatterHackers.md",
-    "Info-Tech/3D Printing/3D Printer Bed Leveling Easy Step-by-Step Guide  All3DP.md",
-    "Info-Tech/3D Printing/The Olsson Ruby.md",
-    "Info-Tech/3D Printing/Calculate 3D printing costs.md",
-    "Resources/Glossary.md",
-    "Info-Tech/3D Printing/3D Printing Getting to Benchy with the Ender 3 – Rob Connolly's Blog.md",
-    "Resources/index.md",
-    "99-Utilities/resume.md",
-    "Resources/Bookmarks.md",
-    "README.md",
-    "Info-Tech/index.md",
-    "Info-Tech/Linux/Installs/Github.md",
-    "Info-Tech/Github/index.md",
-    "Photography/Photo Basics.md",
-    "Recipies/Drinks/Hot Coco.md",
-    "Recipies/Drinks/Homemade Ginger Ale.md",
-    "Recipies/Drinks/Hard Cider.md",
-    "Recipies/Drinks/Boozy Tea.md",
-    "Homemade Ginger Ale.md",
-    "Recipies/Drinks/Mead/Grapes.md",
-    "1725423843047.md",
+    "Info-Tech/Networking/Topologies.md",
+    "Info-Tech/Networking/Network.md",
+    "Info-Tech/Networking/Networking Resources.md",
+    "Info-Tech/Networking/Cloudflare.md",
+    "Aviation/PPL/ppl.md",
     "Untitled.canvas",
-    "glossary.md",
+    "Class Notes/ENST 112/SS01_W1.md",
+    "Info-Tech/Documentation/Documentation Site.md",
+    "Class Notes/ENST 112",
+    "Info-Tech/Documentation/Digital Garden.md",
+    "Info-Tech/JavaScript/JavaScript.md",
+    "Class Notes/Classes.md",
+    "Class Notes/ISYS 115/w1.md",
+    "Pasted image 20240908235531.png",
+    "Resources/Contact.md",
+    "Pasted image 20240908235533.png",
+    "class notes.md",
+    "Info-Tech/JavaScript/isys115/w1.md",
+    "Class Notes",
+    "Aviation/PPL/Ch6.md",
+    "Aviation/PPL/Ch5.md",
+    "Aviation/PPL/Ch3.md",
+    "Aviation/PPL/Ch4.md",
+    "Aviation/PPL/Ch2.md",
+    "Aviation/PPL/Ch1.md",
+    "Aviation/Weather.md",
+    "Aviation/Sectional Charts.md",
+    "Aviation/PPL",
+    "Aviation/Phonetic Alphabet.md",
+    "Aviation/Michigan Airport Examples.md",
+    "Aviation/EAA.md",
+    "Aviation/AOPA.md",
+    "Aviation",
+    "Recipies/Drinks/Mead",
+    "Info-Tech/JavaScript/isys115",
+    "assets/ec_174.jpg",
+    "assets/ec_174.pdf",
+    "Excalidraw",
+    "Untitled 1",
     "Photography",
-    "Fundamentals/Lights.md",
-    "Info-Tech/Parts",
-    "Fundamentals",
-    "HTML import",
-    "Aviation/PPL Notes",
-    "99-Utilities/attachments/Linux-Cheat-Sheet-Sponsored-By-Loggly.pdf",
-    "99-Utilities/attachments/LUOD.pdf",
-    "99-Utilities/attachments/LM_2016_Common_Legal_Citations_528474_7.pdf",
     "99-Utilities/attachments/wJjgiiv_d.webp",
     "99-Utilities/assets/uc.svg",
     "99-Utilities/assets/header.png",
     "99-Utilities/assets/header 1.png",
     "99-Utilities/attachments/7577066.png",
     "assets/wJjgiiv_d.webp",
-    "assets/uc.svg",
-    "assets/header.png",
-    "assets/7577066.png",
-    "99-Utilities/attachments/header.png"
+    "assets/uc.svg"
   ]
 }

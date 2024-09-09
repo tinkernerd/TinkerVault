@@ -1,8 +1,5 @@
 ---
-created: 
-tags: 
-source: 
-author:
+title: How to Unzip a File in Ubuntu
 ---
 
 # How to Unzip a File in Ubuntu

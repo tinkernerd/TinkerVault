@@ -1,8 +1,11 @@
 ---
 tags:
   - Networking
+dg-publish: true
+dg-pinned: "true"
 ---
-
+More Resources: 
+- 
 **Forums**
 [Linux Tech Tips](https://linustechtips.com/)
 [Lawrence Systems Forums](https://forums.lawrencesystems.com/)

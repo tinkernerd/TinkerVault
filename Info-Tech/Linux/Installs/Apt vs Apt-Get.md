@@ -1,8 +1,9 @@
 ---
 created: 2024-07-14T21:52:26 (UTC -04:00)
-tags: []
+tags: 
 source: https://phoenixnap.com/kb/apt-vs-apt-get
 author: Sofija Simic
+dg-publish: true
 ---
 
 # APT vs APT-GET: What's the Difference?

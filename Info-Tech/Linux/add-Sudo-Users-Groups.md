@@ -2,7 +2,8 @@
 created: 
 tags: 
 source: 
-author:
+author: 
+title: How to Add User to Sudoers or Sudo Group
 ---
 
 # How to Add User to Sudoers or Sudo Group 

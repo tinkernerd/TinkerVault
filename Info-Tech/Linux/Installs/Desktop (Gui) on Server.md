@@ -1,8 +1,9 @@
 ---
 created: 2024-07-14T21:53:06 (UTC -04:00)
-tags: []
+tags: 
 source: https://phoenixnap.com/kb/how-to-install-a-gui-on-ubuntu
 author: Marko Aleksic
+dg-publish: true
 ---
 
 # How to Install a Desktop (GUI) on an Ubuntu Server

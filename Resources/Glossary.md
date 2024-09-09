@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Glossary
 # LED
 Light-Emitting Diode

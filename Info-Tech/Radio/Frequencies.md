@@ -1,11 +1,11 @@
 ---
+dg-publish: true
 tags:
   - radio
   - Freq
   - aviation
   - ham
   - gmrs
----
 ---
 ## Aviation
 - [Airports (Berrien County) Scanner Frequencies and Radio Frequency Reference](https://www.radioreference.com/db/aid/7690)

@@ -1,8 +1,12 @@
+---
+dg-publish: true
+---
+
 The are many types of lights with a large array of function and quality. This document aims to become a definitive source of information for anyone looking for quality lights and lighting information. It is not a marketing guide produced by someone who has no theoretical or practical experience.
 
 First a short primer on electricity as it will be helpful later on
 
-Our focus is [LED] lights and understanding the general properties of light.
+Our focus is [LED](led) lights and understanding the general properties of light.
 
 [LED] lights are offered in a variety of formats, which we cover below.
 

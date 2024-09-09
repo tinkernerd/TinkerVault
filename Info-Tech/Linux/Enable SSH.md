@@ -1,8 +1,9 @@
 ---
 created: 2024-07-14T21:51:53 (UTC -04:00)
-tags: []
+tags: 
 source: https://phoenixnap.com/kb/how-to-enable-ssh-on-ubuntu
 author: Sofija Simic
+dg-publish: true
 ---
 
 # How to Enable SSH on Ubuntu

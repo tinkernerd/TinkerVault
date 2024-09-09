@@ -1,9 +1,7 @@
 ---
-created: 
-tags: 
-source: https://phoenixnap.com/kb/how-to-change-root-password-linux
-author:
+dg-publish: true
 ---
+
 # How to Change Password in Linux
 
 To change your password in [Linux](https://phoenixnap.com/kb/what-is-linux):

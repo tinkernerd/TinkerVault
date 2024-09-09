@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Info-Tech Section
 (Well, Here’s Your Go-To Spot)
 

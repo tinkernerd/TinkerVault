@@ -24,7 +24,7 @@ For reference, the following folder structure was used:
 
 ## Docker Setup
 
-See [this](/Info-Tech/Docker/Install/Linux_Install/) on how to install `docker` and `docker-compose`
+See [this](../../../Info-Tech/Linux/Installs/docker.md) on how to install `docker` and `docker-compose`
 
 ## Create Folders
 

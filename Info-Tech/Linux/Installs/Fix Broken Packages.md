@@ -1,8 +1,9 @@
 ---
 created: 2024-07-14T21:52:33 (UTC -04:00)
-tags: []
+tags: 
 source: https://phoenixnap.com/kb/ubuntu-fix-broken-packages
 author: Marko Aleksic
+dg-publish: true
 ---
 
 # How to Fix Broken Packages in Ubuntu 

@@ -73,15 +73,16 @@ graph TD
 
   <b>Types of Network:</b>
 
-| Network Type | Description |
-|--------------|-------------|
-| PAN          | Personal Area Network is a network consisting of only a small number of devices owned by an individual. |
-| LAN          | A Local Area Network is a network that covers a small area (for example, a company’s network). |
-| WAN          | A Wide Area Network is a network that includes many devices and covers a large area. Usually collectively owned. |
+| Network Type | Description                                                                                                                                                                  |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PAN          | Personal Area Network is a network consisting of only a small number of devices owned by an individual.                                                                      |
+| LAN          | A Local Area Network is a network that covers a small area (for example, a company’s network).                                                                               |
+| WAN          | A Wide Area Network is a network that includes many devices and covers a large area. Usually collectively owned.                                                             |
 | MAN          | MAN stands for Metropolitan Area Network. It is a computer network that connects a findnumber of LANs to form a larger network so that the computer resources can be shared. |
 
 
-    <b>IEEE Standards:</b>
+
+<b>IEEE Standards:</b>
 
 | Standards   | Description                                            |
 |-------------|--------------------------------------------------------|

@@ -4,6 +4,7 @@ created: 2024-07-16T20:37:51 (UTC -04:00)
 tags: []
 source: https://support.us.ovhcloud.com/hc/en-us/articles/360010916620-How-to-Create-a-VM-in-Proxmox-VE
 author: 
+dg-publish: true
 ---
 # Setup VM in Proxmox
 

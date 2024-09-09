@@ -1,6 +1,7 @@
 ---
 created: 2024-07-14T21:49:28 (UTC -04:00)
 tags: []
+title: Git
 source: https://phoenixnap.com/kb/how-to-install-git-on-ubuntu
 author: Sofija Simic
 ---

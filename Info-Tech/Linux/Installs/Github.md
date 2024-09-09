@@ -1,5 +1,5 @@
 ---
-title: Github Desktop Ubuntu
+title: Github Desktop
 ---
 # Install 
 

@@ -11,4 +11,4 @@ dg-show-inline-title: true
 ---
 
 **Michigan Airport Example (Dowagiac)**
-![[ec_174.pdf]]
+![[ec_174.jpg]]

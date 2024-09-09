@@ -1,8 +1,5 @@
 ---
-created: 2024-07-14T21:51:57 (UTC -04:00)
-tags: []
-source: https://phoenixnap.com/kb/how-to-change-hostname-on-ubuntu-18-04
-author: Dejan Tucakov
+title: How to Change Hostname on Ubuntu
 ---
 
 # How to Change Hostname on Ubuntu

@@ -1,12 +1,9 @@
 ---
 dg-publish: true
-dg-show-backlinks: false
-permalink: /bookmarks/
 dgPassFrontmatter: true
 tags:
   - bookmarks
   - Links
-  - medical
 ---
 ## 🖥 Homeserver
 

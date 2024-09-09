@@ -1,8 +1,9 @@
 ---
 created: 2024-07-14T21:54:25 (UTC -04:00)
-tags: []
+tags: 
 source: https://phoenixnap.com/kb/ubuntu-rdp-to-windows
 author: Vladimir Kaplarevic
+dg-publish: true
 ---
 
 # How to Connect to a Windows PC from Ubuntu using RDP

@@ -1,8 +1,9 @@
 ---
 created: 2024-07-14T21:54:36 (UTC -04:00)
-tags: []
+tags: 
 source: https://phoenixnap.com/kb/how-to-update-kernel-ubuntu
 author: Sara Zivanov
+dg-publish: true
 ---
 
 # How to Update Linux Kernel In Ubuntu

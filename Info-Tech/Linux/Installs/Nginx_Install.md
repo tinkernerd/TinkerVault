@@ -1,8 +1,9 @@
 ---
 created: 2024-07-14T21:52:10 (UTC -04:00)
-tags: []
+tags: 
 source: https://phoenixnap.com/kb/install-nginx-on-ubuntu
 author: Goran Jevtic
+dg-publish: true
 ---
 
 # How to Install NGINX on Ubuntu 18.04 

@@ -1,6 +1,7 @@
 ---
 created: 2024-07-14T21:54:52 (UTC -04:00)
 tags: []
+title: Samba
 source: https://phoenixnap.com/kb/ubuntu-samba
 author: Sara Zivanov
 ---

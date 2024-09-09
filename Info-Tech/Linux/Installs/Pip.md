@@ -1,6 +1,7 @@
 ---
 created: 2024-07-14T21:52:00 (UTC -04:00)
 tags: []
+title: PIP
 source: https://phoenixnap.com/kb/how-to-install-pip-on-ubuntu
 author: Dejan Tucakov
 ---

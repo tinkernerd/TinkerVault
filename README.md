@@ -1,3 +1,9 @@
+---
+dg-home: true
+dg-publish: true
+title: Nicholas Stull
+dg-pinned: "true"
+---
 ![Header](https://raw.githubusercontent.com/Nicholas-Stull/TinkerDocs/main/.github/assets/banner.png)
 # TinkerDocs
 # Howdy I'm Nick

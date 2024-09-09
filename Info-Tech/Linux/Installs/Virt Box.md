@@ -1,8 +1,9 @@
 ---
 created: 2024-07-14T21:55:30 (UTC -04:00)
-tags: []
+tags: 
 source: https://phoenixnap.com/kb/install-virtualbox-on-ubuntu
 author: Sara Zivanov
+dg-publish: true
 ---
 
 # How to Install VirtualBox on Ubuntu

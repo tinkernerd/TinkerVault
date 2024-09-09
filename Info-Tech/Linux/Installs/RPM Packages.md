@@ -1,8 +1,9 @@
 ---
 created: 2024-07-14T21:49:46 (UTC -04:00)
-tags: []
+tags: 
 source: https://phoenixnap.com/kb/install-rpm-packages-on-ubuntu
 author: Vladimir Kaplarevic
+dg-publish: true
 ---
 
 # How to Install RPM Packages on Ubuntu

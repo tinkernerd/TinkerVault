@@ -2,9 +2,10 @@
 tags:
   - "#radio"
   - antenna
+title: Antennas
 ---
 > [!info]
-> [Antenna Selection PDF](SRC/Antenna-Selection.pdf) 
+> [Antenna Selection PDF](../../assets/Antenna-Selection.pdf) 
 ## Aviation
 - [Aviation Base & Mobile Antennas: FBO, ADS-B, ACARS | DPD Productions](https://dpdproductions.com/collections/aviation-base-mobile-antennas)
 - [Air Omni UHF/VHF Aviation Base Antenna | DPD Productions](https://dpdproductions.com/collections/aviation-base-mobile-antennas/products/air-omni-uhf-vhf-base-antenna)

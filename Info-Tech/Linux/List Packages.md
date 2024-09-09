@@ -1,8 +1,9 @@
 ---
 created: 2024-07-14T21:53:09 (UTC -04:00)
-tags: []
+tags: 
 source: https://phoenixnap.com/kb/ubuntu-list-installed-packages
 author: Milica Dancuk
+dg-publish: true
 ---
 
 # How to List Installed Packages on Ubuntu | phoenixNAP KB

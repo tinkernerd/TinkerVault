@@ -16,7 +16,7 @@ https://docs.yehezgun.com/
 [Getting Started | Chirpy](https://chirpy.cotes.page/posts/getting-started/)
 
 **YouTube**
-[(1712) Meet Jekyll - The Static Site Generator - YouTube](https://www.youtube.com/watch?v=F8iOU1ci19Q)
+[(1712) Meet Jekyll - The Static Site Generator - YouTube]([Meet Jekyll - The Static Site Generator]([Meet Jekyll - The Static Site Generator](https://www.youtube.com/watch?v=F8iOU1ci19Q)))
 
 **Themes**
 [Docs Theme – Nextra](https://nextra.site/docs/docs-theme/start)

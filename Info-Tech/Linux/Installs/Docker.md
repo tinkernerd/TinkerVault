@@ -1,5 +1,5 @@
 ---
-title: Install Docker on Linux
+title: Docker
 created: 2024-07-14T16:01:04 (UTC -04:00)
 tags: [docker,install,script,ubuntu,docker,server,ubuntu,server,docker,install,docker,engine,ubuntu,install,docker,on,ubuntu,server,ubuntu,22.04,docker-ce,install,docker,engine,on,ubuntu,ubuntu,install,docker,ce,ubuntu,install,docker,engine]
 source: https://docs.docker.com/engine/install/ubuntu/

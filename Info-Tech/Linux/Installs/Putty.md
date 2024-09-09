@@ -3,6 +3,7 @@ created: 2024-07-14T21:52:37 (UTC -04:00)
 tags: []
 source: https://phoenixnap.com/kb/how-to-install-putty-on-ubuntu
 author: Bosko Marijan
+title: Putty
 ---
 
 # How to Install PuTTY on Ubuntu | phoenixNAP KB

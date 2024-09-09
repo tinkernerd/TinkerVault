@@ -1,8 +1,5 @@
 ---
-created: 2024-07-14T21:52:18 (UTC -04:00)
-tags: []
-source: https://phoenixnap.com/kb/how-to-set-or-change-timezone-date-time-ubuntu
-author: Vladimir Kaplarevic
+title: How To Set or Change Timezone/Date/Time
 ---
 
 # How To Set or Change Timezone/Date/Time

@@ -1,8 +1,9 @@
 ---
 created: 2024-07-14T21:49:54 (UTC -04:00)
-tags: []
+tags: 
 source: https://phoenixnap.com/kb/how-to-manage-packages-ubuntu-debian-apt-get
 author: Dejan Tucakov
+dg-publish: true
 ---
 
 # How to Manage Packages on Ubuntu With Apt
