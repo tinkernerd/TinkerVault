@@ -1,1 +1,0 @@
-- [How to Make Hard Cider: Homebrew it!](https://www.growforagecookferment.com/how-to-make-hard-cider-part-1-brew-it/)

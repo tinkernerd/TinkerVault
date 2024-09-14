@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info-Tech/Github/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71dce08347e390aa",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Info-Tech/Github/index.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0d4b9aebac05af48",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Info-Tech/Github/index.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "c3ae63fcd73d0daa",
             "type": "leaf",
             "state": {
@@ -120,17 +91,46 @@
             }
           },
           {
-            "id": "06cd48da14e34e5a",
+            "id": "412b611ef9092e37",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "Info-Tech/Github/index.md"
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c58dbe773dbdebf2",
+            "id": "01c7671e23270cdc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ae6162f4a105243",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "f96d2056059538d8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "aff708d0bb3db461",
+            "id": "d2f77a6eacdaa7e3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,19 +146,35 @@
             }
           },
           {
-            "id": "f2f4052744f5bc14",
+            "id": "b87a3b9d671f4257",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "468982a4d662f76a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d2c4ee8b636b4e3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,61 +187,58 @@
       "recipe-grabber:Recipe Grabber": false,
       "templater-obsidian:Templater": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bbf5fdef5e2a86fa",
+  "active": "25669383a6f07ef2",
   "lastOpenFiles": [
-    "Photography/Photo Basics.md",
-    "Recipies/Drinks/Homemade Ginger Ale.md",
-    "Recipies/Drinks/Hard Cider.md",
-    "Resources/resume.md",
-    "Info-Tech/Networking/Topologies.md",
-    "Info-Tech/Networking/Network.md",
-    "Info-Tech/Networking/Networking Resources.md",
-    "Info-Tech/Networking/Cloudflare.md",
-    "Aviation/PPL/ppl.md",
+    "attachments/cheatsheets/wJjgiiv_d.webp",
+    "attachments/cheatsheets/fish_cheat.png",
+    "attachments/cheatsheets/docker_cheatsheet.pdf",
+    "attachments/cheatsheets/Simplicity_TheFinerArtOfCreatingSoftware_CheatSheet_1Page.pdf",
+    "attachments/cheatsheets/Linux-Cheat-Sheet-Sponsored-By-Loggly 1.pdf",
+    "attachments/cheatsheets/Finxter_WorldsMostDensePythonCheatSheet.pdf",
+    "attachments/cheatsheets/CheatSheet-Python-7_-NumPy-1 1.pdf",
+    "attachments/cheatsheets/CheatSheet-Python-6_-Coding-Interview-Questions.pdf",
+    "attachments/cheatsheets/CheatSheet-Python-5_-Functions-and-Tricks.pdf",
+    "attachments/cheatsheets/CheatSheet-Python-4_-Classes.pdf",
+    "attachments/cheatsheets/CheatSheet-Python-2_-Data-Structures.docx.pdf",
+    "attachments/cheatsheets/CheatSheet-Python-1_-Keywords1.pdf",
+    "infotech/python/projects/turtlepy.md",
+    "infotech/python/projects/tkinter_search.md",
+    "infotech/python/projects/pymath.md",
+    "infotech/python/projects/pyage.md",
+    "infotech/python/projects/net-tools.md",
+    "infotech/linux/installs/virt_box.md",
+    "infotech/linux/installs/upzip.md",
+    "infotech/linux/installs/update_kernal.md",
+    "infotech/linux/installs/rpm.md",
+    "infotech/linux/installs/putty.md",
+    "infotech/linux/installs/pip.md",
+    "infotech/linux/installs/nginx.md",
+    "infotech/linux/installs/install_ubuntu.md",
+    "infotech/linux/installs/gui_on_server.md",
+    "infotech/linux/installs/github.md",
+    "infotech/linux/installs/git.md",
+    "infotech/linux/installs/etcher.md",
+    "infotech/linux/installs/docker.md",
+    "infotech/linux/installs/deb.md",
+    "infotech/linux/installs/apt_packages.md",
+    "infotech/linux/installs/Fix Broken Packages.md",
+    "infotech/docker/projects/weather_stations.md",
+    "infotech/docker/projects/vpn.md",
+    "infotech/docker/projects/traefik.md",
+    "infotech/docker/projects/sdr.md",
+    "attachments/Cheatsheets/wJjgiiv_d.webp",
+    "attachments/Cheatsheets/fish_cheat.png",
+    "attachments/fish_cheat.png",
+    "attachments/wJjgiiv_d.webp",
+    "attachments/ec_174.jpg",
+    "attachments/7577066.png",
     "Untitled.canvas",
-    "Class Notes/ENST 112/SS01_W1.md",
-    "Info-Tech/Documentation/Documentation Site.md",
-    "Class Notes/ENST 112",
-    "Info-Tech/Documentation/Digital Garden.md",
-    "Info-Tech/JavaScript/JavaScript.md",
-    "Class Notes/Classes.md",
-    "Class Notes/ISYS 115/w1.md",
     "Pasted image 20240908235531.png",
-    "Resources/Contact.md",
     "Pasted image 20240908235533.png",
-    "class notes.md",
-    "Info-Tech/JavaScript/isys115/w1.md",
-    "Class Notes",
-    "Aviation/PPL/Ch6.md",
-    "Aviation/PPL/Ch5.md",
-    "Aviation/PPL/Ch3.md",
-    "Aviation/PPL/Ch4.md",
-    "Aviation/PPL/Ch2.md",
-    "Aviation/PPL/Ch1.md",
-    "Aviation/Weather.md",
-    "Aviation/Sectional Charts.md",
-    "Aviation/PPL",
-    "Aviation",
-    "Recipies/Drinks/Mead",
-    "Info-Tech/JavaScript/isys115",
-    "assets/ec_174.jpg",
-    "assets/ec_174.pdf",
-    "Excalidraw",
-    "Untitled 1",
-    "Photography",
-    "99-Utilities/attachments/wJjgiiv_d.webp",
-    "99-Utilities/assets/uc.svg",
-    "99-Utilities/assets/header.png",
-    "99-Utilities/assets/header 1.png",
-    "99-Utilities/attachments/7577066.png",
-    "assets/wJjgiiv_d.webp",
-    "assets/uc.svg"
+    "assets/ec_174.jpg"
   ]
 }
