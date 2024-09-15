@@ -31,7 +31,7 @@ _|_|______________
 - Chapters 1-6 covering everything from pre-flight checks to the joys of solo flights.
   
 ### Airports:
-- [Michigan Airport Example](mi_airport_ex.md)
+- [Michigan Airport Example](dow_air.md)
     
 ### Weather:
 - [Understanding Aviation Weather](weather.md)

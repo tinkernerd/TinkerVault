@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "",
+      "query": "[\"topic\": Fishing]",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 6070742
+      }
+    },
+    {
+      "query": "[\"Type\": Recipies]",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
@@ -41,11 +48,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "collapse-forces": false,
+  "centerStrength": 0.427083333333333,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6586600406820573,
-  "close": false
+  "scale": 0.46980604522841535,
+  "close": true
 }

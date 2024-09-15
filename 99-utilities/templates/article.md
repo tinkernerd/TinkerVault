@@ -1,7 +1,8 @@
 ---
 title: 
-date: {{date}}
 source: 
+author:
 ---
-# Title
-{% include 'not_my_work.md' %}
+# {{page.meta.title}}
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.

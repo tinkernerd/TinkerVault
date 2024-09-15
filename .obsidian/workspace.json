@@ -18,33 +18,20 @@
             }
           },
           {
-            "id": "8210109cc8ac566a",
+            "id": "826e321d88580ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/enviromental_sci/index.md",
+                "file": "aviation/dow_air.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce0356c0249018c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fishing/fishing_cheat.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ham radio cheat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,12 +103,20 @@
             }
           },
           {
-            "id": "227cd9121558b2cb",
+            "id": "03f6a985c7776477",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c881880dba084ee1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fishing/fishing_cheat.md",
+                "file": "aviation/dow_air.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,36 +128,37 @@
             }
           },
           {
-            "id": "5a142ef8ea84bfdf",
+            "id": "4597ac03db706720",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fishing/fishing_cheat.md",
+                "file": "aviation/dow_air.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "adf5cbe0bce54758",
+            "id": "61a3c69b759cf092",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "fishing/fishing_cheat.md"
+                "file": "aviation/dow_air.md"
               }
             }
           },
           {
-            "id": "1e6d3f3a6e10116f",
+            "id": "522a0f72b50a80e3",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,60 +177,60 @@
       "templater-obsidian:Templater": false,
       "obsidian-importer:Open Importer": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "ce0356c0249018c4",
+  "active": "25669383a6f07ef2",
   "lastOpenFiles": [
-    "fishing/bass/bass_lure_cheatsheet.md",
-    "README.md",
-    "fishing/fishing_cheat.md",
-    "fishing/index.md",
-    "classes/enviromental_sci/index.md",
-    "classes/enviromental_sci/SS01_W1.md",
-    "aviation/notes/index.md",
-    "aviation/notes/ch6.md",
-    "aviation/notes/ch5.md",
-    "aviation/notes/ch4.md",
-    "aviation/notes/ch3.md",
-    "aviation/notes/ch2.md",
-    "aviation/notes/ch1.md",
-    "aviation/aopa.md",
-    "aviation/metar.md",
-    "aviation/phonetic_alphabet.md",
-    "aviation/sectional_charts.md",
-    "aviation/weather.md",
-    "aviation/mi_airport_ex.md",
-    "aviation/index.md",
-    "aviation/airventure.md",
-    "tech/networking/vpn.md",
-    "99-utilities/templates/note.md",
-    "resources/resume.md",
-    "99-utilities/templates/article.md",
-    "Photography/Photo Basics.md",
+    "99-utilities/templates/css/wrap.css",
+    "99-utilities/templates/css",
+    "99-utilities/templates/js/metar.js",
+    "99-utilities/templates/js",
     "Untitled.canvas",
-    "Class Notes/ENST 112",
+    "aviation/dow_air.md",
+    "tech/radio/bands.md",
+    "tech/ai/index.md",
+    "fishing/bass/bass_lure_cheatsheet.md",
+    "tech/ai/prompting_openai.md",
+    "tech/ai/openai_pyapi.md",
+    "tech/ai/openai_glossary.md",
+    "tech/python/cheatsheets/keywords.md",
+    "tech/python/cheatsheets/numpy.md",
+    "tech/docker/cheatsheet.md",
+    "tech/python/cheatsheets/classes.md",
+    "attachments/cheatsheets/CheatSheet-Python-1_-Keywords1.pdf",
+    "tech/python/cheatsheets/coding_interview.md",
+    "tech/python/cheatsheets/index.md",
+    "attachments/cheatsheets/Simplicity_TheFinerArtOfCreatingSoftware_CheatSheet_1Page.pdf",
+    "attachments/cheatsheets/Finxter_WorldsMostDensePythonCheatSheet.pdf",
+    "attachments/cheatsheets/CheatSheet-Python-7_-NumPy-1 1.pdf",
+    "attachments/cheatsheets/CheatSheet-Python-6_-Coding-Interview-Questions.pdf",
+    "attachments/cheatsheets/CheatSheet-Python-5_-Functions-and-Tricks.pdf",
+    "attachments/cheatsheets/CheatSheet-Python-4_-Classes.pdf",
+    "tech/docker/terminal.md",
+    "tech/docker/networking.md",
+    "tech/docker/index.md",
+    "tech/Untitled.md",
+    "tech/python/cheatsheets/funtions_tricks.md",
+    "tech/python/cheatsheets/basic_data_types.md",
+    "tech/docker/compose_template.md",
+    "tech/linux/cheatsheet.md",
+    "tech/radio/antennas.md",
+    "tech/radio/types.md",
+    "tech/radio/frequencies.md",
+    "tech/radio/antenna_selection.md",
+    "attachments/ec_174.jpg",
+    "attachments/c91.jpg",
+    "attachments/dow.jpg",
     "Pasted image 20240908235531.png",
     "Pasted image 20240908235533.png",
-    "Class Notes",
-    "Aviation/PPL",
-    "Aviation",
-    "Recipies/Drinks/Mead",
-    "Info-Tech/JavaScript/isys115",
     "assets/ec_174.jpg",
-    "assets/ec_174.pdf",
-    "Excalidraw",
-    "Untitled 1",
-    "Photography",
     "99-Utilities/attachments/wJjgiiv_d.webp",
     "99-Utilities/assets/uc.svg",
     "99-Utilities/assets/header.png",
-    "99-Utilities/assets/header 1.png",
-    "99-Utilities/attachments/7577066.png",
-    "assets/wJjgiiv_d.webp",
-    "assets/uc.svg"
+    "99-Utilities/assets/header 1.png"
   ]
 }
