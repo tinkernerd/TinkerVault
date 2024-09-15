@@ -1,6 +1,7 @@
 ---
-
 title: Chapter 5 – Your Solo Cross Countries
+topic:
+  - Aviation
 ---
 # Chapter 5 – Your Solo Cross Countries
 

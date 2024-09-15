@@ -1,0 +1,28 @@
+/* Custom Contact Page Styles */
+h1 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+a {
+  color: #4CAF50;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #388E3C;
+  text-decoration: underline;
+}
+
+div.contact-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div.contact-links a {
+  margin: 0.5em 0;
+  font-size: 1.2em;
+}

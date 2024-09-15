@@ -1,6 +1,7 @@
 ---
-
 title: Chapter 1 – Your First Few Hours
+topic:
+  - Aviation
 ---
 # Chapter 1 – Your First Few Hours
 

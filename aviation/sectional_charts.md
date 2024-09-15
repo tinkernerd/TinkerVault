@@ -5,10 +5,7 @@ tags:
   - aviation
 dateCreated: 2024-04-09
 title: Sectional Charts
-
-dg-show-backlinks: true
-dgPassFrontmatter: true
-dg-show-inline-title: true
+topic: Aviation
 ---
 # Sectional Chart
 ## Information

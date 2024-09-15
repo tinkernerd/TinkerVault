@@ -4,11 +4,9 @@ tags:
   - aviation
   - flight
 dateCreated: 2024-04-09
-
-dg-show-backlinks: true
-dgPassFrontmatter: true
-dg-show-inline-title: true
 title: Michigan Airport Examples
+topic:
+  - Aviation
 ---
 
 **Michigan Airport Example (Dowagiac)**

@@ -1,5 +1,7 @@
 ---
-title: "Private Pilots License (PPL)"
+title: Private Pilots License (PPL)
+topic:
+  - Aviation
 ---
 # Private Pilots License (PPL)
 ___

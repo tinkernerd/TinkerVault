@@ -1,5 +1,7 @@
 ---
-title: "Aviation Adventures"
+title: Aviation Adventures
+topic:
+  - Aviation
 ---
 # ✈️ Welcome to Aviation Adventures! ✈️
 ___

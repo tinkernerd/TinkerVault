@@ -4,10 +4,8 @@ tags:
   - aviation
   - aopa
 dateCreated: 2024-04-09
-
-dg-show-backlinks: true
-dgPassFrontmatter: true
-dg-show-inline-title: true
+topic:
+  - Aviation
 title: AOPA
 ---
 # AOPA

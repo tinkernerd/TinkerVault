@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "5525810906837c8e",
+        "id": "2cd032310d33b1ab",
         "type": "tabs",
         "children": [
           {
-            "id": "bbf5fdef5e2a86fa",
+            "id": "6a9460f63935b7d1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "8210109cc8ac566a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "classes/enviromental_sci/index.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce0356c0249018c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fishing/fishing_cheat.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,12 +116,12 @@
             }
           },
           {
-            "id": "412b611ef9092e37",
+            "id": "227cd9121558b2cb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "fishing/fishing_cheat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,61 +133,29 @@
             }
           },
           {
-            "id": "01c7671e23270cdc",
+            "id": "5a142ef8ea84bfdf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "fishing/fishing_cheat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2ae6162f4a105243",
+            "id": "adf5cbe0bce54758",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "fishing/fishing_cheat.md"
               }
             }
           },
           {
-            "id": "f96d2056059538d8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2f77a6eacdaa7e3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b87a3b9d671f4257",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "468982a4d662f76a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8d2c4ee8b636b4e3",
+            "id": "1e6d3f3a6e10116f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,58 +180,61 @@
       "recipe-grabber:Recipe Grabber": false,
       "templater-obsidian:Templater": false,
       "obsidian-importer:Open Importer": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "25669383a6f07ef2",
+  "active": "ce0356c0249018c4",
   "lastOpenFiles": [
-    "attachments/cheatsheets/wJjgiiv_d.webp",
-    "attachments/cheatsheets/fish_cheat.png",
-    "attachments/cheatsheets/docker_cheatsheet.pdf",
-    "attachments/cheatsheets/Simplicity_TheFinerArtOfCreatingSoftware_CheatSheet_1Page.pdf",
-    "attachments/cheatsheets/Linux-Cheat-Sheet-Sponsored-By-Loggly 1.pdf",
-    "attachments/cheatsheets/Finxter_WorldsMostDensePythonCheatSheet.pdf",
-    "attachments/cheatsheets/CheatSheet-Python-7_-NumPy-1 1.pdf",
-    "attachments/cheatsheets/CheatSheet-Python-6_-Coding-Interview-Questions.pdf",
-    "attachments/cheatsheets/CheatSheet-Python-5_-Functions-and-Tricks.pdf",
-    "attachments/cheatsheets/CheatSheet-Python-4_-Classes.pdf",
-    "attachments/cheatsheets/CheatSheet-Python-2_-Data-Structures.docx.pdf",
-    "attachments/cheatsheets/CheatSheet-Python-1_-Keywords1.pdf",
-    "infotech/python/projects/turtlepy.md",
-    "infotech/python/projects/tkinter_search.md",
-    "infotech/python/projects/pymath.md",
-    "infotech/python/projects/pyage.md",
-    "infotech/python/projects/net-tools.md",
-    "infotech/linux/installs/virt_box.md",
-    "infotech/linux/installs/upzip.md",
-    "infotech/linux/installs/update_kernal.md",
-    "infotech/linux/installs/rpm.md",
-    "infotech/linux/installs/putty.md",
-    "infotech/linux/installs/pip.md",
-    "infotech/linux/installs/nginx.md",
-    "infotech/linux/installs/install_ubuntu.md",
-    "infotech/linux/installs/gui_on_server.md",
-    "infotech/linux/installs/github.md",
-    "infotech/linux/installs/git.md",
-    "infotech/linux/installs/etcher.md",
-    "infotech/linux/installs/docker.md",
-    "infotech/linux/installs/deb.md",
-    "infotech/linux/installs/apt_packages.md",
-    "infotech/linux/installs/Fix Broken Packages.md",
-    "infotech/docker/projects/weather_stations.md",
-    "infotech/docker/projects/vpn.md",
-    "infotech/docker/projects/traefik.md",
-    "infotech/docker/projects/sdr.md",
-    "attachments/Cheatsheets/wJjgiiv_d.webp",
-    "attachments/Cheatsheets/fish_cheat.png",
-    "attachments/fish_cheat.png",
-    "attachments/wJjgiiv_d.webp",
-    "attachments/ec_174.jpg",
-    "attachments/7577066.png",
+    "fishing/bass/bass_lure_cheatsheet.md",
+    "README.md",
+    "fishing/fishing_cheat.md",
+    "fishing/index.md",
+    "classes/enviromental_sci/index.md",
+    "classes/enviromental_sci/SS01_W1.md",
+    "aviation/notes/index.md",
+    "aviation/notes/ch6.md",
+    "aviation/notes/ch5.md",
+    "aviation/notes/ch4.md",
+    "aviation/notes/ch3.md",
+    "aviation/notes/ch2.md",
+    "aviation/notes/ch1.md",
+    "aviation/aopa.md",
+    "aviation/metar.md",
+    "aviation/phonetic_alphabet.md",
+    "aviation/sectional_charts.md",
+    "aviation/weather.md",
+    "aviation/mi_airport_ex.md",
+    "aviation/index.md",
+    "aviation/airventure.md",
+    "tech/networking/vpn.md",
+    "99-utilities/templates/note.md",
+    "resources/resume.md",
+    "99-utilities/templates/article.md",
+    "Photography/Photo Basics.md",
     "Untitled.canvas",
+    "Class Notes/ENST 112",
     "Pasted image 20240908235531.png",
     "Pasted image 20240908235533.png",
-    "assets/ec_174.jpg"
+    "Class Notes",
+    "Aviation/PPL",
+    "Aviation",
+    "Recipies/Drinks/Mead",
+    "Info-Tech/JavaScript/isys115",
+    "assets/ec_174.jpg",
+    "assets/ec_174.pdf",
+    "Excalidraw",
+    "Untitled 1",
+    "Photography",
+    "99-Utilities/attachments/wJjgiiv_d.webp",
+    "99-Utilities/assets/uc.svg",
+    "99-Utilities/assets/header.png",
+    "99-Utilities/assets/header 1.png",
+    "99-Utilities/attachments/7577066.png",
+    "assets/wJjgiiv_d.webp",
+    "assets/uc.svg"
   ]
 }

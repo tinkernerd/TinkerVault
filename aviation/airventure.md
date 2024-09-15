@@ -10,7 +10,6 @@ type: Resource
 topic:
   - Aviation
   - Festival
-
 title: Airventure
 dateCreated: 2024-04-09
 dg-show-backlinks: true

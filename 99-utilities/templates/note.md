@@ -1,4 +1,5 @@
 ---
 title: 
-date: {{date}}
+topic: 
+dateCreated: {{date}}
 ---

@@ -5,8 +5,37 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:tech  ",
+      "color": {
+        "a": 1,
+        "rgb": 8735423
+      }
+    },
+    {
+      "query": "[\"topic\": Aviation]",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "[\"topic\": ENST112]",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6586600406820522,
+  "scale": 0.6586600406820573,
   "close": false
 }

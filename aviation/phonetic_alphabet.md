@@ -1,10 +1,8 @@
 ---
 title: Phonetic Alphabet
 dateCreated: 2024-04-09
-#
-#dg-show-backlinks: true
-#dgPassFrontmatter: true
-#dg-show-inline-title: true
+topic:
+  - Aviation
 ---
 # Phonetic Alphabet
 

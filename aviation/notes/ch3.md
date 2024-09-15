@@ -1,6 +1,7 @@
 ---
-
 title: Chapter 3 – Your First Solo
+topic:
+  - Aviation
 ---
 # Chapter 3 – Your First Solo
 

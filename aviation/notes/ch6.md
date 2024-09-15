@@ -1,6 +1,7 @@
 ---
-
 title: Chapter 6 – Your Private Pilot Test
+topic:
+  - Aviation
 ---
 # Chapter 6 – Your Private Pilot Test
 
