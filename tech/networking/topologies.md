@@ -1,3 +1,6 @@
+---
+title: Network Topologies
+---
 # Network Topologies
 ## Bus Topology
 This creates a simple network topology with an Internet connection, a firewall, a switch, and three computers.

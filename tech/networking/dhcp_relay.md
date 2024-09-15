@@ -4,6 +4,7 @@ tags:
   - DHCP
   - DHPC/Relay
   - "#OPNsense"
+title: DHCP Relay
 ---
 
 **Forums**

@@ -7,8 +7,10 @@ tags:
   - Compose
   - "#Networking"
   - DDNS
+title: DDNS
 ---
-[LinuxServer.io](https://www.LinuxServer.io) [LinuxServer Docs](https://docs.linuxserver.io/)
+# DDNS
+- [LinuxServer.io](https://www.LinuxServer.io) [LinuxServer Docs](https://docs.linuxserver.io/)
 ___
 - [favonia/cloudflare-ddns: 🌟 A small, feature-rich, and robust Cloudflare DDNS updater](https://github.com/favonia/cloudflare-ddns)
 - [ddclient - LinuxServer.io](https://docs.linuxserver.io/images/docker-ddclient/#application-setup)

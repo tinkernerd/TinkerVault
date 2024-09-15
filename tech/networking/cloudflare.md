@@ -2,6 +2,7 @@
 tags:
   - Cloudflare
   - Networking
+title: Cloudflare
 ---
 
 - [Dynamically update DNS records · Cloudflare DNS docs](https://developers.cloudflare.com/dns/manage-dns-records/how-to/managing-dynamic-ip-addresses/)

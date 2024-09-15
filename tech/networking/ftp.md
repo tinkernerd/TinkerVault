@@ -3,8 +3,9 @@ created: 2024-07-14T21:54:40 (UTC -04:00)
 tags: []
 source: https://phoenixnap.com/kb/install-ftp-server-on-ubuntu-vsftpd
 author: Bosko Marijan
+title: FTP Server
 ---
-
+{% include "not_my_work.md" %}
 # How to Install FTP Server on Ubuntu with vsftpd
 
 > ## Excerpt
