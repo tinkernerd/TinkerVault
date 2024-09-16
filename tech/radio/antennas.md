@@ -3,6 +3,9 @@ tags:
   - "#radio"
   - antenna
 title: Antennas
+topic:
+  - Tech
+  - Radio
 ---
 # Antennas
 > [!info]

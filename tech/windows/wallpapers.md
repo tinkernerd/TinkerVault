@@ -1,5 +1,11 @@
 ---
 title: Wallpaper Resources
+topic:
+  - Windows
+  - Tech
+tags:
+  - Windows
+  - wallpaper
 ---
 # Wallpaper Resources
 ## Links

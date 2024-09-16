@@ -15,7 +15,6 @@ title: Weather
 # Weather
 [Windy: Wind map & weather forecast](https://www.windy.com/?41.718,-86.880,7)
 
-Sure! Here's a fun and informative weather page to get you started:
 
 # ☀️ Weather for Pilots ☁️
 ___
@@ -57,6 +56,7 @@ Understanding the weather is crucial to any pilot, whether you're flying VFR or 
 ## 🌦 Key Weather Concepts for Pilots:
 
 ### 1. **METAR & TAF Reports**
+- For [Up to Date Metar](metar.md)
 - **METAR**: Meteorological Aerodrome Report, giving real-time weather information.
 - **TAF**: Terminal Aerodrome Forecast, providing forecasted conditions for the next 24 hours.
   

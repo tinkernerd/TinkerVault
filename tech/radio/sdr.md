@@ -6,6 +6,9 @@ tags:
   - public-service
   - trunked
 title: SDR
+topic:
+  - Radio
+  - Tech
 ---
 ## Guides:
 - [Quick Start Guide](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/)

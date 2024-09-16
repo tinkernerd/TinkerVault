@@ -2,6 +2,7 @@
 title: Hard Apple Cider
 source: https://www.growforagecookferment.com/how-to-make-hard-cider-part-1-brew-it/
 author: Colleen Codekas
+type: Recipie
 ---
 
 # [Hard Apple Cider](https://www.growforagecookferment.com/how-to-make-hard-cider-part-1-brew-it/)

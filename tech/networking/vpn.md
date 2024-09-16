@@ -1,8 +1,9 @@
 ---
 title: VPN
 topic:
-  - VPN
-  - Docker
+- Tech
+- VPN
+- Networking
 ---
 # VPN
 ## Tailscale

@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:tech  ",
-      "color": {
-        "a": 1,
-        "rgb": 8735423
-      }
-    },
-    {
       "query": "[\"topic\": Aviation]",
       "color": {
         "a": 1,
@@ -22,7 +15,7 @@
       }
     },
     {
-      "query": "[\"topic\": ENST112]",
+      "query": "[\"type\":ClassNote]",
       "color": {
         "a": 1,
         "rgb": 11392604
@@ -36,10 +29,52 @@
       }
     },
     {
-      "query": "[\"Type\": Recipies]",
+      "query": "[\"Type\": Recipie]",
       "color": {
         "a": 1,
         "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#3dprinting  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "[\"topic\": Photography]",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "tag:#radio ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "tag:#linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "tag:#Arduino  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#docker  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
       }
     }
   ],
@@ -53,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.46980604522841535,
-  "close": true
+  "scale": 0.23901940942695907,
+  "close": false
 }

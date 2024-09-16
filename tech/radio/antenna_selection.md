@@ -3,9 +3,11 @@ tit: A Simple Guide to Antenna Selection
 topic:
   - Radio
   - Antennas
+  - Tech
 tags:
   - radio
   - antenna
+type: Article
 ---
 # A Simple Guide to Antenna Selection
 Selecting an antenna for testing can sometimes be straightforward but often requires some specific consideration.   One aspect in antenna selection is knowing the intended test frequencies and then selecting a matching antenna.  

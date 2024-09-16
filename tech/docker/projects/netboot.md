@@ -1,5 +1,8 @@
 ---
 title: Netboot XYZ
+tags:
+  - docker
+  - Networking
 ---
 # NetBoot XYZ
 ----

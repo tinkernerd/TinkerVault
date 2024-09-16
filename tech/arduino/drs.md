@@ -7,6 +7,10 @@ tags:
   - Small
   - Prototyping
 title: Digital Read Serial
+type: Article
+topic:
+  - Arduino
+  - Tech
 ---
 # [Digital Read Serial | Arduino Documentation](https://docs.arduino.cc/built-in-examples/basics/DigitalReadSerial/)
 

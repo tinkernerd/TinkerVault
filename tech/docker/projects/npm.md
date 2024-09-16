@@ -1,5 +1,8 @@
 ---
 title: Nginx Proxy Manager
+tags:
+  - docker
+  - Nginx
 ---
 # Nginx Proxy Manager
 ___

@@ -1,5 +1,4 @@
 ---
-
 title: OpenAI Glossary Cheat Sheet
 author: Finxter
 source: https://blog.finxter.com/openai-glossary/
@@ -8,11 +7,13 @@ date: 2024-09-15
 tags:
   - AI
   - Glossary
-  - Cheat Sheet
-  - Machine Learning
+  - Cheat
+  - Sheet
+  - Machine
+  - Learning
   - OpenAI
 license: CC BY-NC-SA 4.0
-version: 1.0
+version: 1
 categories:
   - Artificial Intelligence
   - Machine Learning
@@ -21,17 +22,20 @@ related_topics:
   - Transformers
   - Neural Networks
   - Natural Language Processing
-audience: 
+audience:
   - AI Enthusiasts
   - Developers
   - Data Scientists
   - Machine Learning Practitioners
-keywords: 
+keywords:
   - AI Glossary
   - AGI
   - NLP
   - Transformers
   - OpenAI Terminology
+topic:
+  - Tech
+  - Ai
 ---
 
 # OpenAI Glossary Cheat Sheet

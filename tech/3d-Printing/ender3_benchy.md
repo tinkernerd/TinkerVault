@@ -1,6 +1,36 @@
 ---
-title: Benchy with the Ender 3
+title: Getting to Benchy with the Ender 3
+author: WebWorxShop
+source: https://webworxshop.com/3d-printing-getting-to-benchy-with-the-ender-3/
+description: A guide on how to achieve a successful Benchy print with the Ender 3, covering printer setup, calibration, and troubleshooting common issues.
+date: 2024-09-15
+tags:
+  - Ender
+  - Benchy
+  - Print
+  - Printer
+  - Calibration
+  - 3dprinting
+categories:
+  - 3D Printing, Tech
+related_topics:
+  - Ender 3 Setup
+  - Calibration for 3D Printing
+  - Troubleshooting Prints
+audience:
+  - 3D printing enthusiasts and Ender 3 users
+keywords:
+  - Ender 3 Benchy Print
+  - Ender 3 Calibration
+  - 3D Printing Setup Guide
+license: CC-BY-SA
+version: 1
+topic:
+  - Tech
 ---
+
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 # 3D Printing Getting to Benchy with the Ender 3 – Rob Connolly's Blog
 I recently bought a 3D printer in the form of a [Creality Ender 3](http://s.click.aliexpress.com/e/Ew0J8ezw). I thought I would take the time to document how I got up and running, since this area is completely new to me. Hopefully this will be useful to those who are just starting out in 3D printing, specifically with the Ender 3. It’s not going to be a complete guide, but more of a high level overview of the steps I took. I’ll link to more detailed instructions where relevant.
 

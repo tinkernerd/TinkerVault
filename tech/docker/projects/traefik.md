@@ -1,6 +1,24 @@
 ---
-title: Traefik
+title: Traefik 3
+author: Techno Tim
+source: https://technotim.live/posts/traefik-3-docker-certificates/
+description: A guide on configuring Traefik 3 with Docker and handling SSL certificates.
+date: 2024-09-15
+tags:
+  - tech
+  - traefik
+  - docker
+  - ssl
+  - certificates
+categories:
+  - Networking
+  - Docker
+topic:
+  - Tech
+  - Docker
 ---
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 
 # Traefik
 📺 [Watch Video](https://www.youtube.com/watch?v=n1vOfdz5Nm8)

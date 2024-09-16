@@ -1,5 +1,8 @@
 ---
 title: Weather Station
+tags:
+  - docker
+  - weather
 ---
 # Weather Station
 ___

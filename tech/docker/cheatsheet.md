@@ -7,30 +7,14 @@ date: 2024-09-15
 tags:
   - Docker
   - CLI
-  - Cheat Sheet
+  - Cheat
+  - Sheet
   - Containers
   - DevOps
-license: CC BY-NC-SA 4.0
-version: 1.0
-categories:
-  - DevOps
-  - Containerization
+type: Article
+topic:
   - Docker
-related_topics:
-  - Docker Images
-  - Container Management
-  - Docker Networking
-  - Docker Hub
-audience: 
-  - Developers
-  - DevOps Engineers
-  - System Administrators
-  - Programmers
-keywords: 
-  - Docker Commands
-  - Container Management
-  - Docker CLI Cheat Sheet
-  - Docker Image Management
+  - Tech
 ---
 # Docker CLI Cheat Sheet
 

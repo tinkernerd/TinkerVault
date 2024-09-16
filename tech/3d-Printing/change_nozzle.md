@@ -1,7 +1,36 @@
 ---
-title: Change a 3D Printer Nozzle
+title: How to Change a 3D Printer Nozzle
+author: MatterHackers
+source: https://www.matterhackers.com/articles/how-to-change-a-3d-printer-nozzle
+description: A guide on how to change the nozzle on a 3D printer, covering necessary tools, step-by-step instructions, and best practices.
+date: 2024-09-15
+tags:
+  - Printer
+  - Maintenance
+  - Nozzle
+  - Replacement
+  - 3dprinting
+categories:
+  - 3D Printing
+related_topics:
+  - 3D Printer Calibration
+  - 3D Printer Upgrades
+  - Printer Nozzle Care
+audience:
+  - 3D printing hobbyists and professionals
+keywords:
+  - 3D Printer Nozzle Change
+  - MatterHackers Guide
+  - 3D Printer Maintenance
+license: CC-BY-SA
+version: 1
+topic:
+  - Tech
 ---
-#  How To Change a 3D Printer Nozzle  MatterHackers
+# How To Change a 3D Printer Nozzle\
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
+
 ![Nozzle](https://lh3.googleusercontent.com/kpnCE_zghwlAQY_V184k3zxmiB-7LVr421kgP0rB4a6CnxiJoMGulr0x0yKe86wHV4M-mX9_MiR73oGgFHZKIVhdeg=w80-h80-pp-e365 "Nozzle")
 
 Changing your 3D printer nozzle is quick and easy when you follow these simple steps.

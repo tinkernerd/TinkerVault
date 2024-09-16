@@ -8,10 +8,12 @@ tags:
   - Python
   - OpenAI
   - API
-  - Cheat Sheet
-  - AI Models
+  - Cheat
+  - Sheet
+  - AI
+  - Models
 license: CC BY-NC-SA 4.0
-version: 1.0
+version: 1
 categories:
   - Artificial Intelligence
   - Python
@@ -21,16 +23,18 @@ related_topics:
   - DALL-E
   - OpenAI API
   - Image Generation
-audience: 
+audience:
   - Python Developers
   - AI Enthusiasts
   - Data Scientists
   - Developers
-keywords: 
+keywords:
   - OpenAI API Cheat Sheet
   - GPT-4 API
   - Python OpenAI API
   - DALL-E
+topic:
+  - Tech
 ---
 
 # Python OpenAI API Cheat Sheet

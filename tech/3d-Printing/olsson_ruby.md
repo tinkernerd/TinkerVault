@@ -1,7 +1,36 @@
 ---
-title: The Olsson Ruby
+title: Instructions
+author: OLSS Online
+source: https://olssonline.com/instructions/
+description: A set of instructions provided by OLSS Online, covering installation, operation, and maintenance for various products and systems.
+date: 2024-09-15
+tags:
+  - Instructions
+  - Installation
+  - Guide
+  - Operation
+  - Manual
+  - 3dprinting
+categories:
+  - Tech
+related_topics:
+  - Installation Procedures
+  - Maintenance Tips
+  - Product Manuals
+audience:
+  - OLSS product users and technicians
+keywords:
+  - OLSS Instructions
+  - Installation Guide
+  - Product Manual
+license: CC-BY-SA
+version: 1
+topic:
+  - Tech
 ---
 
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 # The Olsson Ruby instructions for use
 > ## Excerpt
 > Thank you for purchasing the Olsson Ruby Nozzle! The Olsson Ruby was made to be extra durable for printing abrasive materials but has proven to work excellently

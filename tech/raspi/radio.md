@@ -10,7 +10,9 @@ tags:
   - pi-hats
   - pihat
 title: Radio project
----
+topic:
+  - Tech
+  - Radio
 ---
 ## Ham Radio
 ### Portable Raspberry Pi 4 Amateur Radio Station*
@@ -28,6 +30,6 @@ title: Radio project
 
 ### Radio Scanner
 ### Keyboard Knob
-- [Rotary Encoder](Rotary-Encoder.md) to change Freq
+- [Rotary Encoder](rotary-encoder.md) to change Freq
 Parts
 - 7 In Screen

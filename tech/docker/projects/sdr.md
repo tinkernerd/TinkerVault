@@ -1,5 +1,9 @@
 ---
 title: SDR
+tags:
+  - radio
+  - sdr
+  - docker
 ---
 
 # SDR

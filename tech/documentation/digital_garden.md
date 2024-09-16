@@ -4,6 +4,9 @@ tags:
   - docs
   - documentation
 title: Digital Garden
+topic:
+  - Documentation
+  - Tech
 ---
 # Digital Garden 
 [Docs](https://dg-docs.ole.dev/)

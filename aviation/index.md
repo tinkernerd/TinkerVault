@@ -35,6 +35,7 @@ _|_|______________
     
 ### Weather:
 - [Understanding Aviation Weather](weather.md)
+- [For "Up to Date" Metar](metar.md)
     
 ### Sectional Charts:
 - [The Art of Sectional Charts](sectional_charts.md)

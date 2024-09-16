@@ -1,9 +1,36 @@
 ---
-title: Bed Leveling
+title: 3D Printer Bed Leveling Easy Step-by-Step Tutorial
+author: All3DP
 source: https://all3dp.com/2/3d-printer-bed-leveling-step-by-step-tutorial/
+description: A step-by-step tutorial on how to level a 3D printer bed, ensuring optimal print quality by adjusting the bed height and alignment.
+date: 2024-09-15
+tags:
+  - Calibration
+  - Bed
+  - Leveling
+  - 3dprinting
+categories:
+  - 3D Printing, Tech
+topic:
+  - 3d Printing
+  - Tech
+related_topics:
+  - 3D Printer Calibration
+  - 3D Printer Maintenance
+  - Bed Adhesion Techniques
+audience:
+  - 3D printing enthusiasts and technicians
+keywords:
+  - 3D Printer Bed Leveling
+  - Step-by-Step Guide
+  - Printer Calibration Tutorial
+license: CC-BY-SA
+version: 1
 ---
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 # 3D Printer Bed Leveling Easy Step-by-Step Guide
-{% include 'not_my_work.md' %}
+
 Manual 3D printer bed leveling can be a frustrating experience even for seasoned makers. However, as soon as you understand the basics of the process, you’ll easily master this useful skill. Here’s how to do it.
 
 ## 1. Create Some Workspace

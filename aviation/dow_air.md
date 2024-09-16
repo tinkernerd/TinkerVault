@@ -9,23 +9,26 @@ tags:
   - Michigan
   - Aviation
   - FAA
-  - Runway Information
+  - Runway
+  - Information
 license: Public Domain
-version: 1.0
+version: 1
 categories:
   - Aviation
   - Airport Data
 related_topics:
   - Michigan Airports
   - FAA Runway Information
-audience: 
+audience:
   - Pilots
   - Aviation Enthusiasts
   - Air Traffic Controllers
-keywords: 
+keywords:
   - Airports
   - Runways
   - Michigan Aviation
+topic:
+  - Aviation
 ---
 
 # Michigan Airport Information

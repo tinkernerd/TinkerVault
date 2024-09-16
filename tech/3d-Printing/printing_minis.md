@@ -1,11 +1,33 @@
 ---
-created: 2024-09-04T22:08:42 (UTC -04:00)
-tags: [printing]
+title: A Detailed Guide to Printing Your Minis
+author: Reddit User /r/PrintedMinis
 source: https://www.reddit.com/r/PrintedMinis/comments/68umnm/a_detailed_guide_to_printing_your_minis/
-author: EvilVargon
-title: Printing Mini's
+description: A detailed guide on how to print miniatures, covering optimal settings, supports, and techniques for achieving high-quality prints.
+date: 2024-09-15
+tags:
+  - Miniatures
+  - Guide
+  - 3dprinting
+categories:
+  - 3D Printing, Tech
+related_topics:
+  - Miniature Printing
+  - Resin Printing Techniques
+  - Support Structures
+audience:
+  - 3D printing enthusiasts, especially those interested in miniatures
+keywords:
+  - Miniature Printing Guide
+  - High-Quality 3D Prints
+  - 3D Printing Techniques
+license: CC-BY-SA
+version: 1
+topic:
+  - Tech
 ---
 
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 # A detailed guide to printing your minis! : r/PrintedMinis
 
 > ## Excerpt

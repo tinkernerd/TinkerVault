@@ -13,3 +13,9 @@ Howdy, I'm **Nick** or the Tinkering Nerd, This is my *2nd Brain,* *Digital Gard
 
 Currently, I am a Student at [Southwestern Michigan College](https://swmich.edu) heading towards a degree in [Information Technology.](https://csrc.nist.gov/glossary/term/information_technology) You'll see notes in here for programming, Including Python, PowerShell, or whatever I start and maybe finish. I also have notes on Docker, Raspberry pi's, 3D printing, Networking, Recipes, GitHub, Aviation, and what not. 
 
+# Contact Me
+
+Feel free to reach out or check out my work through the links below!
+
+[Email Me](mailto: nicholasp.stull@gmail.com) | [The Tinkering Nerd on GitHub](https://github.com/tinkernerd)
+

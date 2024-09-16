@@ -1,7 +1,21 @@
 ---
 title: How to Enable SSH on Ubuntu
+author: "Sofija Simic"
+source: https://phoenixnap.com/kb/how-to-enable-ssh-on-ubuntu
+description: "A step-by-step guide to enabling SSH on Ubuntu, covering installation, starting the SSH service, checking its status, and configuring firewall rules."
+date: "2020-08-07"
+tags: 
+  - ubuntu
+  - ssh
+  - linux
+  - server
+  - remote access
+topic:
+  - Linux
+  - Tech
 ---
-
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 # How to Enable SSH on Ubuntu
 
 > ## Excerpt

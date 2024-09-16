@@ -5,6 +5,9 @@ tags:
   - ham
   - MURS
 title: Types
+topic:
+  - Tech
+  - Radio
 ---
 # Types
 ## GMRS

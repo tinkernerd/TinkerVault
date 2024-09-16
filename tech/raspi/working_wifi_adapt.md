@@ -5,6 +5,10 @@ tags:
   - linux
   - "#Networking"
 title: Working Wi-Fi Adapters
+topic:
+  - Tech
+  - Wifi
+  - RaspberryPi
 ---
 ---
 # Working Wi-Fi Adapters

@@ -7,6 +7,9 @@ tags:
   - Remote
   - Remote-Access
 title: Active Directory
+topic:
+  - Windows
+  - Tech
 ---
 # Active Directory
 ## VPN

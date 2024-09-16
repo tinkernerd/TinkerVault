@@ -1,7 +1,35 @@
 ---
-title: Calculate 3D printing costs
+title: 3D Printing Price Calculator
+author: Prusa3D
+source: https://blog.prusa3d.com/3d-printing-price-calculator_38905/
+description: A guide to using the Prusa3D 3D printing price calculator, which helps estimate the cost of prints by factoring in material, machine wear, and electricity.
+date: 2024-09-15
+tags:
+  - Cost
+  - Estimation
+  - Price
+  - Calculator
+  - 3dprinting
+categories:
+  - 3D Printing, Tech
+related_topics:
+  - 3D Printing Costs
+  - Pricing Models
+  - Material Usage Estimation
+audience:
+  - 3D printing professionals and hobbyists
+keywords:
+  - 3D Printing Price Calculator
+  - Cost Estimation Guide
+  - Prusa3D Tool
+license: CC-BY-SA
+version: 1
+topic:
+  - Tech
 ---
 
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 # How to calculate 3D printing costs? - Original Prusa 3D Printers
 
 > ## Excerpt

@@ -1,9 +1,20 @@
 ---
 title: 3D Printing
+tags:
+  - 3dprinting
+topic:
+  - Tech
 ---
 # 3D Printing
 
-**STL Sources**
+## Resources
+- [Leveling the Bed](bed_leveling.md)
+- [Changing the Nozzle](change_nozzle.md)
+- [Calculating Costs](costs.md)
+- [Benchy on the Ender 3](ender3_benchy.md)
+- [Olsson Ruby Nozzle](olsson_ruby.md)
+- [Printing Mini's](printing_minis.md)
+## STL Sources
 [Printables](http://www.printables.com)
 [Thingiverse - Digital Designs for Physical Objects](https://www.thingiverse.com/)
 
@@ -23,6 +34,5 @@ title: 3D Printing
 [Ender 3 Test Print: Best Models to Challenge Your Ender 3 | All3DP](https://all3dp.com/2/ender-3-test-print-the-best-models-to-challenge-your-ender-3/)
 
 **Prusa:**  
-
 [Prusa Knowledge Base | First Layer Calibration](https://help.prusa3d.com/en/article/first-layer-calibration_112364)
 

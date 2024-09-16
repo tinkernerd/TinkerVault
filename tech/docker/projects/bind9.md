@@ -3,7 +3,7 @@ title: Bind9
 ---
 
 !!! note
-    This is a run throught from [ChristianLempa](https://www.youtube.com/@christianlempa/), I just felt he had a better way to explain it. 
+    This is a run through from [ChristianLempa](https://www.youtube.com/@christianlempa/), I just felt he had a better way to explain it. 
 
 
 # You want a real DNS Server at home? (bind9 + docker)

@@ -7,11 +7,13 @@ date: 2024-09-15
 tags:
   - OpenAI
   - ChatGPT
-  - Prompt Engineering
+  - Prompt
+  - Engineering
   - AI
-  - Cheat Sheet
+  - Cheat
+  - Sheet
 license: CC BY-NC-SA 4.0
-version: 1.0
+version: 1
 categories:
   - Artificial Intelligence
   - Natural Language Processing
@@ -19,15 +21,17 @@ related_topics:
   - Language Models
   - GPT Models
   - OpenAI API
-audience: 
+audience:
   - AI Developers
   - Data Scientists
   - Developers
   - AI Enthusiasts
-keywords: 
+keywords:
   - ChatGPT Prompting
   - OpenAI Cheat Sheet
   - Prompt Engineering Guide
+topic:
+  - Tech
 ---
 
 # ChatGPT Prompting Cheat Sheet

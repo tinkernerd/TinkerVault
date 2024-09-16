@@ -5,13 +5,17 @@ source: Provided PDF
 description: A reference chart detailing the US amateur radio bands, including frequency allocations, power limits, and license classes.
 date: 2024-09-15
 tags:
-  - Amateur Radio
-  - Radio Frequencies
-  - Cheat Sheet
-  - Band Plan
+  - Amateur
+  - Radio
+  - Radio
+  - Frequencies
+  - Cheat
+  - Sheet
+  - Band
+  - Plan
   - FCC
 license: CC BY-NC-SA 4.0
-version: 1.0
+version: 1
 categories:
   - Radio
   - FCC Regulations
@@ -20,15 +24,18 @@ related_topics:
   - US Amateur Power Limits
   - Band Plan Guide
   - Amateur License Classes
-audience: 
+audience:
   - Radio Enthusiasts
   - Amateur Radio Operators
   - Ham Radio Operators
-keywords: 
+keywords:
   - Amateur Radio Bands
   - US Amateur Radio
   - FCC Band Plan
   - Radio Frequency Guide
+topic:
+  - Tech
+  - Radio
 ---
 
 # US Amateur Radio Bands Cheat Sheet

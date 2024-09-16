@@ -6,6 +6,9 @@ tags:
   - ham
   - gmrs
 title: Frequencies
+topic:
+  - Radio
+  - Tech
 ---
 # Frequency
 ## Aviation
