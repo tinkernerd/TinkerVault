@@ -67,11 +67,11 @@
 ## Refrences
 
 ### Johnny Ford
-Warren Dunes State Park Supervisor
-269.235.0334
+#### Warren Dunes State Park Supervisor
+#### 269.235.0334
 ### Josh Sitarz
-Former President at Riverfront Optimist Club Of Niles
-269.519.0100
+#### Former President at Riverfront Optimist Club Of Niles
+#### 269.519.0100
 ### Gatlin Holden
-Technical Support Specialist
-269.357.5519
+#### Technical Support Specialist
+#### 269.357.5519
