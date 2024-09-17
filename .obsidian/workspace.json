@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2024-09-17.md",
+                "file": "error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2024-09-17.md",
+                "file": "error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2024-09-17.md"
+                "file": "error.md"
               }
             }
           },
@@ -246,6 +246,14 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d39f5b9cc08d234d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -271,10 +279,10 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "2aa14619e8987cac",
+  "active": "6b25314f22f3c9c2",
   "lastOpenFiles": [
-    "README.md",
     "blog/2024-09-17.md",
+    "README.md",
     "tech/javascript/index.md",
     "error.md",
     "tech/docker/projects/traefik.md",
