@@ -4,7 +4,7 @@ hide:
     - navigation
     - toc
 ---
-![Header](https://raw.githubusercontent.com/tinkernerd/TinkerDocs/main/.github/assets/banner.png)
+![Header](https://raw.githubusercontent.com/tinkernerd/tinkerverse/main/.github/assets/banner.png)
 # TinkerDocs
 
 Feel Free to Explore! 

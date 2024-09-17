@@ -9,7 +9,7 @@ type: Recipie
 
 ## Drinks
 ### Alcohol
-- [Hard Cider](hard_cider.md)
-- [Long Island Tea](longislandtea.md)
+- [Hard Cider](drinks/hard_cider.md)
+- [Long Island Tea](drinks/longislandtea.md)
 ## Regular Drinks
-- [Ginger Ale](ginger_ale.md)
+- [Ginger Ale](drinks/ginger_ale.md)

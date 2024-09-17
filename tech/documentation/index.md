@@ -7,13 +7,13 @@ topic:
 # Documentation Sites
 ## Resources
 - [Digital Garden](digital_garden.md)
-- [Docusarus](./docusaurus.md)
+- [Docusarus](docusaurus.md)
 
 ## Markdown
 - [Markdown](markdown.md)
 - [Obsidian](obsidian.md)
 ## Examples
-https://docs.yehezgun.com/
+[Yehezgun](https://docs.yehezgun.com/)
 [Base | Base](https://base.sznm.dev/)
 [T.I.L. | sozonome](https://sznm.dev/til)
 [Personal Bookmarks - YehezGun](https://docs.yehezgun.com/bookmarks)
@@ -30,7 +30,7 @@ https://docs.yehezgun.com/
 [Getting Started | Chirpy](https://chirpy.cotes.page/posts/getting-started/)
 
 ## YouTube
-[(1712) Meet Jekyll - The Static Site Generator - YouTube]([Meet Jekyll - The Static Site Generator]([Meet Jekyll - The Static Site Generator](https://www.youtube.com/watch?v=F8iOU1ci19Q)))
+[Meet Jekyll | The Static Site Generator](https://youtu.be/F8iOU1ci19Q?si=I7YDSpXI4FF1NFW3)
 
 ## Themes
 [Docs Theme – Nextra](https://nextra.site/docs/docs-theme/start)

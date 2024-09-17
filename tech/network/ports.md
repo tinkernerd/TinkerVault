@@ -1,6 +1,10 @@
 ---
-title: "TCP/UDP Ports"
+title: TCP/UDP Ports
+source: https://github.com/maraisr/ports-list
+author: Maraisr
 ---
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 # A list of All TCP & UDP ports.
 Thank you to https://github.com/maraisr/ports-list
 ## TCP Ports

@@ -543,7 +543,6 @@ There’s no doubt your checkride was conducted within the parameters of the ACS
 
 6.    Finally, fly. There’s nothing better for proficiency than to fly more and visit new places.
 
-  
 
 ## High Performance and Complex Airplanes
 

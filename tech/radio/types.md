@@ -25,8 +25,6 @@ topic:
 - [Getting Licensed](https://www.arrl.org/getting-licensed)
 - [Become a Member of the American Radio Relay League](https://www.arrl.org/membership)
 
-### Cheat Sheet
-Reference : [Ham Cheat Sheet](https://raw.githubusercontent.com/tinkernerd/TinkerDocs/main/attachments/ham_cheat.webp)
 
 ### Studying
 - [HamStudy.org: Cutting edge amateur radio study tools](https://hamstudy.org/)

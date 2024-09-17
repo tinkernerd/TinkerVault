@@ -1,7 +1,12 @@
 ---
 title: Computer Network Cheat Sheet
+source: https://www.geeksforgeeks.org/computer-network-cheat-sheet/?ref=lbp
+author: ritikshrivas
 ---
-# [Computer Network Cheat Sheet ](https://www.geeksforgeeks.org/computer-network-cheat-sheet/?ref=lbp)
+
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
+# Computer Network Cheat Sheet
 
 Last Updated : 21 Sep, 2022
 

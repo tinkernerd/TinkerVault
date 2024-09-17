@@ -1,0 +1,31 @@
+---
+date: {{date}}
+dateCreated: {{date}}
+---
+
+## Notes made today
+```dataview
+table file.name as "Note Title", file.mtime as "Last Modified"
+where date = this.date
+sort file.mtime desc
+```
+
+## Today I learned (TIL)
+
+## Daily Prep
+
+* [ ] Check your calendar and list today's events below
+* [ ] Check linked mentions below (backlinks to this note) in case you've linked today's date in another note for some reason
+* [ ] Check active projects above and create an action plan for the day below
+
+## Today's Events
+
+* 
+
+## Today's Action Plan
+
+* [ ] 
+
+## Notes & Journaling
+
+*

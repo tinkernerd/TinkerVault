@@ -18,4 +18,4 @@ Proxmox makes virtualization a breeze. Whether you’re running VMs for testing 
 
 ## Topics
 
-- [Proxmox VM Setup Guide](./prox_vm_setup_guide.md)
+- [Proxmox VM Setup Guide](/prox_vm_setup_guide.md)

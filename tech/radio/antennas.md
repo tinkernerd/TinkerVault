@@ -8,8 +8,8 @@ topic:
   - Radio
 ---
 # Antennas
-> [!info]
-> [Antenna Selection PDF](https://raw.githubusercontent.com/tinkernerd/TinkerDocs/main/attachments/antenna_selection.pdf) 
+!!! info "More Antenna Info"
+	[Antenna Selection](antenna_selection.md)
 
 ## Aviation
 - [Aviation Base & Mobile Antennas: FBO, ADS-B, ACARS | DPD Productions](https://dpdproductions.com/collections/aviation-base-mobile-antennas)

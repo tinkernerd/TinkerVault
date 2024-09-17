@@ -4,8 +4,11 @@ source: https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-
 author: Digital Ocean
 ---
 
+
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 # Create SSH Key
-{% include "not_my_work.md" %}
+
 ### [Introduction](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2#introduction)
 
 The Secure Shell Protocol (or SSH) is a cryptographic network protocol that allows users to securely access a remote computer over an unsecured network.

@@ -13,4 +13,5 @@ topic:
 ## OpenVpn
 - [Openvpn](https://openvpn.net/)
 
-## [Docker VPN](/tech/docker/projects/vpn)
+## Docker VPNs
+- [Docker VPN Containers](/docker/projects/vpn)

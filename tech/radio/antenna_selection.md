@@ -1,5 +1,5 @@
 ---
-tit: A Simple Guide to Antenna Selection
+title: A Simple Guide to Antenna Selection
 topic:
   - Radio
   - Antennas

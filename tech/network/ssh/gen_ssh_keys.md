@@ -5,7 +5,9 @@ source: https://phoenixnap.com/kb/generate-setup-ssh-key-ubuntu
 author: Vladimir Kaplarevic
 title: SSH Keys
 ---
-{% include "not_my_work.md" %}
+
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 # How to Generate SSH Keys on Ubuntu 
 
 > ## Excerpt

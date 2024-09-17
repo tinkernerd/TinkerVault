@@ -30,30 +30,10 @@ keywords:
   - Python Tricks
   - Cheat Sheet
 ---
----
 
-### Python Cheat Sheet: Functions and Tricks
-
+# Python Cheat Sheet: Functions and Tricks
 **“A puzzle a day to learn, code, and play”** → Visit [finxter.com](https://finxter.com/)
-
----
-
-### Table of Contents
-- [Advanced Functions](#advanced-functions)
-  - [map(func, iter)](#mapfunc-iter)
-  - [filter(func, iterable)](#filterfunc-iterable)
-  - [sorted(iter)](#sortediter)
-  - [zip(i1, i2, ...)](#zipi1-i2-)
-- [Tricks](#tricks)
-  - [Python HTTP Server](#python-http-server)
-  - [Swapping Variables](#swapping-variables)
-  - [Unpacking Arguments](#unpacking-arguments)
-  - [Extended Unpacking](#extended-unpacking)
-  - [Merge Two Dictionaries](#merge-two-dictionaries)
-
----
-
-### Advanced Functions
+## Advanced Functions
 
 #### `map(func, iter)`
 Executes a function on all elements of an iterable.
@@ -110,9 +90,9 @@ list(zip(*[('Alice', 'Bob'), ('Anna', 'Jon')]))
 
 ---
 
-### Tricks
+## Tricks
 
-#### Python HTTP Server
+### Python HTTP Server
 Want to share files between your PC and phone? Run the following command in your PC's shell:
 
 ```bash
@@ -121,7 +101,7 @@ python -m http.server <PORT>
 
 Replace `<PORT>` with any number between 0 and 65535. On your phone, type `<PC_IP>:<PORT>` into the browser to browse files on the PC.
 
-#### Swapping Variables
+### Swapping Variables
 Swapping variables is easy in Python (compared to Java):
 
 ```python
@@ -130,7 +110,7 @@ a, b = b, a
 # Now a = 'Alice' and b = 'Jane'
 ```
 
-#### Unpacking Arguments
+### Unpacking Arguments
 You can pass a sequence as function arguments using `*`, or a dictionary with `**`.
 
 ```python
@@ -141,7 +121,7 @@ f(*[1, 3, 4])  # Output: 13
 f(**{'z': 4, 'x': 1, 'y': 3})  # Output: 13
 ```
 
-#### Extended Unpacking
+### Extended Unpacking
 Use unpacking for multiple assignments.
 
 ```python
@@ -149,7 +129,7 @@ a, *b = [1, 2, 3, 4, 5]
 # Now a = 1 and b = [2, 3, 4, 5]
 ```
 
-#### Merge Two Dictionaries
+### Merge Two Dictionaries
 Merge two dictionaries using unpacking.
 
 ```python

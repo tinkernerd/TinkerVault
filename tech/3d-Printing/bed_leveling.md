@@ -28,7 +28,7 @@ license: CC-BY-SA
 version: 1
 ---
 !!! Note
-	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
+	Hey, this isn't my work. Feel free to check out the [original article]({{page.meta.source}}), by {{page.meta.author}}.
 # 3D Printer Bed Leveling Easy Step-by-Step Guide
 
 Manual 3D printer bed leveling can be a frustrating experience even for seasoned makers. However, as soon as you understand the basics of the process, you’ll easily master this useful skill. Here’s how to do it.

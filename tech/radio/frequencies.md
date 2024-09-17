@@ -23,8 +23,7 @@ topic:
 ## GRMS/FRS
 -  [FRS/GMRS combined channel chart - The RadioReference Wiki](https://wiki.radioreference.com/index.php/FRS/GMRS_combined_channel_chart)
  - [GMRS Radio Frequencies and Channels | Right Channel Radios](https://www.rightchannelradios.com/blogs/newsletters/gmrs-radio-frequencies-and-channels)
-## Ham
-- [US Amateur Radio Bands](https://raw.githubusercontent.com/tinkernerd/Tinkernerd/main/.github/attachments/Band_Chart.pdf)
+
 ### Repeaters
 - [Repeater Directory](http://www.miarc.com/repeaterDir.php?parm1=Quadrant&parm2=SW)
 - [Berrien County Amateur Radio Repeaters](https://www.repeaterbook.com/repeaters/location_search.php?type=county&state_id=26&loc=Berrien)

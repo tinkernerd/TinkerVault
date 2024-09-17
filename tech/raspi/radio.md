@@ -30,6 +30,6 @@ topic:
 
 ### Radio Scanner
 ### Keyboard Knob
-- [Rotary Encoder](rotary-encoder.md) to change Freq
+- [Rotary Encoder](/arduino/rotary-encoder.md) to change Freq
 Parts
 - 7 In Screen

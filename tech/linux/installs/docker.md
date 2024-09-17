@@ -10,9 +10,9 @@ author:
 ---
 To get started with Docker Engine on Ubuntu, make sure you [meet the prerequisites](#prerequisites), and then follow the [installation steps](#installation-methods).
 
-## [Prerequisites](#prerequisites)
+## Prerequisites
 
-### [Firewall limitations](#firewall-limitations)
+### Firewall limitations
 
 !!! Warning
     Before you install Docker, make sure you consider the following security implications and firewall incompatibilities.
@@ -20,7 +20,7 @@ To get started with Docker Engine on Ubuntu, make sure you [meet the prerequisit
 -   If you use ufw or firewalld to manage firewall settings, be aware that when you expose container ports using Docker, these ports bypass your firewall rules. For more information, refer to [Docker and ufw](https://docs.docker.com/network/packet-filtering-firewalls/#docker-and-ufw).
 -   Docker is only compatible with `iptables-nft` and `iptables-legacy`. Firewall rules created with `nft` are not supported on a system with Docker installed. Make sure that any firewall rulesets you use are created with `iptables` or `iptables6`, and that you add them to the `DOCKER-USER` chain, see [Packet filtering and firewalls](https://docs.docker.com/network/packet-filtering-firewalls/).
 
-### [OS requirements](#os-requirements)
+### OS requirements
 
 To install Docker Engine, you need the 64-bit version of one of these Ubuntu versions:
 
@@ -31,7 +31,7 @@ To install Docker Engine, you need the 64-bit version of one of these Ubuntu ver
 
 Docker Engine for Ubuntu is compatible with x86\_64 (or amd64), armhf, arm64, s390x, and ppc64le (ppc64el) architectures.
 
-### [Uninstall old versions](#uninstall-old-versions)
+### Uninstall old versions
 
 Before you can install Docker Engine, you need to uninstall any conflicting packages.
 
@@ -56,7 +56,7 @@ for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker c
 
 Images, containers, volumes, and networks stored in `/var/lib/docker/` aren't automatically removed when you uninstall Docker. If you want to start with a clean installation, and prefer to clean up any existing data, read the [uninstall Docker Engine](#uninstall-docker-engine) section.
 
-## [Installation methods]
+## Installation methods
 
 You can install Docker Engine in different ways, depending on your needs:
 
@@ -69,7 +69,7 @@ You can install Docker Engine in different ways, depending on your needs:
 -   Use a [convenience script](#install-using-the-convenience-script). Only recommended for testing and development environments.
     
 
-### [Install using the `apt` repository]
+### Install using the `apt` repository
 
 Before you install Docker Engine for the first time on a new host machine, you need to set up the Docker repository. Afterward, you can install and update Docker from the repository.
 
@@ -114,8 +114,7 @@ You have now successfully installed and started Docker Engine.
 
 
 
-### [Install from a package](#install-from-a-package)
-
+### Install from a package
 If you can't use Docker's `apt` repository to install Docker Engine, you can download the `deb` file for your release and install it manually. You need to download a new file each time you want to upgrade Docker Engine.
 
 1.  Go to [`https://download.docker.com/linux/ubuntu/dists/`](https://download.docker.com/linux/ubuntu/dists/).
@@ -148,7 +147,7 @@ You have now successfully installed and started Docker Engine.
 > 
 > The `docker` user group exists but contains no users, which is why you’re required to use `sudo` to run Docker commands. Continue to [Linux postinstall](https://docs.docker.com/engine/install/linux-postinstall) to allow non-privileged users to run Docker commands and for other optional configuration steps.
 
-## [Manage Docker as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user)
+## Manage Docker as a non-root user
 
 The Docker daemon binds to a Unix socket, not a TCP port. By default it's the `root` user that owns the Unix socket, and other users can only access it using `sudo`. The Docker daemon always runs as the `root` user.
 
@@ -183,7 +182,7 @@ To create the `docker` group and add your user:
     To fix this problem, either remove the `~/.docker/` directory (it's recreated automatically, but any custom settings are lost), or change its ownership and permissions using the following commands:
     
 
-## [Configure Docker to start on boot with systemd](https://docs.docker.com/engine/install/linux-postinstall/#configure-docker-to-start-on-boot-with-systemd)
+## Configure Docker to start on boot with systemd
 
 Many modern Linux distributions use [systemd](https://systemd.io/) to manage which services start when the system boots. On Debian and Ubuntu, the Docker service starts on boot by default. To automatically start Docker and containerd on boot for other Linux distributions using systemd, run the following commands:
 
@@ -191,7 +190,7 @@ To stop this behavior, use `disable` instead.
 
 You can use systemd unit files to configure the Docker service on startup, for example to add an HTTP proxy, set a different directory or partition for the Docker runtime files, or other customizations. For an example, see [Configure the daemon to use a proxy](https://docs.docker.com/config/daemon/proxy/#systemd-unit-file).
 
-## [Configure default logging driver](https://docs.docker.com/engine/install/linux-postinstall/#configure-default-logging-driver)
+## Configure default logging driver
 
 Docker provides [logging drivers](https://docs.docker.com/config/containers/logging/) for collecting and viewing log data from all containers running on a host. The default logging driver, `json-file`, writes log data to JSON-formatted files on the host filesystem. Over time, these log files expand in size, leading to potential exhaustion of disk resources.
 

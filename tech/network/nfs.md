@@ -5,7 +5,8 @@ source: https://phoenixnap.com/kb/ubuntu-nfs-server
 author: Marko Aleksic
 title: Install & Configure NFS Server 
 ---
-{% include "not_my_work.md" %}
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 
 # How to Install & Configure NFS Server on Ubuntu 
 

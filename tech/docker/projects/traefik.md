@@ -39,7 +39,7 @@ For reference, the following folder structure was used:
 
 ## Docker Setup
 
-See [this](../../Linux/Installs/Docker.md) on how to install `docker` and `docker-compose`
+See [this](../../linux/installs/docker.md') on how to install `docker` and `docker-compose`
 
 ## Create Folders
 

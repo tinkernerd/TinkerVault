@@ -27,9 +27,9 @@ version: 1
 topic:
   - Tech
 ---
-# How To Change a 3D Printer Nozzle\
+# How To Change a 3D Printer Nozzle
 !!! Note
-	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{ page.meta.author }}.
 
 ![Nozzle](https://lh3.googleusercontent.com/kpnCE_zghwlAQY_V184k3zxmiB-7LVr421kgP0rB4a6CnxiJoMGulr0x0yKe86wHV4M-mX9_MiR73oGgFHZKIVhdeg=w80-h80-pp-e365 "Nozzle")
 

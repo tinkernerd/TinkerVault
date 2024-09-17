@@ -23,18 +23,17 @@ Checkout the [Git Repo for ISYS115](https://github.com/tinkernerd/ISYS115) for a
 
 ## Info-Tech and Classes
 
-If you’re bouncing between sections, you may notice the [Info-Tech](../info-tech/index.md) section is a bit of a mishmash right now, but I’m working on separating content by [Classes](../classes/index.md) to keep things more organized.
+If you’re bouncing between sections, you may notice the [Info-Tech](../index.md) section is a bit of a mishmash right now, but I’m working on separating content by [Classes](../..//classes/index.md) to keep things more organized.
 
 ---
 
 ### Topics Covered
 
-- [JavaScript Basics](tech/javascript/basics.md)
+- [JavaScript Basics](basics.md)
 - [Functions](functions.md)
 - [DOM Manipulation](dom_manipulation.md)
-- [APIs](./apis.md)
-- [Asynchronous JavaScript](./async.md)
-- [Projects](/projects/index.md)
+- [APIs](apis.md)
+- [Asynchronous JavaScript](async.md)
 
 ---
 

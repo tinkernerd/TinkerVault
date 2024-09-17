@@ -8,8 +8,8 @@ Author: Nick Stull
 
 !!! note
 	Use the Script in Github
-	- https://github.com/tinkernerd/Server-Setup
-	- https://github.com/tinkernerd/Pull-and-Run
+	- [Server Setup](https://github.com/tinkernerd/Server-Setup)
+	- [Pull and Run](https://github.com/tinkernerd/Pull-and-Run)
 
 ## Introduction
 - Brief overview of the guide
@@ -28,7 +28,7 @@ Author: Nick Stull
 - Step-by-step instructions for Windows, macOS, and Linux
 
 ## Setting Up Ubuntu Server via Proxmox
-- [ View Guide Here](../Proxmox/prox_vm_setup_guide.md)
+- [ View Guide Here](proxmox/prox_vm_setup_guide.md)
 
 ## Installing Ubuntu Server
 - Booting from the bootable drive or VM
@@ -54,7 +54,7 @@ Author: Nick Stull
 - Best practices for SSH key management
 
 ## Changing DNS towards Serv01
-[For updated dns IP and backup](../../Info-Tech/Networking/DNS.md)
+[For updated dns IP and backup](dns.md)
 1. ``` sudo nano /etc/resolv.conf ```
 2. Change/add lines:
   ``` nano

@@ -5,7 +5,9 @@ source: https://phoenixnap.com/kb/how-to-enable-disable-firewall-ubuntu
 author: Vladimir Kaplarevic
 title: Disable Firewall
 ---
-{% include "not_my_work.md" %}
+
+!!! Note
+	Hey, this isn't my work. Feel free to check out the [original article]({{ page.meta.source }}), by {{page.meta.author}}.
 # How to Disable Firewall (UFW) on Ubuntu 18.04 & 20.04
 
 > ## Excerpt
