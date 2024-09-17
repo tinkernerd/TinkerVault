@@ -44,7 +44,7 @@
 • Strong troubleshooting skills
 • Worked in team environment
 
-####**Cashier**, Martins Supermarket - Stevensville, MI | Dec 2020 to Dec 2021
+#### **Cashier**, Martins Supermarket - Stevensville, MI | Dec 2020 to Dec 2021
 ##### Responsibilities include
 • Worked well independently and on a team to solve problems.
 • Served as a friendly, hardworking, and punctual employee.
@@ -54,7 +54,7 @@
 • Multitasking in Busy Situations.
 • Counting and returning the correct amount of currency to the customer.
 
-####**Customer Service Clerk**, Martins Supermarket - Saint Joseph, MI | May 2020 to Sept 2020
+#### **Customer Service Clerk**, Martins Supermarket - Saint Joseph, MI | May 2020 to Sept 2020
 ##### Responsibilities include
 * Worked well independently and on a team to solve problems.
 * Served as a friendly, hardworking, and punctual employee.
