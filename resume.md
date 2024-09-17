@@ -1,6 +1,3 @@
----
-title: Resume
----
 # [Nicholas Stull](https://Nicholasstull.com)
 [Nicholasp.stull@gmail.com](mailto:nicholasp.stull@gmail.com) | [269.487.7564](tel:12694877564) | [LinkedIn Profile](https://www.linkedin.com/in/nicholasp-stull) | [GitHub Profile](https://www.github.com/tinkernerd)
 
