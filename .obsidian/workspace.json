@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/javascript/index.md",
+                "file": "blog/2024-09-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/javascript/index.md",
+                "file": "blog/2024-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/javascript/index.md",
+                "file": "blog/2024-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/javascript/index.md"
+                "file": "blog/2024-09-17.md"
               }
             }
           },
@@ -230,6 +230,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "449b829eb29ab873",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "df96554c1877f21f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -257,8 +273,10 @@
   },
   "active": "2aa14619e8987cac",
   "lastOpenFiles": [
-    "error.md",
+    "README.md",
+    "blog/2024-09-17.md",
     "tech/javascript/index.md",
+    "error.md",
     "tech/docker/projects/traefik.md",
     "tech/index.md",
     "tech/3d-Printing/index.md",
@@ -272,7 +290,6 @@
     "aviation/aopa.md",
     "aviation/notes/index.md",
     "tech/radio/frequencies.md",
-    "README.md",
     "tech/radio/types.md",
     "blog/index.md",
     "99-utilities/templates/article.md",
@@ -283,7 +300,6 @@
     "aviation/notes/ch6.md",
     "errors.md",
     "tech/linux/installs/upzip.md",
-    "tech/raspi/radio.md",
     "tech/network/ssh",
     "info-tech",
     "smc/email-templates",
