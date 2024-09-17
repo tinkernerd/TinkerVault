@@ -1,7 +1,7 @@
 # Nicholas Stull
 [Nicholasp.stull@gmail.com](mailto:nicholasp.stull@gmail.com) | [269.487.7564]("tel:2694877564") | [LinkedIn Profile](https://www.linkedin.com/in/nicholasp-stull) | [GitHub Profile](https://www.github.com/tinkernerd)
 
-### SKILLS & TECHNOLOGIES
+### Skills & Technologies
 
 - **Programming & Scripting:** Python, PowerShell
 - **Systems & Networking:** Windows, Linux, DHCP, TCP/IP, DNS, LAN, Microsoft Windows Server, Active Directory
@@ -12,12 +12,12 @@
 - **Design & Documentation:** Graphic design, organizational skills, Documentation including creating and maintaining comprehensive technical documentation, as well as in program documentation
 - **Tools & Technologies:** Proficient in using Git, Linux, Docker, Adobe Products, VMware, CAD for various projects and applications
 
-### CERTIFICATIONS
+### Certifications
 
 - **CompTIA IT Fundamentals (ITF+) Certification**
 - **CompTIA A+ Certification**
 
-### PROFESSIONAL ATTRIBUTES
+### Professional Attributes
 
 - **Communication & Teamwork:** Exceptional communication skills, with the ability to work effectively in team settings.
 - **Problem-solving:** Strong analytical and problem-solving skills, with a knack for identifying and resolving technical issues.
@@ -30,11 +30,9 @@
 <div style="page-break-after: always;"></div>
 
 ### Career Experience
-
-**Help Desk Technician**, Southwestern Michigan College – https://swmich.edu | October 2021 - Present
-
+#### **Help Desk Technician**, Southwestern Michigan College – https://swmich.edu | October 2021 - Present
 ***I'm currently a technician at the help/information desk at Southwestern Michigan College. We fix college and student computers and are the first defense for the phone line.***
-### Responsibilities include
+##### Responsibilities include
 • First and second level Desktop Support
 • AV support, break/fix, software and hardware installation
 • Printer set-ups, troubleshooting, and repairs for the entire campus
@@ -46,8 +44,8 @@
 • Strong troubleshooting skills
 • Worked in team environment
 
-**Cashier**, Martins Supermarket - Stevensville, MI | Dec 2020 to Dec 2021
-### Responsibilities include
+####**Cashier**, Martins Supermarket - Stevensville, MI | Dec 2020 to Dec 2021
+##### Responsibilities include
 • Worked well independently and on a team to solve problems.
 • Served as a friendly, hardworking, and punctual employee.
 • Worked well in a fast-paced and rapidly changing environment.
@@ -56,8 +54,8 @@
 • Multitasking in Busy Situations.
 • Counting and returning the correct amount of currency to the customer.
 
-**Customer Service Clerk**, Martins Supermarket - Saint Joseph, MI | May 2020 to Sept 2020
-### Responsibilities include
+####**Customer Service Clerk**, Martins Supermarket - Saint Joseph, MI | May 2020 to Sept 2020
+##### Responsibilities include
 * Worked well independently and on a team to solve problems.
 * Served as a friendly, hardworking, and punctual employee.
 * Worked well in a fast-paced and rapidly changing environment.
