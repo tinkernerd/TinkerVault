@@ -33,34 +33,37 @@
 #### **Help Desk Technician**, Southwestern Michigan College – https://swmich.edu | October 2021 - Present
 ***I'm currently a technician at the help/information desk at Southwestern Michigan College. We fix college and student computers and are the first defense for the phone line.***
 ##### Responsibilities include
-• First and second level Desktop Support
-• AV support, break/fix, software and hardware installation
-• Printer set-ups, troubleshooting, and repairs for the entire campus
-• Device Repair (Dell, Lenovo, and HP)
-• Miscellaneous daily operations duties
-• Knowledge of MS desktop applications, Intel and Apple processors
-• Customer service experience
-• Excellent organizational skills
-• Strong troubleshooting skills
-• Worked in team environment
+
+- First and second level Desktop Support
+- AV support, break/fix, software and hardware installation
+- Printer set-ups, troubleshooting, and repairs for the entire campus
+- Device Repair (Dell, Lenovo, and HP)
+- Miscellaneous daily operations duties
+- Knowledge of MS desktop applications, Intel and Apple processors
+- Customer service experience
+- Excellent organizational skills
+- Strong troubleshooting skills
+- Worked in team environment
 
 #### **Cashier**, Martins Supermarket - Stevensville, MI | Dec 2020 to Dec 2021
 ##### Responsibilities include
-• Worked well independently and on a team to solve problems.
-• Served as a friendly, hardworking, and punctual employee.
-• Worked well in a fast-paced and rapidly changing environment.
-• Remained calm and composed in high-stress situations.
-• Remained adaptable, flexible, and calm in high-pressure environments.
-• Multitasking in Busy Situations.
-• Counting and returning the correct amount of currency to the customer.
+
+- Worked well independently and on a team to solve problems.
+- Served as a friendly, hardworking, and punctual employee.
+- Worked well in a fast-paced and rapidly changing environment.
+- Remained calm and composed in high-stress situations.
+- Remained adaptable, flexible, and calm in high-pressure environments.
+- Multitasking in Busy Situations.
+- Counting and returning the correct amount of currency to the customer.
 
 #### **Customer Service Clerk**, Martins Supermarket - Saint Joseph, MI | May 2020 to Sept 2020
 ##### Responsibilities include
-* Worked well independently and on a team to solve problems.
-* Served as a friendly, hardworking, and punctual employee.
-* Worked well in a fast-paced and rapidly changing environment.
-* Remained calm and composed in high-stress situations.
-* Remained adaptable, flexible, and calm in high-pressure environments.
+
+- Worked well independently and on a team to solve problems.
+- Served as a friendly, hardworking, and punctual employee.
+- Worked well in a fast-paced and rapidly changing environment.
+- Remained calm and composed in high-stress situations.
+- Remained adaptable, flexible, and calm in high-pressure environments.
 
 ## Refrences
 
