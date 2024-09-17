@@ -1,4 +1,4 @@
-# [Nicholas Stull](https://Nicholasstull.com)
+# Nicholas Stull
 [Nicholasp.stull@gmail.com](mailto:nicholasp.stull@gmail.com) | [269.487.7564]("tel:2694877564") | [LinkedIn Profile](https://www.linkedin.com/in/nicholasp-stull) | [GitHub Profile](https://www.github.com/tinkernerd)
 
 ### SKILLS & TECHNOLOGIES
@@ -23,6 +23,10 @@
 - **Problem-solving:** Strong analytical and problem-solving skills, with a knack for identifying and resolving technical issues.
 - **Adaptability & Continuous Learning:** Highly adaptable and committed to continuous learning and staying on top of technology trends.
 
+### Education
+- Associates in Applied Science in Information Technology Networking – Southwestern Michigan College 
+	- Expected Graduation - **December 2024**.
+
 <div style="page-break-after: always;"></div>
 
 ### Career Experience
@@ -30,8 +34,7 @@
 **Help Desk Technician**, Southwestern Michigan College – https://swmich.edu | October 2021 - Present
 
 ***I'm currently a technician at the help/information desk at Southwestern Michigan College. We fix college and student computers and are the first defense for the phone line.***
-Responsibilities include first and second level desktop support, break/fix, AV, software and hardware installation along with
-daily operations.
+### Responsibilities include
 • First and second level Desktop Support
 • AV support, break/fix, software and hardware installation
 • Printer set-ups, troubleshooting, and repairs for the entire campus
@@ -43,7 +46,32 @@ daily operations.
 • Strong troubleshooting skills
 • Worked in team environment
 
-### Education
+**Cashier**, Martins Supermarket - Stevensville, MI | Dec 2020 to Dec 2021
+### Responsibilities include
+• Worked well independently and on a team to solve problems.
+• Served as a friendly, hardworking, and punctual employee.
+• Worked well in a fast-paced and rapidly changing environment.
+• Remained calm and composed in high-stress situations.
+• Remained adaptable, flexible, and calm in high-pressure environments.
+• Multitasking in Busy Situations.
+• Counting and returning the correct amount of currency to the customer.
 
-- Associates in Applied Science in Information Technology Networking – Southwestern Michigan College 
-	- Expected Graduation - **December 2024**.
+**Customer Service Clerk**, Martins Supermarket - Saint Joseph, MI | May 2020 to Sept 2020
+### Responsibilities include
+* Worked well independently and on a team to solve problems.
+* Served as a friendly, hardworking, and punctual employee.
+* Worked well in a fast-paced and rapidly changing environment.
+* Remained calm and composed in high-stress situations.
+* Remained adaptable, flexible, and calm in high-pressure environments.
+
+## Refrences
+
+### Johnny Ford
+Warren Dunes State Park Supervisor
+269.235.0334
+### Josh Sitarz
+Former President at Riverfront Optimist Club Of Niles
+269.519.0100
+### Gatlin Holden
+Technical Support Specialist
+269.357.5519
