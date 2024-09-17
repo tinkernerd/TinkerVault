@@ -30,15 +30,18 @@
 **Help Desk Technician**, Southwestern Michigan College – https://swmich.edu | October 2021 - Present
 
 ***I'm currently a technician at the help/information desk at Southwestern Michigan College. We fix college and student computers and are the first defense for the phone line.***
-
-- First and second level desktop support
-- AV support, break/fix, software and hardware installation
-- Miscellaneous daily operations duties
-- Knowledge of MS desktop applications, Intel and Apple processors
-- Customer service experience
-- Excellent organizational skills
-- Strong troubleshooting skills
-- Worked in team environment
+Responsibilities include first and second level desktop support, break/fix, AV, software and hardware installation along with
+daily operations.
+• First and second level Desktop Support
+• AV support, break/fix, software and hardware installation
+• Printer set-ups, troubleshooting, and repairs for the entire campus
+• Device Repair (Dell, Lenovo, and HP)
+• Miscellaneous daily operations duties
+• Knowledge of MS desktop applications, Intel and Apple processors
+• Customer service experience
+• Excellent organizational skills
+• Strong troubleshooting skills
+• Worked in team environment
 
 ### Education
 
