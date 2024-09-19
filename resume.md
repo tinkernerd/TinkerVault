@@ -2,7 +2,6 @@
 [Nicholasp.stull@gmail.com](mailto:nicholasp.stull@gmail.com) | [269.487.7564]("tel:2694877564") | [LinkedIn Profile](https://www.linkedin.com/in/nicholasp-stull) | [GitHub Profile](https://www.github.com/tinkernerd)
 
 ### Skills & Technologies
-
 - **Programming & Scripting:** Python, PowerShell
 - **Systems & Networking:** Windows, Linux, DHCP, TCP/IP, DNS, LAN, Microsoft Windows Server, Active Directory
 - **Microcontrollers & Development Boards:** ESP32s, Arduinos, Raspberry Pi Picos, Raspberry Pis
@@ -31,9 +30,7 @@
 
 ### Career Experience
 #### **Help Desk Technician**, Southwestern Michigan College – https://swmich.edu | October 2021 - Present
-***I'm currently a technician at the help/information desk at Southwestern Michigan College. We fix college and student computers and are the first defense for the phone line.***
 ##### Responsibilities include
-
 - First and second level Desktop Support
 - AV support, break/fix, software and hardware installation
 - Printer set-ups, troubleshooting, and repairs for the entire campus

@@ -8,6 +8,7 @@ topic:
   - programming
   - isys115
 type: ClassNote
+date: 2024-09-04
 ---
 # Week 1 | Chapter 1
 ## Programming, Scripting, and Markup Languages

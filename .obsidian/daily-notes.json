@@ -1,5 +1,6 @@
 {
-  "folder": "blog",
+  "folder": "daily",
   "template": "99-utilities/templates/daily",
-  "autorun": true
+  "autorun": true,
+  "format": "YYYY-MM-DD"
 }

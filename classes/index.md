@@ -20,8 +20,8 @@ Here’s where I keep all my class notes and resources for ongoing courses. Whet
 
 ## Courses
 
-### [JavaScript (ISYS115)](./javascript/index.md)
+### [JavaScript (ISYS115)](classes/javascript/index.md)
 A deep dive into JavaScript, covering core programming concepts, functions, and web development tricks. This is where you’ll find all my JavaScript notes and resources.
 
-### [Environmental Science (ENST 112)](./enst112/index.md)
+### [Environmental Science (ENST 112)](classes/enst112/index.md)
 From ecosystems to environmental justice, this section holds everything related to Environmental Science. Perfect for those looking to understand the natural world and the impact humans have on it.

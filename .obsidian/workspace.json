@@ -4,41 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5bc3223782060ffc",
+        "id": "5a478cc1cdf85250",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa14619e8987cac",
+            "id": "2427f18fa373541e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/2024-09-17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c70ec65aacca1717",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6b25314f22f3c9c2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "error.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -126,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "error.md"
-              }
+              "state": {}
             }
           },
           {
@@ -254,6 +224,54 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "477d65e108cec46b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a260e7ad4d2ff632",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "90581aca4e33e5dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "470450f9d2222a1b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "81ce52a8807ee70e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b4116795b003ed1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -279,44 +297,44 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "6b25314f22f3c9c2",
+  "active": "2427f18fa373541e",
   "lastOpenFiles": [
-    "blog/2024-09-17.md",
+    "daily/2024-09-17.md",
+    "daily/2024-09-16.md",
+    "classes/javascript/ch1/ch1_review.md",
+    "classes/enst112/hw/webs.md",
+    "classes/javascript/ch2/ch2_test.md",
+    "classes/javascript/ch2/ch2_slides.md",
+    "classes/javascript/ch2/ch2_review.md",
+    "daily/2024-09-18.md",
+    "daily/2024-09-19.md",
+    "classes/enst112/index.md",
+    "classes/javascript/index.md",
+    "classes/javascript/ch3/ch3_slides.md",
+    "classes/javascript/ch1/ch1_test.md",
+    "classes/javascript/ch1/ch1_slides.md",
+    "error.md",
+    "classes/javascript/ch2",
+    "classes/javascript/ch3",
+    "classes/javascript/ch1",
+    "classes/index.md",
+    "classes/javascript/hw",
+    "classes/javascript/notes",
+    "smc/email-templates/inactive.md",
+    "smc/email-templates/auth-issues.md",
+    "smc/email-templates/access_issues.md",
+    "classes/enst112/notes/week2.md",
+    "classes/enst112/hw",
+    "classes/enst112/notes",
+    "resume.md",
     "README.md",
     "tech/javascript/index.md",
-    "error.md",
     "tech/docker/projects/traefik.md",
     "tech/index.md",
     "tech/3d-Printing/index.md",
-    "blog/2024-09-16.md",
-    "tech/radio/antennas.md",
-    "tech/radio/antenna_selection.md",
-    "99-utilities/templates/daily.md",
-    "99-utilities/templates/note.md",
-    "tech/linux/installs/docker.md",
-    "aviation/dow_air.md",
-    "aviation/aopa.md",
-    "aviation/notes/index.md",
-    "tech/radio/frequencies.md",
-    "tech/radio/types.md",
-    "blog/index.md",
-    "99-utilities/templates/article.md",
-    "tech/python/index.md",
-    "blog",
-    "tech/python/pip-install-from-a-git-repo.md",
-    "tech/python/cheatsheets/funtions_tricks.md",
-    "aviation/notes/ch6.md",
-    "errors.md",
-    "tech/linux/installs/upzip.md",
+    "daily",
     "tech/network/ssh",
     "info-tech",
-    "smc/email-templates",
-    "smc/phones",
-    "tech/powershell",
-    "smc",
-    "tech/html",
-    "projects",
-    "3d-Printing",
     "Untitled.canvas",
     "attachments/ec_174.jpg",
     "attachments/c91.jpg",

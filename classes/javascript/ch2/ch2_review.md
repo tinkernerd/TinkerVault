@@ -1,5 +1,6 @@
 ---
 title: ISYS 115 - Chapter 2
+date: "09-11-2024"
 tags:
   - javascript
   - programming

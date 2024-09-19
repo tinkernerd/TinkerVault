@@ -19,7 +19,7 @@ Welcome to the **JavaScript (ISYS115)** section. Here, you’ll find weekly note
 
 ## Weekly Notes
 
-- [Chapter 1](ch1.md)
-- [Chapter 2](ch2.md)
+- [Chapter 1](ch1_review.md)
+- [Chapter 2](ch2_review.md)
 
 Each week provides a breakdown of key programming concepts, exercises, and examples to help you learn JavaScript like a pro. Keep up the great work, and let’s code away!

@@ -18,7 +18,7 @@ Welcome to the weekly breakdown for **ENST 112: Environmental Science**. Each we
 
 ## Weekly Notes
 
-- [Week 1](./week1.md)
-- [Week 2](./week2.md)
+- [Week 1](week1.md)
+- [Week 2](week2.md)
 
 Check back each week for updated notes, discussions, and key concepts. Let's dive into the world of Environmental Science one week at a time!
