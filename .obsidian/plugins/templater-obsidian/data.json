@@ -1,24 +1,19 @@
 {
   "command_timeout": 5,
-  "templates_folder": "99-utilities/templates",
+  "templates_folder": "99 Utilities/Templates",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "js",
-  "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "",
-      "template": ""
-    }
-  ],
+  "user_scripts_folder": "",
+  "enable_folder_templates": false,
+  "folder_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [],

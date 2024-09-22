@@ -1,0 +1,40 @@
+.preview-youversion {
+	display: "block";
+	background-color: var(--background-secondary);
+	border: var(--border-width) var(--background-modifier-border-hover) solid;
+	color: var(--text-normal);
+	border-radius: var(--radius-s);
+	padding: var(--size-2-2);
+	pointer-events: none;
+	transition: all;
+}
+
+.info-youversion {
+	display: block;
+	color: var(--text-faint);
+	text-align: right;
+}
+
+.error-youversion {
+	display: block;
+	text-align: center;
+	color: var(--text-error);
+}
+
+.verse-link-info {
+	color: var(--text-faint);
+	padding-left: 1ch;
+}
+
+.btn-settings-disabled {
+	pointer-events: none;
+	opacity: 0.3;
+}
+
+.version-settings-dropdown {
+	width: 50% !important;
+}
+
+.book-settings-dropdown {
+	width: 100% !important;
+}

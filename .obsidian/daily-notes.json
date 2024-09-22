@@ -1,6 +1,6 @@
 {
-  "folder": "daily",
-  "template": "99-utilities/templates/daily",
+  "folder": "Journal/01 - Daily",
+  "template": "Templates/Daily",
   "autorun": true,
   "format": "YYYY-MM-DD"
 }
