@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboards/TIL.md",
+                "file": "Notes/Topologies.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nginxp",
+                "query": "topologies",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6b4a35646ce1dd82",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboards/TIL.md",
+                "file": "Notes/Topologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboards/TIL.md",
+                "file": "Notes/Topologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,26 +180,52 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboards/TIL.md"
+                "file": "Notes/Topologies.md"
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "7cff35ac9dd476c6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "694ca282619e1063",
+            "id": "a9773071bdf120f3",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "f527af381f3609cf",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "78978ae018e89295",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bddf35645e8b5e5",
             "type": "leaf",
             "state": {
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "f690e9dbe4defabb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -221,12 +248,15 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
       "recipe-grabber:Recipe Grabber": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
   "active": "67eaf13dd3797a98",
   "lastOpenFiles": [
     "Journal/01 - Daily/2024-09-22.md",
+    "Dashboards/TIL.md",
     "Journal/01 - Daily/2024-09-21.md",
     "Catagories/Classes/ENST112.md",
     "Catagories/Classes/ISYS115.md",
@@ -234,7 +264,6 @@
     "Notes/Ecosystems - Biomass, Bioaccumulation, and Biomagnification.md",
     "Notes/Food Web Activity - ENST 112.md",
     "Dashboards/Tasks.md",
-    "Dashboards/TIL.md",
     "Dashboards/Fleeting Notes.md",
     "Dashboards",
     "Dashboards/Notes.md",
@@ -247,7 +276,7 @@
     "Notes/Multiple Vlans.md",
     "Notes/Network Resources.md",
     "Notes/Speedtest.md",
-    "Notes/topologies.md",
+    "Notes/Topologies.md",
     "Notes/VPN.md",
     "Notes/DHCP Relay.md",
     "Notes/DNS.md",
