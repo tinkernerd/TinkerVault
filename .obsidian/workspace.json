@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4183eb9065af130b",
+        "id": "63ab33b70a113506",
         "type": "tabs",
         "children": [
           {
-            "id": "8baa94ec8c40d20b",
+            "id": "a947e6ce512d81e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Ecosystems - Biomass, Bioaccumulation, and Biomagnification.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67eaf13dd3797a98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Topologies.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b2a865d96ba9671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/01 - Daily/2024-09-21.md",
+                "file": "Journal/01 - Daily/2024-09-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "topologies",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6b4a35646ce1dd82",
@@ -139,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Topologies.md",
+                "file": "Journal/01 - Daily/2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Topologies.md",
+                "file": "Journal/01 - Daily/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Topologies.md"
+                "file": "Journal/01 - Daily/2024-09-23.md"
               }
             }
           },
@@ -209,7 +181,55 @@
             }
           },
           {
-            "id": "8bddf35645e8b5e5",
+            "id": "f690e9dbe4defabb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "36449b9cd31e55ad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "15fd07837458a2fe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9517add13495ec3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a2747958872cd06",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2385da76236dce1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f9211657133fe33",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -217,7 +237,7 @@
             }
           },
           {
-            "id": "f690e9dbe4defabb",
+            "id": "8e32f18ee024308b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -248,23 +268,32 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
       "recipe-grabber:Recipe Grabber": false,
-      "periodic-notes:Open today": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "67eaf13dd3797a98",
+  "active": "a947e6ce512d81e4",
   "lastOpenFiles": [
-    "Journal/01 - Daily/2024-09-22.md",
-    "Dashboards/TIL.md",
-    "Journal/01 - Daily/2024-09-21.md",
-    "Catagories/Classes/ENST112.md",
+    "Tasks.md",
+    "Fleeting Notes.md",
     "Catagories/Classes/ISYS115.md",
-    "Notes/What are the benefits of urban trees in cities.md",
+    "Catagories/Personal/Fishing.md",
+    "Catagories/Personal/Aviation.md",
+    "Catagories/Classes/ENST112.md",
+    "Templates/Daily.md",
+    "Journal/01 - Daily/2024-09-23.md",
+    "Journal/01 - Daily/2024-09-22.md",
+    "Notes/JavaScript Examples.md",
+    "Catagories/Tech/JavaScript.md",
+    "Catagories/Tech/Proxmox.md",
+    "Journal/01 - Daily/2024-09-21.md",
     "Notes/Ecosystems - Biomass, Bioaccumulation, and Biomagnification.md",
+    "Notes/Topologies.md",
+    "TIL.md",
+    "Notes/What are the benefits of urban trees in cities.md",
     "Notes/Food Web Activity - ENST 112.md",
-    "Dashboards/Tasks.md",
-    "Dashboards/Fleeting Notes.md",
     "Dashboards",
     "Dashboards/Notes.md",
     "Dashboards/Projects.md",
@@ -275,14 +304,6 @@
     "Notes/File Sharing.md",
     "Notes/Multiple Vlans.md",
     "Notes/Network Resources.md",
-    "Notes/Speedtest.md",
-    "Notes/Topologies.md",
-    "Notes/VPN.md",
-    "Notes/DHCP Relay.md",
-    "Notes/DNS.md",
-    "Notes/Opnsense.md",
-    "Notes/Pi-Hole.md",
-    "Notes/Computer Network Cheat Sheet.md",
     "Catagories/Work/Untitled",
     "Templates/Untitled",
     "Catagories/Tech",

@@ -39,5 +39,6 @@
   "anuppuccin-theme-settings@@anp-hide-borders": true,
   "anuppuccin-theme-settings@@anp-card-shadows": true,
   "anuppuccin-theme-settings@@anp-card-layout-actions": true,
-  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true
+  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
+  "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://raw.githubusercontent.com/tinkernerd/TinkerDocs/refs/heads/main/Attachments/background.jpg?token=GHSAT0AAAAAACWH3REB6JPF2TW5FV7SHSYUZXQRFMA\")"
 }

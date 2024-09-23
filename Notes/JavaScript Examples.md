@@ -115,7 +115,7 @@ async function updateMetar() {
 
 // Initial update when the page loads
 updateMetar();```
-## 🕊️ Daily Bible Verse
+## 🕊️  Bible Verse
 
 ```dataviewjs
 const response = await fetch("https://labs.bible.org/api/?passage=random&type=json");

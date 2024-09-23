@@ -70,6 +70,6 @@
   "Catagories/Tech/Linux.md": "🐧",
   "Catagories/Work/Email Templates.md": "📧",
   "Catagories/Work/Phones.md": "LiPhone",
-  "Dashboards/TIL.md": "LiBrainCog",
-  "Dashboards/Tasks.md": "LiClock"
+  "TIL.md": "LiBrainCog",
+  "Tasks.md": "LiClock"
 }
