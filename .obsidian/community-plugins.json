@@ -11,7 +11,6 @@
   "customjs",
   "daily-note-navbar",
   "obsidian-icon-folder",
-  "obsidian-style-settings",
   "auto-template-trigger",
   "breadcrumbs",
   "callout-manager",
@@ -28,5 +27,6 @@
   "youversion-linker",
   "quickadd",
   "darlal-switcher-plus",
-  "obsidian-bible-reference"
+  "obsidian-bible-reference",
+  "obsidian-style-settings"
 ]

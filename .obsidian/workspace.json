@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-23.md",
+                "file": "Journal/01 - Daily/2024-09-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-23.md",
+                "file": "Journal/01 - Daily/2024-09-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-23.md",
+                "file": "Journal/01 - Daily/2024-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-23.md"
+                "file": "Journal/01 - Daily/2024-09-25.md"
               }
             }
           },
@@ -229,7 +229,31 @@
             }
           },
           {
-            "id": "3f9211657133fe33",
+            "id": "8e32f18ee024308b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "818bdc4e8da3b7bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b75189a69e454dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd3e67247d887ccf",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -237,7 +261,7 @@
             }
           },
           {
-            "id": "8e32f18ee024308b",
+            "id": "1b8b8f121d4e35fd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -276,6 +300,9 @@
   },
   "active": "a947e6ce512d81e4",
   "lastOpenFiles": [
+    "Notes/Vegetarianism Activity.md",
+    "Journal/01 - Daily/2024-09-25.md",
+    "Journal/01 - Daily/2024-09-23.md",
     "Tasks.md",
     "Fleeting Notes.md",
     "Catagories/Classes/ISYS115.md",
@@ -283,7 +310,6 @@
     "Catagories/Personal/Aviation.md",
     "Catagories/Classes/ENST112.md",
     "Templates/Daily.md",
-    "Journal/01 - Daily/2024-09-23.md",
     "Journal/01 - Daily/2024-09-22.md",
     "Notes/JavaScript Examples.md",
     "Catagories/Tech/JavaScript.md",
@@ -302,8 +328,6 @@
     "Catagories/Tech/Networking.md",
     "Notes/Cloudflare.md",
     "Notes/File Sharing.md",
-    "Notes/Multiple Vlans.md",
-    "Notes/Network Resources.md",
     "Catagories/Work/Untitled",
     "Templates/Untitled",
     "Catagories/Tech",
