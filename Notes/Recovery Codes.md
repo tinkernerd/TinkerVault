@@ -23,3 +23,7 @@ If you generate new recovery codes, these ones will stop working.
 * EE06-FED8-4E1B  
 * ABF0-BD42-CDB7
 
+
+## Bitwarden
+Your Bitwarden two-step login recovery code:
+ZOB6 1QIA 7A4Q 4OHK 1C6N ET64 A9JM GJK1
