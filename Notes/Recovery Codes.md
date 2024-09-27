@@ -27,3 +27,21 @@ If you generate new recovery codes, these ones will stop working.
 ## Bitwarden
 Your Bitwarden two-step login recovery code:
 ZOB6 1QIA 7A4Q 4OHK 1C6N ET64 A9JM GJK1
+
+## Github
+ba770-118c1 
+b6cc9-74a18 
+b3053-493ef 
+99805-d1b31 
+4c616-2cdbe 
+e9007-3336f 
+3df28-431fc 
+6f9b8-2745c 
+d4a0e-85eb6 
+865a8-eb324 
+d434e-fba92 
+1f331-c8e75 
+0f7f9-1506c 
+a0ac6-e350f 
+09616-2415c 
+df7d4-0803b
