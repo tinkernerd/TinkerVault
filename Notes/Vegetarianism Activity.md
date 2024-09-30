@@ -3,7 +3,7 @@ title: Does What We Eat Matter?
 author: Nicholas Stull
 source: Environmental Benefits of Vegetarianism Study
 description: This document explores the impacts of an animal-based diet on the environment and vegetarianism.
-dateCreated: 2024-09-25
+dateCreated: 2024-09-25T11:30:00
 tags:
   - environmental-impact
   - vegetarianism
@@ -12,6 +12,7 @@ tags:
   - animal-based-diet
   - enst112
 date: 2024-09-25
+type: Homework
 ---
 
 # Does What We Eat Matter?
