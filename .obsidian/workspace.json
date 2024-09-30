@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-25.md",
+                "file": "Journal/01 - Daily/2024-09-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-25.md",
+                "file": "Journal/01 - Daily/2024-09-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-25.md",
+                "file": "Journal/01 - Daily/2024-09-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-25.md"
+                "file": "Journal/01 - Daily/2024-09-29.md"
               }
             }
           },
@@ -253,7 +253,47 @@
             }
           },
           {
-            "id": "cd3e67247d887ccf",
+            "id": "1b8b8f121d4e35fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f325c6b3d3571037",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0fe39f2ea48ec47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c50a4b8f846aecbb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "597519e365901fdf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "78904beb7d668706",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -261,7 +301,7 @@
             }
           },
           {
-            "id": "1b8b8f121d4e35fd",
+            "id": "cacd2d4a89b34030",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -300,15 +340,22 @@
   },
   "active": "a947e6ce512d81e4",
   "lastOpenFiles": [
+    "Attachments/background.jpg",
+    "Notes/Recovery Codes.md",
+    "Catagories/Tech/Security.md",
+    "Notes/Active Directory.md",
+    "TIL.md",
+    "Fleeting Notes.md",
+    "Notes/Water Testing Field Lab.md",
+    "Catagories/Classes/ENST112.md",
     "Notes/Vegetarianism Activity.md",
+    "Catagories/Classes/ISYS115.md",
+    "Journal/01 - Daily/2024-09-29.md",
     "Journal/01 - Daily/2024-09-25.md",
     "Journal/01 - Daily/2024-09-23.md",
     "Tasks.md",
-    "Fleeting Notes.md",
-    "Catagories/Classes/ISYS115.md",
     "Catagories/Personal/Fishing.md",
     "Catagories/Personal/Aviation.md",
-    "Catagories/Classes/ENST112.md",
     "Templates/Daily.md",
     "Journal/01 - Daily/2024-09-22.md",
     "Notes/JavaScript Examples.md",
@@ -317,17 +364,9 @@
     "Journal/01 - Daily/2024-09-21.md",
     "Notes/Ecosystems - Biomass, Bioaccumulation, and Biomagnification.md",
     "Notes/Topologies.md",
-    "TIL.md",
     "Notes/What are the benefits of urban trees in cities.md",
     "Notes/Food Web Activity - ENST 112.md",
     "Dashboards",
-    "Dashboards/Notes.md",
-    "Dashboards/Projects.md",
-    "Attachments/background.jpg",
-    "Catagories/Classes/Classes.md",
-    "Catagories/Tech/Networking.md",
-    "Notes/Cloudflare.md",
-    "Notes/File Sharing.md",
     "Catagories/Work/Untitled",
     "Templates/Untitled",
     "Catagories/Tech",

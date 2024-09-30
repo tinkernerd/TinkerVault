@@ -3,7 +3,7 @@
   "anuppuccin-theme-settings@@anp-background-image-toggle": true,
   "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 0,
   "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-dark": 0.75,
-  "anuppuccin-theme-settings@@anp-hide-borders": true,
+  "anuppuccin-theme-settings@@anp-hide-borders": false,
   "anuppuccin-theme-settings@@anp-bg-fix": true,
   "anuppuccin-theme-settings@@anp-card-shadows": true,
   "anuppuccin-theme-settings@@anp-card-layout-actions": true,
@@ -39,7 +39,7 @@
   "anuppuccin-theme-settings@@anp-td-highlight": "anp-td-none",
   "anuppuccin-theme-settings@@anp-th-highlight": true,
   "anuppuccin-theme-settings@@tag-radius": 0.6,
-  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-color-toggle": false,
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@ctp-custom-overlay2@@dark": "#F5E0DC",
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
@@ -48,5 +48,10 @@
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
   "anuppuccin-theme-settings@@anp-depth-tab-text-invert": false,
   "anuppuccin-theme-settings@@anp-editor-font-lp": "\"\"",
-  "anuppuccin-theme-settings@@file-line-width": 1200
+  "anuppuccin-theme-settings@@file-line-width": 1200,
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-sky",
+  "anuppuccin-theme-settings@@ctp-custom-text@@light": "#000000",
+  "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://raw.githubusercontent.com/tinkernerd/walls/refs/heads/main/drone_night/WEKO_210608_0045_EDIT_Edit.jpg\")",
+  "anuppuccin-theme-settings@@anp-background-image-light": "url(\"https://raw.githubusercontent.com/tinkernerd/walls/refs/heads/main/drone_day/SOHA_200815_0006_Edit.jpg\")",
+  "anuppuccin-theme-settings@@ctp-custom-base@@light": "#757575"
 }
