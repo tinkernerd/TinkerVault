@@ -8,11 +8,11 @@ type: Resource
 dateCreated: 2024-09-29T22:26:00
 ---
 ## Yahoo
-* sense 
-* secret 
-* dinner 
-* void 
-* panther
+* response
+* puppy 
+* name 
+* stool 
+* weird
 
 ## Shopify
 * C649-0C3C-AC0C  
@@ -63,3 +63,15 @@ dateCreated: 2024-09-29T22:26:00
 * 787730833
 * 792998797
 * 433453055
+
+## Prusa
+- E5X6NCWD
+- YCFR7V4E
+- 7ZXP2NPZ
+- B49B3W9G
+- 2XZCGRUD
+- 4ZTD2KWS
+- 2E2M8ABJ
+- 4T7FE63H
+- 965Q73D2
+- EHD2VMUD

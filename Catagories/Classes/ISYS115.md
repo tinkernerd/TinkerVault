@@ -24,4 +24,4 @@ SORT dateCreated ASC
 ```
 
 ## Assignments Due
-- [ ] ISYS 115 Hands On Assignment Due Midnight ⏫ 📅 2024-09-25
+- [x] ISYS 115 Hands On Assignment Due Midnight ⏫ 📅 2024-09-25 ✅ 2024-10-01

@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "63ab33b70a113506",
+        "id": "3da47c4603a4d0f6",
         "type": "tabs",
         "children": [
           {
-            "id": "a947e6ce512d81e4",
+            "id": "3c78a7b7b790d45d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-29.md",
+                "file": "Notes/Population Activity.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-29.md",
+                "file": "Notes/Population Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-29.md",
+                "file": "Notes/Population Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,24 +152,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/01 - Daily/2024-09-29.md"
+                "file": "Notes/Population Activity.md"
               }
-            }
-          },
-          {
-            "id": "a9773071bdf120f3",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "f527af381f3609cf",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
             }
           },
           {
@@ -293,7 +277,31 @@
             }
           },
           {
-            "id": "78904beb7d668706",
+            "id": "cacd2d4a89b34030",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e796669dbeaeabd5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b53eea4a4d847be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a437175da66bf178",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -301,7 +309,7 @@
             }
           },
           {
-            "id": "cacd2d4a89b34030",
+            "id": "8fc4b48cfd7fc790",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -309,11 +317,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 21
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,35 +331,37 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
-      "obsidian-day-planner:Timeline": false,
       "daily-notes:Open today's daily note": false,
+      "obsidian-day-planner:Timeline": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
       "templater-obsidian:Templater": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "callout-manager:Insert Callout": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false,
       "recipe-grabber:Recipe Grabber": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-bible-reference:Bible Verse Lookup": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "a947e6ce512d81e4",
+  "active": "3c78a7b7b790d45d",
   "lastOpenFiles": [
-    "Attachments/background.jpg",
+    "Catagories/Classes/ENST112.md",
+    "Notes/Michigan Grey Wolf Plan.md",
+    "Notes/Population Activity.md",
+    "Catagories/Classes/ISYS115.md",
+    "Attachments/cautionary.png",
     "Notes/Recovery Codes.md",
+    "Attachments",
+    "Notes/Manage Packages on Ubuntu With Apt.md",
+    "Notes/Water Testing Field Lab.md",
+    "Journal/01 - Daily/2024-09-29.md",
+    "Attachments/background.jpg",
     "Catagories/Tech/Security.md",
     "Notes/Active Directory.md",
     "TIL.md",
     "Fleeting Notes.md",
-    "Notes/Water Testing Field Lab.md",
-    "Catagories/Classes/ENST112.md",
     "Notes/Vegetarianism Activity.md",
-    "Catagories/Classes/ISYS115.md",
-    "Journal/01 - Daily/2024-09-29.md",
     "Journal/01 - Daily/2024-09-25.md",
     "Journal/01 - Daily/2024-09-23.md",
     "Tasks.md",
@@ -363,9 +374,6 @@
     "Catagories/Tech/Proxmox.md",
     "Journal/01 - Daily/2024-09-21.md",
     "Notes/Ecosystems - Biomass, Bioaccumulation, and Biomagnification.md",
-    "Notes/Topologies.md",
-    "Notes/What are the benefits of urban trees in cities.md",
-    "Notes/Food Web Activity - ENST 112.md",
     "Dashboards",
     "Catagories/Work/Untitled",
     "Templates/Untitled",
@@ -375,7 +383,6 @@
     "Catagories/Personal",
     "Attachments",
     "Catagories/Classes",
-    "Journal/04 - Yearly",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "attachments/ec_174.jpg",

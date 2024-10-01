@@ -1,0 +1,9 @@
+@media print {
+  body {
+    margin-top: 0;
+    margin-bottom: 1;
+  }
+  .markdown-preview-view {
+    padding-top: 0 !important;
+  }
+}
