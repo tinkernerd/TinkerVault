@@ -1,8 +1,10 @@
 ---
-title: "Task List"
-description: "A dynamic task list showing tasks due today, tomorrow, this week, this month, and urgent tasks using Obsidian Tasks plugin."
-tags: [tasks, productivity, Obsidian]
-categories: [Task Management, Obsidian, Productivity]
+title: Task List
+description: A dynamic task list showing tasks due today, tomorrow, this week, this month, and urgent tasks using Obsidian Tasks plugin.
+tags:
+  - tasks
+  - productivity
+  - Obsidian
 ---
 
 # Task List

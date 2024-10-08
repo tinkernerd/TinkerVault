@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3da47c4603a4d0f6",
+        "id": "d7e8750ecd6126b2",
         "type": "tabs",
         "children": [
           {
-            "id": "3c78a7b7b790d45d",
+            "id": "af4d546da55ac9ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Population Activity.md",
+                "file": "Dashboards/Notes.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Population Activity.md",
+                "file": "Dashboards/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Population Activity.md",
+                "file": "Dashboards/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Population Activity.md"
+                "file": "Dashboards/Notes.md"
               }
             }
           },
@@ -301,7 +301,31 @@
             }
           },
           {
-            "id": "a437175da66bf178",
+            "id": "8fc4b48cfd7fc790",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fbf364543371492",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc001da42a762c24",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2991fc421ab99cd6",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -309,15 +333,25 @@
             }
           },
           {
-            "id": "8fc4b48cfd7fc790",
+            "id": "027c3fdf08d0e015",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "818d1d25c0479d25",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Dashboards/Notes.md"
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
@@ -344,36 +378,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c78a7b7b790d45d",
+  "active": "af4d546da55ac9ce",
   "lastOpenFiles": [
-    "Catagories/Classes/ENST112.md",
-    "Notes/Michigan Grey Wolf Plan.md",
-    "Notes/Population Activity.md",
-    "Catagories/Classes/ISYS115.md",
-    "Attachments/cautionary.png",
-    "Notes/Recovery Codes.md",
-    "Attachments",
-    "Notes/Manage Packages on Ubuntu With Apt.md",
-    "Notes/Water Testing Field Lab.md",
-    "Journal/01 - Daily/2024-09-29.md",
-    "Attachments/background.jpg",
-    "Catagories/Tech/Security.md",
+    "Dashboards/Catagories.md",
+    "Dashboards/Fleeting Notes.md",
+    "Dashboards/Articles.md",
+    "Dashboards/TIL.md",
+    "Notes/Traefik.md",
+    "Dashboards",
+    "Dashboards/Projects.md",
+    "Notes/TurtlePy.md",
     "Notes/Active Directory.md",
-    "TIL.md",
-    "Fleeting Notes.md",
-    "Notes/Vegetarianism Activity.md",
-    "Journal/01 - Daily/2024-09-25.md",
-    "Journal/01 - Daily/2024-09-23.md",
-    "Tasks.md",
-    "Catagories/Personal/Fishing.md",
+    "Dashboards/Notes.md",
     "Catagories/Personal/Aviation.md",
-    "Templates/Daily.md",
-    "Journal/01 - Daily/2024-09-22.md",
-    "Notes/JavaScript Examples.md",
-    "Catagories/Tech/JavaScript.md",
-    "Catagories/Tech/Proxmox.md",
-    "Journal/01 - Daily/2024-09-21.md",
-    "Notes/Ecosystems - Biomass, Bioaccumulation, and Biomagnification.md",
+    "Notes/Airventure Air Show.md",
+    "Notes/AOPA.md",
+    "Notes/VPN.md",
+    "Notes/Windows Subsystem Linux.md",
+    "Notes/Wired Access Issues - Email Template.md",
+    "Notes/Working Wi-Fi Adapters - Raspi.md",
+    "Notes/Hard Apple Cider.md",
+    "Notes/Photo Lighting Tips.md",
+    "Notes/World's Most Dense Python Cheat Sheet.md",
+    "Notes/Comprehensive Fishing Guide.md",
+    "Notes/Bind9 - Docker.md",
+    "Notes/All TCP & UDP ports.md",
+    "Templates/Article.md",
+    "Notes/Create SSH Key.md",
+    "Catagories/Tech/3d Printing.md",
+    "Notes/3D Printing Price Calculator.md",
+    "Attachments/cautionary.png",
+    "Attachments",
+    "Attachments/background.jpg",
     "Dashboards",
     "Catagories/Work/Untitled",
     "Templates/Untitled",
@@ -382,7 +418,6 @@
     "Catagories/Work",
     "Catagories/Personal",
     "Attachments",
-    "Catagories/Classes",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "attachments/ec_174.jpg",

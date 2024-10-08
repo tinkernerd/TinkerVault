@@ -9,7 +9,8 @@ tags:
   - python
   - programming
   - cheatsheet
-type: CheatSheet
+type: Resource
+category: Python
 ---
 # World's Most Dense Python Cheat Sheet
 

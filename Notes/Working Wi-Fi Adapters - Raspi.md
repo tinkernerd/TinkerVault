@@ -10,7 +10,8 @@ topic:
   - Wifi
   - RaspberryPi
 dateCreated: 2024-09-21T21:09:00
-type: Article
+type: Resource
+category: Raspberry Pi
 ---
 ---
 # Working Wi-Fi Adapters

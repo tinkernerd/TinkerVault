@@ -3,30 +3,49 @@ title: Bed Leveling Easy Tutorial
 author: All3DP
 source: https://all3dp.com/2/3d-printer-bed-leveling-step-by-step-tutorial/
 description: A step-by-step tutorial on how to level a 3D printer bed, ensuring optimal print quality by adjusting the bed height and alignment.
-date: 2024-09-15
+articleDate: 2024-03-10T12:00:00
 tags:
   - Calibration
   - Bed
   - Leveling
   - 3dprinting
-categories:
-  - 3D Printing, Tech
 type: Article
 dateCreated: 2024-09-15 08:00
-status: Active
+status: Archive
+category: 3d Printing
 ---
 
 > [!NOTE]
 ```dataviewjs
 const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
+const authors = dv.current().author || "Unknown author";
+const title = dv.current().title || "No title provided";
+
+// Split authors by comma and trim spaces
+let authorsList = authors.split(",").map(author => author.trim());
+
+// Truncate the title after 4 words
+let titleTruncated = title.split(" ").slice(0, 4).join(" ");
+if (title.split(" ").length > 4) {
+    titleTruncated += "...";
+}
+
+let authorsText;
+
+if (authorsList.length === 1) {
+    authorsText = authorsList[0];
+} else {
+    const lastAuthor = authorsList.pop();
+    authorsText = `${authorsList.join(", ")}, and ${lastAuthor}`;
+}
 
 let noteBlock = `<div class="callout">
     <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
+    Feel free to check out <a href="${source}" target="_blank">${titleTruncated}</a>, by ${authorsText}.
 </div>`;
 
 dv.el("div", noteBlock);
+
 ```
 # 3D Printer Bed Leveling Easy Step-by-Step Guide
 

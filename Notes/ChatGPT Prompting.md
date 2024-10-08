@@ -4,6 +4,7 @@ author: Finxter
 source: https://finxter.com/
 description: A guide to prompt engineering with ChatGPT, covering rules of thumb, examples, and best practices for effective interactions with language models.
 date: 2024-09-15
+articleDate: 2024-09-15
 tags:
   - OpenAI
   - ChatGPT
@@ -13,8 +14,41 @@ tags:
   - Cheat
   - Sheet
 type: Article
+category: Tech
+status: Archive
 ---
+> [!NOTE]
+```dataviewjs
+const source = dv.current().source || "No source provided";
+const authors = dv.current().author || "Unknown author";
+const title = dv.current().title || "No title provided";
 
+// Split authors by comma and trim spaces
+let authorsList = authors.split(",").map(author => author.trim());
+
+// Truncate the title after 4 words
+let titleTruncated = title.split(" ").slice(0, 4).join(" ");
+if (title.split(" ").length > 4) {
+    titleTruncated += "...";
+}
+
+let authorsText;
+
+if (authorsList.length === 1) {
+    authorsText = authorsList[0];
+} else {
+    const lastAuthor = authorsList.pop();
+    authorsText = `${authorsList.join(", ")}, and ${lastAuthor}`;
+}
+
+let noteBlock = `<div class="callout">
+    <strong>Hey, this isn't my work.</strong>
+    Feel free to check out <a href="${source}" target="_blank">${titleTruncated}</a>, by ${authorsText}.
+</div>`;
+
+dv.el("div", noteBlock);
+
+```
 # ChatGPT Prompting Cheat Sheet
 
 ## How Prompt Engineering Works

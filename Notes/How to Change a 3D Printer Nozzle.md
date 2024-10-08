@@ -3,7 +3,7 @@ title: How to Change a 3D Printer Nozzle
 author: MatterHackers
 source: https://www.matterhackers.com/articles/how-to-change-a-3d-printer-nozzle
 description: A guide on how to change the nozzle on a 3D printer, covering necessary tools, step-by-step instructions, and best practices.
-date: 2024-09-15
+articleDate: 2018-07-25T12:00:00
 tags:
   - Printer
   - Maintenance
@@ -12,21 +12,42 @@ tags:
   - 3dprinting
 type: Article
 dateCreated: 2024-09-15 08:00
-status: Active
+status: Archive
+category: 3d Printing
 ---
 # How To Change a 3D Printer Nozzle
 
 > [!NOTE]
 ```dataviewjs
 const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
+const authors = dv.current().author || "Unknown author";
+const title = dv.current().title || "No title provided";
+
+// Split authors by comma and trim spaces
+let authorsList = authors.split(",").map(author => author.trim());
+
+// Truncate the title after 4 words
+let titleTruncated = title.split(" ").slice(0, 4).join(" ");
+if (title.split(" ").length > 4) {
+    titleTruncated += "...";
+}
+
+let authorsText;
+
+if (authorsList.length === 1) {
+    authorsText = authorsList[0];
+} else {
+    const lastAuthor = authorsList.pop();
+    authorsText = `${authorsList.join(", ")}, and ${lastAuthor}`;
+}
 
 let noteBlock = `<div class="callout">
     <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
+    Feel free to check out <a href="${source}" target="_blank">${titleTruncated}</a>, by ${authorsText}.
 </div>`;
 
 dv.el("div", noteBlock);
+
 ```
 
 ![Nozzle](https://lh3.googleusercontent.com/kpnCE_zghwlAQY_V184k3zxmiB-7LVr421kgP0rB4a6CnxiJoMGulr0x0yKe86wHV4M-mX9_MiR73oGgFHZKIVhdeg=w80-h80-pp-e365 "Nozzle")

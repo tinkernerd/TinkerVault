@@ -10,8 +10,45 @@ tags:
 type: Article
 status: Archive
 dateCreated: 2024-09-21T21:18:00
+articleDate: 2024-09-21T21:18:00
+source: https://www.ahsystems.com/articles/Antenna-Selection.pdf
+category: Radio
+author: A.H. Systems
 ---
+> [!NOTE]
+```dataviewjs
+const source = dv.current().source || "No source provided";
+const authors = dv.current().author || "Unknown author";
+const title = dv.current().title || "No title provided";
+
+// Split authors by comma and trim spaces
+let authorsList = authors.split(",").map(author => author.trim());
+
+// Truncate the title after 4 words
+let titleTruncated = title.split(" ").slice(0, 4).join(" ");
+if (title.split(" ").length > 4) {
+    titleTruncated += "...";
+}
+
+let authorsText;
+
+if (authorsList.length === 1) {
+    authorsText = authorsList[0];
+} else {
+    const lastAuthor = authorsList.pop();
+    authorsText = `${authorsList.join(", ")}, and ${lastAuthor}`;
+}
+
+let noteBlock = `<div class="callout">
+    <strong>Hey, this isn't my work.</strong>
+    Feel free to check out <a href="${source}" target="_blank">${titleTruncated}</a>, by ${authorsText}.
+</div>`;
+
+dv.el("div", noteBlock);
+
+```
 # A Simple Guide to Antenna Selection
+
 Selecting an antenna for testing can sometimes be straightforward but often requires some specific consideration.   One aspect in antenna selection is knowing the intended test frequencies and then selecting a matching antenna.  
 
 Not all antennas are created equal, and when it comes to frequency different antenna styles perform better at some frequencies and not at others. Some special considerations are sometimes required in antenna design typically at very high and very low frequencies. Take an antenna for a low frequency in the kHz range. A single wavelength at this range is on the order of miles long. Even a ¼ wavelength antenna at kHz frequencies is impractical at around 10,000 ft long. To get a better understanding of wavelength size and frequency,[ this calculator is helpful](https://www.ahsystems.com/EMC-formulas-equations/frequency-wavelength-calculator.php).  

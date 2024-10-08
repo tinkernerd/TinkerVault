@@ -1,7 +1,7 @@
 ---
 title: What are the benefits of urban trees in cities?
 author: Ellen Montgomery
-date: 2024-07-15
+articleDate: 2024-07-15
 dateCreated: 2024-09-22T00:42:08
 source: https://environmentamerica.org/articles/what-are-the-benefits-of-urban-trees-in-cities/
 description: This article discusses the environmental, health, and wildlife benefits of urban trees, emphasizing their role in reducing pollution, cooling urban areas, and supporting biodiversity.
@@ -15,6 +15,8 @@ tags:
   - mental
   - health
 type: Article
+category: Environmental
+status: Active
 ---
 
 # What are the benefits of urban trees in cities?

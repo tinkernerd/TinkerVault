@@ -7,7 +7,7 @@ tags:
   - drinks
   - Alcohol
 dateCreated: 2024-09-21 08:00
-status: Active
+status: Archive
 ---
 
 # [Hard Apple Cider](https://www.growforagecookferment.com/how-to-make-hard-cider-part-1-brew-it/)

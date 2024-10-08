@@ -1,6 +1,7 @@
 ---
 title: Michigan updating gray wolf plan, DNR seeks public input
-created: 2024-10-01T17:49:46 (UTC -04:00)
+dateCreated: 2024-10-01T17:49:46
+articleDate: 2022-01-13T15:20:00
 tags:
   - wildlife
   - conservation
@@ -14,6 +15,38 @@ source: https://www.mlive.com/public-interest/2022/01/michigan-updating-gray-wol
 author: Sheri McWhirter
 type: Article
 ---
+> [!NOTE]
+```dataviewjs
+const source = dv.current().source || "No source provided";
+const authors = dv.current().author || "Unknown author";
+const title = dv.current().title || "No title provided";
+
+// Split authors by comma and trim spaces
+let authorsList = authors.split(",").map(author => author.trim());
+
+// Truncate the title after 4 words
+let titleTruncated = title.split(" ").slice(0, 4).join(" ");
+if (title.split(" ").length > 4) {
+    titleTruncated += "...";
+}
+
+let authorsText;
+
+if (authorsList.length === 1) {
+    authorsText = authorsList[0];
+} else {
+    const lastAuthor = authorsList.pop();
+    authorsText = `${authorsList.join(", ")}, and ${lastAuthor}`;
+}
+
+let noteBlock = `<div class="callout">
+    <strong>Hey, this isn't my work.</strong>
+    Feel free to check out <a href="${source}" target="_blank">${titleTruncated}</a>, by ${authorsText}.
+</div>`;
+
+dv.el("div", noteBlock);
+
+```
 # Michigan updating gray wolf plan, DNR seeks public input - mlive.com
 
 Among Michigan’s most iconic wildlife species is the gray wolf, an apex predator and largest among wild canines that roam the fields and forests of the Upper Peninsula.

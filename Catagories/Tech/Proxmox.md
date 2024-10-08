@@ -1,14 +1,12 @@
 ---
-title: "Proxmox"
-author: "Nicholas Stull"
-description: "Guides for setting up virtual machines with Proxmox."
+title: Proxmox
+author: Nicholas Stull
+description: Guides for setting up virtual machines with Proxmox.
 date: 2024-09-15
 tags:
   - tech
   - proxmox
-categories:
-  - Tech Resources
-license: "MIT"
+license: MIT
 version: "1.0"
 ---
 

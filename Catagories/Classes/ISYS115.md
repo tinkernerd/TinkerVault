@@ -8,8 +8,6 @@ tags:
   - isys115
   - programming
   - web_development
-categories:
-  - Academic Resources
 type: ClassNote
 ---
 # JavaScript (ISYS115)

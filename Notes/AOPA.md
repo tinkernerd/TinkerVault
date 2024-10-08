@@ -9,6 +9,7 @@ topic:
   - Aviation
 type: Resource
 status: Active
+category: Aviation
 ---
 # AOPA
 ## Information

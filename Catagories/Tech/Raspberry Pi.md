@@ -1,14 +1,12 @@
 ---
-title: "Raspberry Pi"
-author: "Nicholas Stull"
-description: "Projects and guides for using Raspberry Pi."
+title: Raspberry Pi
+author: Nicholas Stull
+description: Projects and guides for using Raspberry Pi.
 date: 2024-09-15
 dateCreated: 2024-09-15
 tags:
   - tech
   - raspberrypi
-categories:
-  - Tech Resources
 type: Resource
 ---
 

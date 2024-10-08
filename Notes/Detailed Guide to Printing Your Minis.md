@@ -3,28 +3,50 @@ title: Detailed Guide to Printing Your Minis
 author: Reddit User /r/PrintedMinis
 source: https://www.reddit.com/r/PrintedMinis/comments/68umnm/a_detailed_guide_to_printing_your_minis/
 description: A detailed guide on how to print miniatures, covering optimal settings, supports, and techniques for achieving high-quality prints.
-date: 2024-09-15
 tags:
   - Miniatures
   - Guide
   - 3dprinting
+  - dnd
+category: 3d Printing
 type: Article
+status: Archive
 dateCreated: 2024-09-15 08:00
-status: Active
+articleDate: 2017-05-02T13:40:11
 ---
 
 
 > [!NOTE]
 ```dataviewjs
 const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
+const authors = dv.current().author || "Unknown author";
+const title = dv.current().title || "No title provided";
+
+// Split authors by comma and trim spaces
+let authorsList = authors.split(",").map(author => author.trim());
+
+// Truncate the title after 4 words
+let titleTruncated = title.split(" ").slice(0, 4).join(" ");
+if (title.split(" ").length > 4) {
+    titleTruncated += "...";
+}
+
+let authorsText;
+
+if (authorsList.length === 1) {
+    authorsText = authorsList[0];
+} else {
+    const lastAuthor = authorsList.pop();
+    authorsText = `${authorsList.join(", ")}, and ${lastAuthor}`;
+}
 
 let noteBlock = `<div class="callout">
     <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
+    Feel free to check out <a href="${source}" target="_blank">${titleTruncated}</a>, by ${authorsText}.
 </div>`;
 
 dv.el("div", noteBlock);
+
 ```
 # A detailed guide to printing your minis! : r/PrintedMinis
 

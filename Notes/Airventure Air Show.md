@@ -1,7 +1,7 @@
 ---
 title: Airventure
 tags:
-  - "#airventure"
+  - airventure
   - eaa
   - flight
   - aviation
@@ -12,9 +12,7 @@ topic:
   - Aviation
   - Festival
 dateCreated: 2024-04-09
-dg-show-backlinks: true
-dgPassFrontmatter: true
-dg-show-inline-title: true
+category: Aviation
 ---
 # Airventure
 ## FAA Info

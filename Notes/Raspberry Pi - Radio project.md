@@ -3,8 +3,6 @@ title: Raspberry Pi - Radio project
 tags:
   - tech
   - raspberrypi
-categories:
-  - Tech Resources
 type: Project
 dateCreated: 2024-09-21T21:09:00
 status: Archive

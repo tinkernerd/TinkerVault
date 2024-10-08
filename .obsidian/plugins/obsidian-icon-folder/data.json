@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiStickyNote",
+      "LiNewspaper",
       "LiPhone",
       "📧",
-      "🐧",
-      "LiNetwork",
-      "LiGithub"
+      "🐧"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -69,6 +69,8 @@
   "Catagories/Tech/Linux.md": "🐧",
   "Catagories/Work/Email Templates.md": "📧",
   "Catagories/Work/Phones.md": "LiPhone",
-  "TIL.md": "LiBrainCog",
-  "Tasks.md": "LiClock"
+  "Dashboards/TIL.md": "LiBrainCog",
+  "Dashboards/Tasks.md": "LiClock",
+  "Dashboards/Articles.md": "LiNewspaper",
+  "Dashboards/Notes.md": "LiStickyNote"
 }

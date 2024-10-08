@@ -6,8 +6,6 @@ date: 2024-09-15
 tags:
   - tech
   - linux
-categories:
-  - Tech Resources
 type: Resource
 topic:
   - Linux

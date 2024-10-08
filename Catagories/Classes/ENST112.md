@@ -7,8 +7,6 @@ tags:
   - environmental_science
   - enst112
   - weekly_notes
-categories:
-  - Academic Resources
 type: ClassNote
 ---
 
@@ -41,7 +39,7 @@ SORT dateCreated ASC
 
 ```dataview  
 TABLE WITHOUT ID  
-link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", file.mtime AS "Last modified", status as Status
+link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", articleDate as "Article Date"
 FROM #environment AND "Notes"
 WHERE type="Article"
 SORT dateCreated ASC

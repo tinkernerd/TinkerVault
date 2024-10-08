@@ -29,7 +29,8 @@ _|_|______________
 ```dataview  
 TABLE WITHOUT ID  
 link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", file.mtime AS "Last modified", status as Status
-FROM #aviation And !#ppl AND "Notes"
+FROM "Notes"
+WHERE category="Aviation"
 SORT title ASC
 ```
 

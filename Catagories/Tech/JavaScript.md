@@ -1,14 +1,12 @@
 ---
-title: "JavaScript"
-author: "Nicholas Stull"
-description: "Notes and resources for JavaScript, organized by class and projects."
+title: JavaScript
+author: Nicholas Stull
+description: Notes and resources for JavaScript, organized by class and projects.
 date: 2024-09-15
 tags:
   - tech
   - javascript
   - js
-categories:
-  - Tech Resources
 ---
 # JavaScript
 Welcome to the JavaScript section! Here’s where I keep all the important notes and examples from class, as well as some project links and resources. Whether you're here to brush up on functions or dive into class materials, you’re in the right spot.

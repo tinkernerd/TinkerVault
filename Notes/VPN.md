@@ -6,6 +6,7 @@ topic:
   - Networking
 type: Resource
 dateCreated: 2024-07-14T21:54:56
+category: Networking
 ---
 # VPN
 ## Tailscale

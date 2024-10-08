@@ -5,6 +5,10 @@ tags:
   - tech
 type: Resource
 dateCreated: 2024-09-21T21:05:00
+topic:
+  - Linux
+  - Windows
+category: Tech
 ---
 
 # Windows Subsystem Linux

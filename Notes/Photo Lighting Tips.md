@@ -1,7 +1,7 @@
 ---
-title: "Lighting Tips"
-author: "Nicholas Stull"
-description: "A guide to understanding and using natural and artificial lighting in photography."
+title: Lighting Tips
+author: Nicholas Stull
+description: A guide to understanding and using natural and artificial lighting in photography.
 dateCreated: 2024-09-15
 tags:
   - photography
@@ -9,7 +9,7 @@ tags:
   - tips
 type: Resource
 status: Active
-
+category: Photography
 ---
 
 # Lighting Tips
