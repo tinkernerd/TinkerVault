@@ -3,7 +3,7 @@ title: Computer Network Cheat Sheet
 source: https://www.geeksforgeeks.org/computer-network-cheat-sheet/?ref=lbp
 author: ritikshrivas
 dateCreated: 2024-07-14T21:54:56
-type: CheatSheet
+type: Resource
 tags:
   - Networking
   - cheatsheet

@@ -69,8 +69,6 @@
   "Catagories/Tech/Linux.md": "🐧",
   "Catagories/Work/Email Templates.md": "📧",
   "Catagories/Work/Phones.md": "LiPhone",
-  "Dashboards/TIL.md": "LiBrainCog",
-  "Dashboards/Tasks.md": "LiClock",
-  "Dashboards/Articles.md": "LiNewspaper",
-  "Dashboards/Notes.md": "LiStickyNote"
+  "Dashboards/Notes.md": "LiStickyNote",
+  "Dashboards/Articles Dashboard.md": "LiNewspaper"
 }

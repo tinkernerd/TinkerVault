@@ -1,19 +1,51 @@
 ---
 title: "A Comprehensive Fishing Guide: Outfitting Your Trip and Matching Fish with Gear"
-author: Greg Schwipps with Peter Kaminsky
+author: Greg Schwipps, Peter Kaminsky
 source: International Game Fish Association and various fishing expertise
 description: This guide provides anglers with essential tips for preparing a successful fishing trip, including equipment checklists, fish habitats, and the appropriate gear for different species and fishing conditions.
-date: 2024-09-15
+articleDate: 2024-09-15
 dateCreated: 2024-09-15
 tags:
   - Fishing
   - outdoor-sports
   - angling
   - equipment-guide
-type: CheatSheet
+type: Article
 status: Archive
+category: Fishing
 ---
+> [!NOTE]
+```dataviewjs
+const source = dv.current().source || "No source provided";
+const authors = dv.current().author || "Unknown author";
+const title = dv.current().title || "No title provided";
 
+// Split authors by comma and trim spaces
+let authorsList = authors.split(",").map(author => author.trim());
+
+// Truncate the title after 4 words
+let titleTruncated = title.split(" ").slice(0, 4).join(" ");
+if (title.split(" ").length > 4) {
+    titleTruncated += "...";
+}
+
+let authorsText;
+
+if (authorsList.length === 1) {
+    authorsText = authorsList[0];
+} else {
+    const lastAuthor = authorsList.pop();
+    authorsText = `${authorsList.join(", ")}, and ${lastAuthor}`;
+}
+
+let noteBlock = `<div class="callout">
+    <strong>Hey, this isn't my work.</strong>
+    Feel free to check out <a href="${source}" target="_blank">${titleTruncated}</a>, by ${authorsText}.
+</div>`;
+
+dv.el("div", noteBlock);
+
+```
 ## A Comprehensive Fishing Guide: Outfitting Your Trip and Matching Fish with Gear
 _By Greg Schwipps with Peter Kaminsky_
 

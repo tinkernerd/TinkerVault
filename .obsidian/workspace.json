@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7e8750ecd6126b2",
+        "id": "79cb32e67d1c2808",
         "type": "tabs",
         "children": [
           {
-            "id": "af4d546da55ac9ce",
+            "id": "eb91385685f46e2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -325,14 +325,6 @@
             }
           },
           {
-            "id": "2991fc421ab99cd6",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "027c3fdf08d0e015",
             "type": "leaf",
             "state": {
@@ -349,9 +341,33 @@
                 "file": "Dashboards/Notes.md"
               }
             }
+          },
+          {
+            "id": "a4ac220a3a2cd765",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2538a4731470392",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8418b3e0d6dd2228",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 27
       }
     ],
     "direction": "horizontal",
@@ -378,55 +394,55 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af4d546da55ac9ce",
+  "active": "eb91385685f46e2a",
   "lastOpenFiles": [
+    "Dashboards/Projects.md",
+    "Dashboards/Tasks.md",
+    "Dashboards/Notes.md",
+    "Dashboards/Articles Dashboard.md",
     "Dashboards/Catagories.md",
     "Dashboards/Fleeting Notes.md",
-    "Dashboards/Articles.md",
+    "Notes/Computer Network Cheat Sheet.md",
+    "Templates/Article.md",
+    "Notes/Comprehensive Fishing Guide.md",
+    "Catagories/Work/Email Templates.md",
+    "Catagories/Work/Phones.md",
+    "Catagories/Work/SMC.md",
+    "Notes/Google Meet Boom Camera.md",
+    "Templates/Note.md",
+    "Templates/Fleeting Note.md",
+    "Templates/Daily.md",
+    "Notes/Digital Signage.md",
+    "Notes/Cow Codes.md",
+    "Notes/Event Verification - Email Template.md",
+    "Notes/Wired Access Issues - Email Template.md",
+    "Notes/Spelling-Bee-Setup.md",
+    "Notes/SAC Athletic Games.md",
+    "Notes/1st Source Bank Fieldhouse 101.md",
+    "Attachments/~$t-Source-Bank-Fieldhouse-101-How-to-Set-Up-for-Sporting-Events.docx",
+    "Attachments/y2020_355634_iRVision-with-explorer-11--Compatibility-View.pdf",
+    "Attachments/Wired-Account-Recovery-_-Password-reset---General.pdf",
+    "Attachments/Voice_Mail_Telephone_Quick_Start_Guide.pdf",
+    "Attachments/Use-Epson-iProjection-to-Link-Computer-to-Screens.pdf",
+    "Attachments/Test-Office-365.xml",
+    "Attachments/Telephone-System-2.docx.pdf",
+    "Attachments/Telephone-System-2.docx",
+    "Attachments/SWMC-Department-Print-Codes.pdf",
+    "Attachments/Spelling-Bee-Setup-2023.pdf",
+    "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image4.png",
+    "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image3.png",
+    "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image2.png",
+    "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image1.png",
+    "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image4.png",
+    "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image3.png",
+    "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image2.png",
+    "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image1.png",
+    "Attachments/Room-Setups-Veyon-Specifically-image5.png",
+    "Attachments/Room-Setups-Veyon-Specifically-image4.png",
     "Dashboards/TIL.md",
     "Notes/Traefik.md",
-    "Dashboards",
-    "Dashboards/Projects.md",
     "Notes/TurtlePy.md",
-    "Notes/Active Directory.md",
-    "Dashboards/Notes.md",
-    "Catagories/Personal/Aviation.md",
-    "Notes/Airventure Air Show.md",
-    "Notes/AOPA.md",
-    "Notes/VPN.md",
-    "Notes/Windows Subsystem Linux.md",
-    "Notes/Wired Access Issues - Email Template.md",
-    "Notes/Working Wi-Fi Adapters - Raspi.md",
-    "Notes/Hard Apple Cider.md",
-    "Notes/Photo Lighting Tips.md",
-    "Notes/World's Most Dense Python Cheat Sheet.md",
-    "Notes/Comprehensive Fishing Guide.md",
-    "Notes/Bind9 - Docker.md",
-    "Notes/All TCP & UDP ports.md",
-    "Templates/Article.md",
-    "Notes/Create SSH Key.md",
-    "Catagories/Tech/3d Printing.md",
-    "Notes/3D Printing Price Calculator.md",
-    "Attachments/cautionary.png",
-    "Attachments",
-    "Attachments/background.jpg",
-    "Dashboards",
-    "Catagories/Work/Untitled",
-    "Templates/Untitled",
-    "Catagories/Tech",
-    "Dashboards",
-    "Catagories/Work",
-    "Catagories/Personal",
-    "Attachments",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "attachments/ec_174.jpg",
-    "attachments/c91.jpg",
-    "attachments/dow.jpg",
-    "Pasted image 20240908235531.png",
-    "Pasted image 20240908235533.png",
-    "assets/ec_174.jpg",
-    "99-Utilities/attachments/wJjgiiv_d.webp",
-    "99-Utilities/assets/uc.svg"
+    "Untitled 1.canvas"
   ]
 }
