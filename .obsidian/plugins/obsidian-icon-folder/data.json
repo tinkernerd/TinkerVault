@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpen",
       "LiStickyNote",
       "LiNewspaper",
       "LiPhone",
-      "📧",
-      "🐧"
+      "📧"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,10 +34,8 @@
     "debugMode": false
   },
   "Catagories": "LiShapes",
-  "Journal": "LiFeather",
   "Notes": "LiPencil",
   "Templates": "LiLayoutDashboard",
-  "Journal/01 - Daily": "LiCalendarX",
   "Journal/02 - Weekly": "LiCalendarX",
   "Journal/03 - Monthly": "LiCalendarX",
   "Journal/04 - Yearly": "LiCalendarX",
@@ -70,5 +68,6 @@
   "Catagories/Work/Email Templates.md": "📧",
   "Catagories/Work/Phones.md": "LiPhone",
   "Dashboards/Notes.md": "LiStickyNote",
-  "Dashboards/Articles Dashboard.md": "LiNewspaper"
+  "Dashboards/Articles Dashboard.md": "LiNewspaper",
+  "Catagories/Personal/Bible.md": "LiBookOpen"
 }

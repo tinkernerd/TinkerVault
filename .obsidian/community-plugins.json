@@ -2,12 +2,9 @@
   "digitalgarden",
   "dataview",
   "calendar",
-  "obsidian-day-planner",
   "yet-another-obsidian-synchronizer",
   "obsidian-tasks-plugin",
-  "periodic-notes",
   "templater-obsidian",
-  "nldates-obsidian",
   "obsidian-icon-folder",
   "auto-template-trigger",
   "callout-manager",
@@ -21,5 +18,7 @@
   "obsidian-style-settings",
   "obsidian-charts",
   "customjs",
-  "daily-note-navbar"
+  "obsidian-bible-reference",
+  "periodic-notes",
+  "obsidian-day-planner"
 ]

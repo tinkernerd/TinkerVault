@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79cb32e67d1c2808",
+        "id": "53828760b774e988",
         "type": "tabs",
         "children": [
           {
-            "id": "eb91385685f46e2a",
+            "id": "ac258c42f705a4ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboards/Notes.md",
+                "file": "Notes/Gen1-1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:bible/book/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboards/Notes.md",
+                "file": "Notes/Gen1-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboards/Notes.md",
+                "file": "Notes/Gen1-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboards/Notes.md"
+                "file": "Notes/Gen1-1.md"
               }
             }
           },
@@ -338,7 +338,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboards/Notes.md"
+                "file": "Notes/Gen1-1.md"
               }
             }
           },
@@ -351,7 +351,55 @@
             }
           },
           {
-            "id": "c2538a4731470392",
+            "id": "8418b3e0d6dd2228",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b7e5e0882056e9d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "22a6f63859cb926b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "93cbe28c9780dfe9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6e80a91991a2a5b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5449e7eaa450c4af",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ecc88a487b3007d7",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -359,7 +407,23 @@
             }
           },
           {
-            "id": "8418b3e0d6dd2228",
+            "id": "0858db4ac62a6688",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "75fab89f26247ab9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "77c1ab79d8076223",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -367,7 +431,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -376,59 +440,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-day-planner:Timeline": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
       "templater-obsidian:Templater": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "recipe-grabber:Recipe Grabber": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-day-planner:Timeline": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb91385685f46e2a",
+  "active": "ac258c42f705a4ae",
   "lastOpenFiles": [
-    "Dashboards/Projects.md",
-    "Dashboards/Tasks.md",
-    "Dashboards/Notes.md",
-    "Dashboards/Articles Dashboard.md",
-    "Dashboards/Catagories.md",
-    "Dashboards/Fleeting Notes.md",
-    "Notes/Computer Network Cheat Sheet.md",
-    "Templates/Article.md",
-    "Notes/Comprehensive Fishing Guide.md",
-    "Catagories/Work/Email Templates.md",
-    "Catagories/Work/Phones.md",
-    "Catagories/Work/SMC.md",
-    "Notes/Google Meet Boom Camera.md",
+    "Templates/Bible/Book of the Bible Study Note.md",
+    "Notes/Gen1-1.md",
+    "Catagories/Personal/Bible.md",
     "Templates/Note.md",
-    "Templates/Fleeting Note.md",
     "Templates/Daily.md",
-    "Notes/Digital Signage.md",
-    "Notes/Cow Codes.md",
-    "Notes/Event Verification - Email Template.md",
-    "Notes/Wired Access Issues - Email Template.md",
-    "Notes/Spelling-Bee-Setup.md",
-    "Notes/SAC Athletic Games.md",
-    "Notes/1st Source Bank Fieldhouse 101.md",
+    "Catagories/Personal/Photography.md",
+    "Journal/01 - Daily/2024-10-09.md",
+    "Catagories/Personal/bible2.md",
+    "Catagories/Personal/Aviation.md",
+    "Templates/Bible/Highlighted Verse.md",
+    "Templates/Bible/General Bible Notes.md",
+    "Templates/Bible/Daily Verse Reflection.md",
+    "Templates/Fleeting Note.md",
+    "Journal/Verse/Daily.md",
+    "[[Journal/Verse/Daily.md",
+    "Journal/01 - Daily/2024-09-22.md",
+    "[[Journal/Verse",
+    "[[Journal/02.md",
+    "[[Journal",
+    "Journal/02.md",
+    "Journal/Verse",
+    "Journal/01 - Daily/2024-09-29.md",
+    "Journal/01 - Daily/2024-09-25.md",
+    "Journal/01 - Daily/2024-09-23.md",
+    "Journal/01 - Daily",
+    "Journal",
+    "Templates/Weekly.md",
+    "Templates/Bible/Thematic Study Note.md",
+    "Templates/Bible/Prayer Journal.md",
+    "Templates/Project.md",
+    "Templates/Article.md",
+    "Templates/Bible",
+    "Catagories/Personal/Bible",
     "Attachments/~$t-Source-Bank-Fieldhouse-101-How-to-Set-Up-for-Sporting-Events.docx",
     "Attachments/y2020_355634_iRVision-with-explorer-11--Compatibility-View.pdf",
     "Attachments/Wired-Account-Recovery-_-Password-reset---General.pdf",
-    "Attachments/Voice_Mail_Telephone_Quick_Start_Guide.pdf",
-    "Attachments/Use-Epson-iProjection-to-Link-Computer-to-Screens.pdf",
-    "Attachments/Test-Office-365.xml",
-    "Attachments/Telephone-System-2.docx.pdf",
-    "Attachments/Telephone-System-2.docx",
-    "Attachments/SWMC-Department-Print-Codes.pdf",
-    "Attachments/Spelling-Bee-Setup-2023.pdf",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image4.png",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image3.png",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image2.png",
@@ -439,9 +507,6 @@
     "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image1.png",
     "Attachments/Room-Setups-Veyon-Specifically-image5.png",
     "Attachments/Room-Setups-Veyon-Specifically-image4.png",
-    "Dashboards/TIL.md",
-    "Notes/Traefik.md",
-    "Notes/TurtlePy.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
