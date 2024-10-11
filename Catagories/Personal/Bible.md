@@ -16,15 +16,19 @@ Welcome to your Bible Study Dashboard! Here, you'll find all your notes organize
 
 ```dataview
 table file.name as "Note", metadata.dateCreated as "Date Added", 
-  regexmatch("(?<=\\[!bible\\]\\+ Verse of the Day)(.*?)(?=\n)", this.file.content) as "Verse"
+  regexmatch("(?<=\\[!bible\\]\\+ Verse of the Day \\[.*?\\]\\(.*?\\)\\n> )(.*?)(?=\\n)", this.file.content) as "Verse"
 from "Journal"
 where contains(tags, "dailyverse")
-sort metadata.dateCreated desc
-limit 1
-
+sort metadata.dateCreated ASC
 ```
 ---
-
+```dataview
+TABLE WITHOUT ID  
+link(file.path, title) AS "Note", dateCreated as "Date Added", 
+regexmatch("(?<=\\[!bible\\]\\+ Verse of the Day \\[.*?\\]\\(.*?\\)\\n> )(.*?)(?=\\n)", this.file.content) as "Verse"
+FROM "Journal" AND #dailyverse 
+SORT default(dateCreated, "") desc
+```
 ## 📚 **Books of the Bible**
 
 ```dataview
@@ -73,4 +77,5 @@ sort metadata.dateCreated desc
 These are key verses or passages that you’ve marked as important or meaningful during your study. The metadata allows you to add a short description or context for each verse.
 
 ---
+
 

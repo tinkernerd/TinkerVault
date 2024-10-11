@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "53828760b774e988",
+        "id": "896d255fb86cc374",
         "type": "tabs",
         "children": [
           {
-            "id": "ac258c42f705a4ae",
+            "id": "a5e2c23adc2af82c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Gen1-1.md",
+                "file": "Journal/01 - Daily/2024-10-10.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Gen1-1.md",
+                "file": "Journal/01 - Daily/2024-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Gen1-1.md",
+                "file": "Journal/01 - Daily/2024-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Gen1-1.md"
+                "file": "Journal/01 - Daily/2024-10-10.md"
               }
             }
           },
@@ -338,7 +338,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Gen1-1.md"
+                "file": "Journal/01 - Daily/2024-10-10.md"
               }
             }
           },
@@ -429,9 +429,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "c49ca442bd8b82a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "038f1a12f7e736f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd1b387bb79a62ca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 27
       }
     ],
     "direction": "horizontal",
@@ -440,7 +464,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-bible-reference:Bible Verse Lookup": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -455,48 +478,49 @@
       "recipe-grabber:Recipe Grabber": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
       "obsidian-day-planner:Timeline": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac258c42f705a4ae",
+  "active": "a5e2c23adc2af82c",
   "lastOpenFiles": [
-    "Templates/Bible/Book of the Bible Study Note.md",
-    "Notes/Gen1-1.md",
-    "Catagories/Personal/Bible.md",
-    "Templates/Note.md",
+    "Journal/02 - Daily Verse/Untitled.md",
+    "Templates/Bible/Daily Verse.md",
+    "Notes/Untitled.md",
+    "Templates/js/fetch_daily_verse.js",
     "Templates/Daily.md",
-    "Catagories/Personal/Photography.md",
-    "Journal/01 - Daily/2024-10-09.md",
-    "Catagories/Personal/bible2.md",
-    "Catagories/Personal/Aviation.md",
-    "Templates/Bible/Highlighted Verse.md",
-    "Templates/Bible/General Bible Notes.md",
-    "Templates/Bible/Daily Verse Reflection.md",
+    "Journal/01 - Daily/2024-10-10.md",
+    "Templates/js/DailyVerseFetchScript.js",
+    "Templates/js",
+    "Templates/Bible/Book of the Bible Study Note.md",
     "Templates/Fleeting Note.md",
-    "Journal/Verse/Daily.md",
-    "[[Journal/Verse/Daily.md",
+    "Templates/Note.md",
+    "Templates/DailyVerseFetchScript.js",
+    "Journal/Untitled.md",
+    "Journal/02 - Daily Verse",
+    "Catagories/Personal/Bible.md",
+    "Templates/Dailyverse.js",
+    "Attachments/To pursue the impossible ....excalidraw.md",
+    "DNP Template.md",
+    "Catagories/Classes/ISYS115.md",
+    "Catagories/Tech/AI.md",
+    "Catagories/Classes/ENST112.md",
+    "Notes/Population Activity.md",
+    "Notes/Water Testing Lab – Field Work.md",
+    "Catagories/Personal/Fishing.md",
     "Journal/01 - Daily/2024-09-22.md",
-    "[[Journal/Verse",
-    "[[Journal/02.md",
-    "[[Journal",
-    "Journal/02.md",
-    "Journal/Verse",
-    "Journal/01 - Daily/2024-09-29.md",
-    "Journal/01 - Daily/2024-09-25.md",
     "Journal/01 - Daily/2024-09-23.md",
+    "Catagories/Personal/Aviation.md",
+    "Journal/01 - Daily/2024-10-09.md",
+    "Notes/PPL - Chapter 1.md",
+    "Notes/Gen1-1.md",
+    "Catagories/Personal/Photography.md",
+    "Catagories/Personal/bible2.md",
+    "[[Journal/Verse",
+    "[[Journal",
+    "Journal/Verse",
     "Journal/01 - Daily",
-    "Journal",
-    "Templates/Weekly.md",
-    "Templates/Bible/Thematic Study Note.md",
-    "Templates/Bible/Prayer Journal.md",
-    "Templates/Project.md",
-    "Templates/Article.md",
-    "Templates/Bible",
-    "Catagories/Personal/Bible",
-    "Attachments/~$t-Source-Bank-Fieldhouse-101-How-to-Set-Up-for-Sporting-Events.docx",
-    "Attachments/y2020_355634_iRVision-with-explorer-11--Compatibility-View.pdf",
-    "Attachments/Wired-Account-Recovery-_-Password-reset---General.pdf",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image4.png",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image3.png",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image2.png",

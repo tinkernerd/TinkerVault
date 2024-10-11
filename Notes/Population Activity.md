@@ -3,7 +3,7 @@ title: Population Activity
 author: Nicholas Stull
 source: ENST 112 Environmental Science
 description: This activity explores how human activities affect wildlife populations over time, focusing on deer management on Arizona’s Kaibab Plateau, the Michigan wolf hunt, and wolf reintroductions.
-dateCreated: 2024-10-01172501
+dateCreated: 2024-10-01T17:25:01
 tags:
   - population
   - wildlife

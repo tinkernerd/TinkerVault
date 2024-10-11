@@ -32,7 +32,7 @@ TABLE WITHOUT ID
 link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", file.mtime AS "Last modified", status as Status
 FROM #enst112 AND "Notes"
 WHERE type="Homework" OR type="Lab"
-SORT dateCreated ASC
+SORT dateCreated DESC
 ```
 
 ## Articles
