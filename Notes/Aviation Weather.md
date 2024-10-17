@@ -6,13 +6,13 @@ tags:
   - flight
   - weather
 context: Personal
+topic:
+  - Aviation
 type: Resource
 status: Active
 dateCreated: 2024-04-09
-topic:
-  - Aviation
 ---
-# Weather
+a# Weather
 [Windy: Wind map & weather forecast](https://www.windy.com/?41.718,-86.880,7)
 
 

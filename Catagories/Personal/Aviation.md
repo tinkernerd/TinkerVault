@@ -29,19 +29,26 @@ _|_|______________
 ```dataview  
 TABLE WITHOUT ID  
 link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", file.mtime AS "Last modified", status as Status
-FROM "Notes"
-WHERE category="Aviation"
+FROM "Notes" AND #aviation 
+WHERE contains(topic, "Aviation")
 SORT title ASC
 ```
 
 ### Private Pilot License (PPL) Notes:
-- [Introduction to PPL](Private%20Pilots%20License%20(PPL).md)
-- Chapters 1-6 covering everything from pre-flight checks to the joys of solo flights.
+1. **Info**
+    - [Foxtrot Flight Training LLC](https://www.foxtrotflighttraining.com/)
+2. **Recs**
+    - [Private Pilot License (PPL) - Definition, Privileges, & Requirements / ATP Flight School](https://atpflightschool.com/become-a-pilot/flight-training/private-pilot-license.html)
+3. **Financial**
+    - [Private Student Loan Apply | Stratus Financial](https://stratus.finance/apply-pilot-student-loan/)
+4. **Education** 
+    - [Sporty's Online Training](https://courses.sportys.com/training/portal/course/PRIVATE/welcome)
 #### Class Notes
 ```dataview  
 TABLE WITHOUT ID  
-link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", file.mtime AS "Last modified", status as Status
-FROM #aviation AND #classnotes and #ppl AND "Notes"
+link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", file.mtime AS "Last modified", status as Status, chapter as "Volume/Chapter"
+FROM #classnotes AND "Notes"
+WHERE contains(topic, "Aviation")
 SORT title ASC
 ```
   

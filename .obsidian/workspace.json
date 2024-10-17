@@ -13,14 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/01 - Daily/2024-10-11.md",
+                "file": "Templates/Aviation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Aviation"
+            }
+          },
+          {
+            "id": "f74db15416c796dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Introduction to the Airplane.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to the Airplane"
+            }
+          },
+          {
+            "id": "fa08ffde1fb0c533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/01 - Daily/2024-10-17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-17"
+            }
+          },
+          {
+            "id": "3640f5f2f5daf766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Aviation Weather.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aviation Weather"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -40,7 +88,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +105,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -77,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -102,7 +158,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -111,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/01 - Daily/2024-10-11.md",
+                "file": "Excalidraw/Drawing 2024-10-17 16.57.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +177,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2024-10-17 16.57.47.excalidraw"
             }
           },
           {
@@ -128,10 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/01 - Daily/2024-10-11.md",
+                "file": "Excalidraw/Drawing 2024-10-17 16.57.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drawing 2024-10-17 16.57.47.excalidraw"
             }
           },
           {
@@ -143,7 +205,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -152,8 +216,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/01 - Daily/2024-10-11.md"
-              }
+                "file": "Excalidraw/Drawing 2024-10-17 16.57.47.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2024-10-17 16.57.47.excalidraw"
             }
           },
           {
@@ -161,7 +227,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -169,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -177,7 +247,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -185,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -193,7 +267,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -201,7 +277,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -209,7 +287,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -217,7 +297,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -225,7 +307,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -233,7 +317,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -241,7 +327,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -249,7 +337,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -257,7 +347,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -265,7 +357,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -273,7 +367,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -281,7 +377,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -289,7 +387,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -297,7 +397,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -305,7 +407,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -313,7 +417,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -321,7 +427,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -329,7 +437,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -338,8 +448,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Journal/01 - Daily/2024-10-11.md"
-              }
+                "file": "Excalidraw/Drawing 2024-10-17 16.57.47.excalidraw.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Drawing 2024-10-17 16.57.47.excalidraw"
             }
           },
           {
@@ -347,7 +459,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -355,7 +469,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -363,7 +479,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -371,7 +489,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -379,7 +499,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -387,7 +509,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -395,7 +519,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -403,7 +529,9 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -411,7 +539,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -419,7 +549,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -427,7 +559,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -435,7 +569,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -443,7 +579,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -451,7 +589,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -459,7 +599,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -467,7 +609,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -475,7 +619,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -483,7 +629,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -491,7 +639,49 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "133c92fc77a6dea4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9e53084c8498ccf5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c300ee2603622765",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "699e8ea33cdce32e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -523,34 +713,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ed11a4009c0d2743",
+  "active": "fa08ffde1fb0c533",
   "lastOpenFiles": [
-    "Notes/Ecosystems Population & Succession.md",
-    "Catagories/Classes/ENST112.md",
-    "Notes/Ecosystems - Biomass, Bioaccumulation, and Biomagnification.md",
+    "Notes/Introduction to the Airplane.md",
+    "Attachments/forces.jpg",
+    "forces.jpg",
+    "Catagories/Personal/Aviation.md",
     "Catagories/Classes/ISYS115.md",
-    "Notes/PPL - Chapter 1.md",
-    "Notes/PPL - Chapter 2.md",
-    "Notes/PPL - Chapter 3.md",
-    "Notes/PPL - Chapter 4.md",
-    "Notes/PPL - Chapter 5.md",
-    "Notes/PPL - Chapter 6.md",
+    "Catagories/Classes/ENST112.md",
+    "Excalidraw/Drawing 2024-10-17 17.04.27.excalidraw.md",
+    "Attachments/To pursue the impossible ....excalidraw.md",
+    "Excalidraw/Drawing 2024-10-17 16.57.47.excalidraw.md",
+    "Journal/01 - Daily/2024-10-17.md",
+    "Excalidraw/Drawing 2024-10-17 16.55.50.excalidraw.md",
+    "Excalidraw",
+    "Attachments/Pasted image 20241017165408.jpg",
+    "Templates/Aviation.md",
+    "Templates/Bible/General Bible Notes.md",
+    "Templates/Bible/Daily Verse.md",
+    "Notes/Air Facts - Weather.md",
+    "Notes/Aviation Weather.md",
+    "Notes/Airventure Air Show.md",
+    "Notes/Live METAR Data.md",
     "Notes/Private Pilots License (PPL).md",
-    "Notes/ISYS 229 Notes - Python.md",
-    "Notes/ISYS 115 - Chapter 3.md",
-    "Notes/ISYS 115 - Chapter 2.md",
-    "Notes/ISYS 115 - Chapter 1.md",
-    "Notes/ENST 112 - Week 2.md",
-    "Notes/ENST 112 - Week 1.md",
-    "Notes/Great Lakes Carp - CCS.md",
+    "Notes/When Should You Fly.md",
     "Templates/Article.md",
     "Templates/Note.md",
-    "Templates/Daily.md",
-    "Notes/Untitled 1.md",
-    "Notes/Forecasting the Future.md",
+    "Notes/PPL - Chapter 5.md",
+    "Notes/PPL - Chapter 1.md",
     "Journal/01 - Daily/2024-10-11.md",
-    "Notes/Loaner.ps1 PowerShell Script Overview.md",
-    "Notes/Loaner Update Script.md",
+    "Notes/Ecosystems Population & Succession.md",
+    "Notes/Ecosystems - Biomass, Bioaccumulation, and Biomagnification.md",
     "Templates/js/fetch_daily_verse.js",
     "Templates/js/DailyVerseFetchScript.js",
     "Templates/js",
@@ -560,7 +753,6 @@
     "[[Journal/Verse",
     "[[Journal",
     "Journal/Verse",
-    "Journal/01 - Daily",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image4.png",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image3.png",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image2.png",
@@ -568,9 +760,6 @@
     "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image4.png",
     "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image3.png",
     "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image2.png",
-    "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image1.png",
-    "Attachments/Room-Setups-Veyon-Specifically-image5.png",
-    "Attachments/Room-Setups-Veyon-Specifically-image4.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

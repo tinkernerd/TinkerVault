@@ -12,7 +12,6 @@ topic:
   - Aviation
   - Festival
 dateCreated: 2024-04-09
-category: Aviation
 ---
 # Airventure
 ## FAA Info
