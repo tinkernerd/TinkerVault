@@ -2,7 +2,7 @@
 title: 
 type: Article
 author:
-dateCreated: 
+dateCreated: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
 articleDate: 
 tags:
 source: 

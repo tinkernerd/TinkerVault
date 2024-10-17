@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "896d255fb86cc374",
+        "id": "248748add30111f5",
         "type": "tabs",
         "children": [
           {
-            "id": "a5e2c23adc2af82c",
+            "id": "ed11a4009c0d2743",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/01 - Daily/2024-10-10.md",
+                "file": "Journal/01 - Daily/2024-10-11.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:bible/book/",
+                "query": "carp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/01 - Daily/2024-10-10.md",
+                "file": "Journal/01 - Daily/2024-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/01 - Daily/2024-10-10.md",
+                "file": "Journal/01 - Daily/2024-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/01 - Daily/2024-10-10.md"
+                "file": "Journal/01 - Daily/2024-10-11.md"
               }
             }
           },
@@ -338,7 +338,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Journal/01 - Daily/2024-10-10.md"
+                "file": "Journal/01 - Daily/2024-10-11.md"
               }
             }
           },
@@ -453,6 +453,46 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "6dc284f12f7e1de6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8495fd312852b5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e18391968f408027",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "54500ba3e3defd19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5720c2f88d080da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 27
@@ -483,40 +523,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a5e2c23adc2af82c",
+  "active": "ed11a4009c0d2743",
   "lastOpenFiles": [
-    "Journal/02 - Daily Verse/Untitled.md",
-    "Templates/Bible/Daily Verse.md",
-    "Notes/Untitled.md",
-    "Templates/js/fetch_daily_verse.js",
+    "Notes/Ecosystems Population & Succession.md",
+    "Catagories/Classes/ENST112.md",
+    "Notes/Ecosystems - Biomass, Bioaccumulation, and Biomagnification.md",
+    "Catagories/Classes/ISYS115.md",
+    "Notes/PPL - Chapter 1.md",
+    "Notes/PPL - Chapter 2.md",
+    "Notes/PPL - Chapter 3.md",
+    "Notes/PPL - Chapter 4.md",
+    "Notes/PPL - Chapter 5.md",
+    "Notes/PPL - Chapter 6.md",
+    "Notes/Private Pilots License (PPL).md",
+    "Notes/ISYS 229 Notes - Python.md",
+    "Notes/ISYS 115 - Chapter 3.md",
+    "Notes/ISYS 115 - Chapter 2.md",
+    "Notes/ISYS 115 - Chapter 1.md",
+    "Notes/ENST 112 - Week 2.md",
+    "Notes/ENST 112 - Week 1.md",
+    "Notes/Great Lakes Carp - CCS.md",
+    "Templates/Article.md",
+    "Templates/Note.md",
     "Templates/Daily.md",
-    "Journal/01 - Daily/2024-10-10.md",
+    "Notes/Untitled 1.md",
+    "Notes/Forecasting the Future.md",
+    "Journal/01 - Daily/2024-10-11.md",
+    "Notes/Loaner.ps1 PowerShell Script Overview.md",
+    "Notes/Loaner Update Script.md",
+    "Templates/js/fetch_daily_verse.js",
     "Templates/js/DailyVerseFetchScript.js",
     "Templates/js",
-    "Templates/Bible/Book of the Bible Study Note.md",
-    "Templates/Fleeting Note.md",
-    "Templates/Note.md",
     "Templates/DailyVerseFetchScript.js",
-    "Journal/Untitled.md",
     "Journal/02 - Daily Verse",
-    "Catagories/Personal/Bible.md",
     "Templates/Dailyverse.js",
-    "Attachments/To pursue the impossible ....excalidraw.md",
-    "DNP Template.md",
-    "Catagories/Classes/ISYS115.md",
-    "Catagories/Tech/AI.md",
-    "Catagories/Classes/ENST112.md",
-    "Notes/Population Activity.md",
-    "Notes/Water Testing Lab – Field Work.md",
-    "Catagories/Personal/Fishing.md",
-    "Journal/01 - Daily/2024-09-22.md",
-    "Journal/01 - Daily/2024-09-23.md",
-    "Catagories/Personal/Aviation.md",
-    "Journal/01 - Daily/2024-10-09.md",
-    "Notes/PPL - Chapter 1.md",
-    "Notes/Gen1-1.md",
-    "Catagories/Personal/Photography.md",
-    "Catagories/Personal/bible2.md",
     "[[Journal/Verse",
     "[[Journal",
     "Journal/Verse",

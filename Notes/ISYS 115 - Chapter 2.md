@@ -13,7 +13,7 @@ tags:
 topic:
   - programming
   - isys115
-type: Class Note
+type: Resource
 ---
 
 # Chapter 2: Working with Functions, Data Types, and Operators

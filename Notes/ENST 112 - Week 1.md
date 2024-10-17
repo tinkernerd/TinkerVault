@@ -4,7 +4,7 @@ tags:
   - Environmental
   - Science
   - enst112
-type: Class Note
+type: Resource
 dateCreated: 2024-09-15
 ---
 # US Environmental Policy 3157

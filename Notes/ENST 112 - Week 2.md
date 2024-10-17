@@ -9,7 +9,7 @@ tags:
   - Environmental
   - Science
   - enst112
-type: Class Note
+type: Resource
 ---
 
 # ENST 112 Environmental Science

@@ -12,7 +12,7 @@ tags:
 topic:
   - programming
   - isys115
-type: Class Note
+type: Resource
 ---
 
 # Chapter 3: Building Arrays and Controlling Flow

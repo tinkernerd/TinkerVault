@@ -4,7 +4,7 @@ tags:
   - aviation
   - classnotes
   - ppl
-type: ClassNote
+type: Resource
 dateCreated: 2024-09-21T00:01:00
 status: Active
 ---

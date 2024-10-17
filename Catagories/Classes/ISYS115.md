@@ -8,7 +8,7 @@ tags:
   - isys115
   - programming
   - web_development
-type: ClassNote
+type: Resource
 ---
 # JavaScript (ISYS115)
 

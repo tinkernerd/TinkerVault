@@ -4,7 +4,7 @@ tags:
   - isys229
   - Python
 author: Nicholas Stull
-type: Class Note
+type: Resource
 dateCreated: 2018-01-15T15:25:00
 ---
 # Numbers & Operators

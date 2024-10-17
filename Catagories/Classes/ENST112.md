@@ -7,7 +7,7 @@ tags:
   - environmental_science
   - enst112
   - weekly_notes
-type: ClassNote
+type: Resource
 ---
 
 # Environmental Science (ENST 112)
@@ -21,7 +21,7 @@ From ecosystems to environmental justice, this section holds everything related 
 TABLE WITHOUT ID  
 link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", file.mtime AS "Last modified", status as Status
 FROM #enst112  AND "Notes"
-WHERE type="Class Note"
+WHERE type="Resource" or type="Class Note"
 SORT dateCreated ASC
 ```
 
@@ -40,7 +40,7 @@ SORT dateCreated DESC
 ```dataview  
 TABLE WITHOUT ID  
 link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", articleDate as "Article Date"
-FROM #environment AND "Notes"
+FROM #enst112 or #environment AND "Notes" 
 WHERE type="Article"
 SORT dateCreated ASC
 ```

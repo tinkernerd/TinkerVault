@@ -13,7 +13,7 @@ tags:
 topic:
   - programming
   - isys115
-type: Class Note
+type: Resource
 ---
 
 # Chapter 1: Introduction to JavaScript
