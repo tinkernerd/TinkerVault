@@ -4,71 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "248748add30111f5",
+        "id": "6eb21a3f4cabe9bc",
         "type": "tabs",
         "children": [
           {
-            "id": "ed11a4009c0d2743",
+            "id": "f0b934329073761b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Aviation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Aviation"
-            }
-          },
-          {
-            "id": "f74db15416c796dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Introduction to the Airplane.md",
+                "file": "Notes/Human Population and GMOs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to the Airplane"
-            }
-          },
-          {
-            "id": "fa08ffde1fb0c533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/01 - Daily/2024-10-17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-17"
-            }
-          },
-          {
-            "id": "3640f5f2f5daf766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Aviation Weather.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aviation Weather"
+              "title": "Human Population and GMOs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "carp",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-17 16.57.47.excalidraw.md",
+                "file": "Notes/Human Population and GMOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2024-10-17 16.57.47.excalidraw"
+              "title": "Backlinks for Human Population and GMOs"
             }
           },
           {
@@ -188,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-17 16.57.47.excalidraw.md",
+                "file": "Notes/Human Population and GMOs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2024-10-17 16.57.47.excalidraw"
+              "title": "Outgoing links from Human Population and GMOs"
             }
           },
           {
@@ -216,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-17 16.57.47.excalidraw.md"
+                "file": "Notes/Human Population and GMOs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2024-10-17 16.57.47.excalidraw"
+              "title": "Outline of Human Population and GMOs"
             }
           },
           {
@@ -448,10 +402,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-17 16.57.47.excalidraw.md"
+                "file": "Notes/Human Population and GMOs.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2024-10-17 16.57.47.excalidraw"
+              "title": "File properties for Human Population and GMOs"
             }
           },
           {
@@ -683,6 +637,26 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "dac0c764e788a84d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d738a556b894b631",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 27
@@ -713,37 +687,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fa08ffde1fb0c533",
+  "active": "f0b934329073761b",
   "lastOpenFiles": [
+    "Catagories/Classes/ENST112.md",
+    "Notes/Human Population Homework.md",
+    "Catagories/Classes/ISYS115.md",
+    "Catagories/Personal/Bible.md",
+    "Templates/Bible Study.md",
+    "Templates/Note.md",
+    "Templates/Daily.md",
+    "Templates/Untitled",
+    "Templates/Project.md",
+    "Templates/Weekly.md",
+    "Templates/Article.md",
+    "Templates/Bible/Book of the Bible Study Note.md",
+    "Templates/Bible/General Bible Notes.md",
+    "Templates/Bible/Highlighted Verse.md",
+    "Templates/Bible/Prayer Journal.md",
+    "Templates/Bible/Thematic Study Note.md",
+    "Notes/Chapter 1 - KK.md",
+    "Catagories/Personal/Aviation.md",
+    "Notes/Gen1-1.md",
+    "Journal/01 - Daily/2024-10-20.md",
+    "Notes/Human Population and GMOs.md",
     "Notes/Introduction to the Airplane.md",
+    "Notes/Great Lakes Carp - CCS.md",
+    "Journal/01 - Daily/2024-10-19.md",
+    "Notes/Genetically Modified Food.md",
+    "Journal/01 - Daily/2024-10-17.md",
     "Attachments/forces.jpg",
     "forces.jpg",
-    "Catagories/Personal/Aviation.md",
-    "Catagories/Classes/ISYS115.md",
-    "Catagories/Classes/ENST112.md",
     "Excalidraw/Drawing 2024-10-17 17.04.27.excalidraw.md",
-    "Attachments/To pursue the impossible ....excalidraw.md",
-    "Excalidraw/Drawing 2024-10-17 16.57.47.excalidraw.md",
-    "Journal/01 - Daily/2024-10-17.md",
-    "Excalidraw/Drawing 2024-10-17 16.55.50.excalidraw.md",
     "Excalidraw",
     "Attachments/Pasted image 20241017165408.jpg",
-    "Templates/Aviation.md",
-    "Templates/Bible/General Bible Notes.md",
-    "Templates/Bible/Daily Verse.md",
-    "Notes/Air Facts - Weather.md",
-    "Notes/Aviation Weather.md",
-    "Notes/Airventure Air Show.md",
-    "Notes/Live METAR Data.md",
-    "Notes/Private Pilots License (PPL).md",
-    "Notes/When Should You Fly.md",
-    "Templates/Article.md",
-    "Templates/Note.md",
-    "Notes/PPL - Chapter 5.md",
-    "Notes/PPL - Chapter 1.md",
-    "Journal/01 - Daily/2024-10-11.md",
-    "Notes/Ecosystems Population & Succession.md",
-    "Notes/Ecosystems - Biomass, Bioaccumulation, and Biomagnification.md",
     "Templates/js/fetch_daily_verse.js",
     "Templates/js/DailyVerseFetchScript.js",
     "Templates/js",
@@ -752,7 +728,6 @@
     "Templates/Dailyverse.js",
     "[[Journal/Verse",
     "[[Journal",
-    "Journal/Verse",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image4.png",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image3.png",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image2.png",
