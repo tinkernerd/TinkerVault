@@ -1,18 +1,10 @@
 ---
-title: Untitled
+title: Fix VPN Issue
 dateCreated: 2020-07-20T08:41:20
 type: Resource
-category: SMC
----
-type: Resource
-category: SMC
-
-# Fix VPN Issue
-
-Created: 2020-07-20 08:41:20 -0400
-
-Modified: 2024-06-27 10:03:28 -0400
-
+topic:
+  - VPN
+  - Networking
 ---
 
 1.  Turn off WIFI and turn on Airplane mode from the login screen.

@@ -1,12 +1,15 @@
 ---
 title: ASUS Blu-Ray – NOT SHOWING AS DEVICE
 dateCreated: 2023-10-26T08:19:10
-type: Blu-Ray
-category: SMC
-tag:
-- blueray
-- smc
-source: "https://mightbeuseful.wordpress.com/2015/12/05/solved-asus-external-blu-raydvd-external-drive-not-working-in-windows-10"
+type: Resource
+tags:
+  - blueray
+  - smc
+source: https://mightbeuseful.wordpress.com/2015/12/05/solved-asus-external-blu-raydvd-external-drive-not-working-in-windows-10
+topic:
+  - Blue-Ray
+  - Dvd
+  - Windows
 ---
 OK, so follow these instructions TO THE LETTER.
 1.  Plug your external drive back in, and "Intio Combo Device Class" should appear in the Device Manager.

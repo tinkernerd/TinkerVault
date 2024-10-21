@@ -12,7 +12,6 @@ status: Archive
 dateCreated: 2024-09-21T21:18:00
 articleDate: 2024-09-21T21:18:00
 source: https://www.ahsystems.com/articles/Antenna-Selection.pdf
-category: Radio
 author: A.H. Systems
 ---
 > [!NOTE]

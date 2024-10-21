@@ -7,7 +7,6 @@ tags:
 topic:
   - Fieldhouse
   - SMC
-category: SMC
 ---
 # How to Set Up for Sporting Events
 

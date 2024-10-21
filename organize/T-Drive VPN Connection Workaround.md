@@ -1,25 +1,13 @@
 ---
-title: Untitled
+title: T-Drive/VPN Connection Workaround
 dateCreated: 2021-02-25T10:20:27
 type: Resource
-category: SMC
----
-type: Resource
-category: SMC
-
-# T-Drive/VPN Connection Workaround
-
-Created: 2021-02-25 10:20:27 -0500
-
-Modified: 2024-06-27 10:03:25 -0400
-
+topic:
+  - Networking
+  - Network Drive
 ---
 
 There is a workaround for those who have difficulties connecting to T drive, here are the steps on how to do it, in case you want me to walk you through it let me know and I can help you as well by phone/hangouts/zoom;
-
-
-
-
 1.  Connect to the college's network via openvpn and remain connected throughout the active session.
 2.  Launch Remote Desktop Connection. (Tip: If using Windows 10, they can go to the search field and type remote desktop connection and it should find it there.)
 3.  In the Computer field, type in rdp.swmich.local

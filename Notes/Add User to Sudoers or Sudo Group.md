@@ -5,7 +5,7 @@ tags:
   - linux
   - sudo
 dateCreated: 2024-09-21T23:35:00
-category: Linux
+topic: Linux
 ---
 
 # How to Add User to Sudoers or Sudo Group 

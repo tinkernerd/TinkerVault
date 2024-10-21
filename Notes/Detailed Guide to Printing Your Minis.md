@@ -8,7 +8,10 @@ tags:
   - Guide
   - 3dprinting
   - dnd
-category: 3d Printing
+topic:
+  - DND
+  - Mini-Figures
+  - 3d-Printing
 type: Article
 status: Archive
 dateCreated: 2024-09-15 08:00

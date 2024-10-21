@@ -2,5 +2,8 @@
   "accentColor": "#003b6f",
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "CalloutsAndCheckboxesHelpbox",
+    "callouts"
+  ]
 }

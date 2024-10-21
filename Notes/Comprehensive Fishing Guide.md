@@ -12,7 +12,7 @@ tags:
   - equipment-guide
 type: Article
 status: Archive
-category: Fishing
+topic: Fishing
 ---
 > [!NOTE]
 ```dataviewjs

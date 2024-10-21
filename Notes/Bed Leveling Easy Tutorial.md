@@ -12,7 +12,8 @@ tags:
 type: Article
 dateCreated: 2024-09-15 08:00
 status: Archive
-category: 3d Printing
+topic:
+  - 3d-Printing
 ---
 
 > [!NOTE]

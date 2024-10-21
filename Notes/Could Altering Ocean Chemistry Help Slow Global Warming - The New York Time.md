@@ -9,7 +9,7 @@ tags:
   - environment
   - enst112
 source: https://www.nytimes.com/2024/09/23/climate/oceans-rivers-carbon-removal.html
-category: Environmental
+topic: Environmental
 status: Active
 ---
 > [!NOTE]

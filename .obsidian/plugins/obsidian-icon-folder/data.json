@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNetwork",
+      "LiTrainFrontTunnel",
+      "LiChevronsLeftRight",
       "LiApple",
-      "LiBookOpen",
-      "LiStickyNote",
-      "LiNewspaper",
-      "LiPhone"
+      "LiBookOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,5 +70,6 @@
   "Dashboards/Notes.md": "LiStickyNote",
   "Dashboards/Articles Dashboard.md": "LiNewspaper",
   "Catagories/Personal/Bible.md": "LiBookOpen",
-  "Catagories/Tech/Apple.md": "LiApple"
+  "Catagories/Tech/Apple.md": "LiApple",
+  "Catagories/Tech/VPN.md": "LiNetwork"
 }

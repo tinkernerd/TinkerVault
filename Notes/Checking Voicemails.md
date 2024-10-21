@@ -2,7 +2,8 @@
 title: Checking Voicemail
 dateCreated: 2020-03-30T15:36:49
 type: Resource
-category: SMC
+topic:
+  - Phones
 ---
 From your assigned Office phone:
 

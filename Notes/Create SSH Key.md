@@ -8,7 +8,9 @@ tags:
   - ssh
   - Security
 dateCreated: 2024-07-14T21:55:33
-category: Networking
+topic:
+  - Networking
+  - ssh
 articleDate: 2021-12-15T04:00:00
 status: Active
 ---

@@ -20,7 +20,7 @@ Whether you’re dealing with Active Directory or setting up wallpapers, this se
 
 ```dataview  
 TABLE WITHOUT ID  
-link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", 
+link(file.path, title) AS "Note", dateCreated as "Date Created", 
 file.mtime AS "Last modified"  
 FROM "Notes" 
 WHERE contains(topic, "Windows")

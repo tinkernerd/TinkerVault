@@ -16,7 +16,6 @@ topic:
   - 3d-Printing
 status: Archive
 dateCreated: 2024-09-15 08:00
-category: 3d Printing
 ---
 
 > [!NOTE]

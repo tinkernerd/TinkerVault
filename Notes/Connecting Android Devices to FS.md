@@ -2,13 +2,14 @@
 title: Connecting Android Devices to Faculty and Staff Network
 dateCreated: 2021-11-03T15:13:21
 type: Resource
-category: SMC
+topic:
+  - Networking
 ---
 The Preferred configuration is as follows:
 
-**[EAP:]{.underline}** PEAP
+<u>EAP:</u>PEAP
 
-**[CA Certificate:]{.underline}** Don't Validate
+<u>CA Certificate:</u> Don't Validate
 
 Identity and Password are your login credentials.
 
@@ -16,13 +17,13 @@ Press **Advanced**.
 
 Anonymous Identity will be your username.
 
-**[Phase 2 Authentication:]{.underline}** MSCHAPV2
+<u>Phase 2 Authentication:</u> MSCHAPV2
 
-**[IP Settings:]{.underline}** DHCP
+<u>IP Settings: </u>DHCP
 
-**[Proxy:]{.underline}** None
+<u>Proxy:</u> None
 
-**[Metered:]{.underline}** Detect Automatically
+<u>Metered:</u> Detect Automatically
 
 Press **Save**.
 

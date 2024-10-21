@@ -2,8 +2,10 @@
 title: APPLE - T-Drive File Path
 dateCreated: 2024-07-01T11:15:00
 type: Resource
-category: Apple
-topic: Network Drive
+topic:
+  - Network Drive
+  - Apple
+  - Networking
 ---
 1. Click on "Go" located in top left taskbar of desktop to reveal a dropdown menu
 2. Click "Connect to a server" located near the bottom of the dropdown menu

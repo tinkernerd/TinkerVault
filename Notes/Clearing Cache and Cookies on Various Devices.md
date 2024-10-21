@@ -2,22 +2,12 @@
 title: Untitled
 dateCreated: 2022-09-07T17:24:36
 type: Resource
-category: Networking
-tag:
-- Networking
+topic:
+  - Networking
+tags:
+  - Networking
 source: https://harvard.service-now.com/ithelp?id=kb_article&sys_id=e934a5cf6fc9a204a3a79b9eae3ee4bf#edge
 ---
-type: Resource
-category: SMC
-
-# Clearing Cache and Cookies on Various Devices
-
-Created: 2022-09-07 17:24:36 -0400
-
-Modified: 2024-06-27 09:49:28 -0400
-
----
-
 When troubleshooting issues with any site, always exit your browser completely after clearing your cache before attempting to access the site again. In Windows, close all your browser windows; in Mac OS X, quit (Command-q) your browser.
 
 Android
@@ -37,17 +27,17 @@ Chrome
 Edge
 
 1.  Click the 3 dots in the upper right corner of the browser.
-2.  Choose**Settings.**
-3.  Under Clear Browsing Data click**Choose What To Clear**.
+2.  Choose **Settings.**
+3.  Under Clear Browsing Data click **Choose What To Clear**.
 4.  Select the items you wish to clear (e.g., Browsing History, Cookies and Saves Website Date, Cached Data and Files, Downloaded History and Form Data).
-5.  Click**Clear**.
+5.  Click **Clear**.
 
 Firefox
 
 1.  Click the hamburger menu in the upper right corner of the browser.
-2.  Click**Preferences**(Mac) or**Options**(PC).
-3.  Click**Privacy**in the left menu bar.
-4.  Click**Clear Your Recent History**.
+2.  Click **Preferences**(Mac) or**Options**(PC).
+3.  Click **Privacy**in the left menu bar.
+4.  Click **Clear Your Recent History**.
 5.  From the Time range to clear: drop-down menu, select the desired range; to clear your entire cache, select**Everything**.
 6.  Click the down arrow next to "Details" to choose which elements of the history to clear.
 7.  Select Browsing & Download History, Form & Search History, Cookies, Cache and Active Logins

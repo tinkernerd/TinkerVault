@@ -14,7 +14,9 @@ tags:
   - Cheat
   - Sheet
 type: Article
-category: Tech
+topic:
+  - Ai
+  - Chatgpt
 status: Archive
 ---
 > [!NOTE]

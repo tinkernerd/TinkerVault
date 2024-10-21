@@ -1,0 +1,4 @@
+.callout[data-callout="github"] {
+    --callout-color:255,165,0;
+    --callout-icon: lucide-github;
+}

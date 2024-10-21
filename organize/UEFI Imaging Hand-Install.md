@@ -1,22 +1,12 @@
 ---
-title: Untitled
+title: UEFI Imaging Hand-Install
 dateCreated: 2024-08-22T13:22:38
 type: Resource
-category: SMC
+topic:
+  - Networking
+  - Computers
 ---
-type: Resource
-category: SMC
-
-# UEFI Imaging Hand-Install
-
-Created: 2024-08-22 13:22:38 -0400
-
-Modified: 2024-08-22 13:41:45 -0400
-
----
-
-**[UEFI Imaging 2021]{.underline}**
-
+UEFI Imaging 2021
 1.  Repeatedly press F12 upon startup to enter into the BIOS
 2.  Select 'Bios Setup'
 3.  Enable 'AHCI' in Storage
@@ -45,13 +35,7 @@ Modified: 2024-08-22 13:41:45 -0400
 26. Upon Windows 10 user setup, select "Continue with limited setup" instead of entering in a Microsoft account
 27. Use "admin" as the username and the Super Secret admin password (ask any technician)
 28. For security questions, use "SMC" as the answer
-
-<!-- -->
-
 29. **Login as admin**
-
-<!-- -->
-
 30. Activate and set password for administrator
 31. Disable Admin account
 32. Restart PC
