@@ -22,6 +22,7 @@ Whether you’re dealing with Active Directory or setting up wallpapers, this se
 TABLE WITHOUT ID  
 link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", 
 file.mtime AS "Last modified"  
-FROM #Windows   AND "Notes"
+FROM "Notes" 
+WHERE contains(topic, "Windows")
 SORT title ASC
 ```

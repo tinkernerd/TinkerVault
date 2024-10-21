@@ -12,7 +12,6 @@ topic:
   - Tech
 type: Resource
 dateCreated: 2024-09-21T20:55:00
-category: Windows
 status: Active
 ---
 # Active Directory

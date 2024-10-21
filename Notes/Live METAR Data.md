@@ -1,6 +1,4 @@
----
-title: Live METAR Data
-topic:
+---topic:
   - Weather
   - Aviation
 type: Resource

@@ -6,7 +6,6 @@ tags:
   - flight
   - aviation
 status: Active
-context: Personal
 type: Resource
 topic:
   - Aviation

@@ -5,7 +5,6 @@ tags:
   - aviation
   - flight
   - weather
-context: Personal
 topic:
   - Aviation
 type: Resource

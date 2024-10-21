@@ -3,7 +3,7 @@ title:
 description: 
 dateCreated: 2020-07-01T12:00:30
 tags: 
-	- smc
+- smc
 type: Resource
 ---
 Our Digital signage is capable of alerts, video playback w/ audio, announcements (PA System), and generic digital signage. Yodeck and Google Slides are our backbone infrastructures where you can build widgets, slides, timed events, announcements, and alerts. The credentials for Yodeck and the Google Slides are held by Lyndon Parrish (Head of Security), Michelle Orlaske (Head of Marketing), and Joshua Bennett (IT Technician and Raspberry Pi Guy). Here are some informational videos to get started:

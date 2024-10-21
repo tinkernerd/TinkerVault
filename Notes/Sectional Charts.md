@@ -1,6 +1,4 @@
----
-title: Sectional Charts
-tags:
+---tags:
   - sectionalcharts
   - flight
   - aviation

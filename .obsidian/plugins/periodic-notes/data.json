@@ -6,7 +6,7 @@
     "format": "YYYY-MM-DD",
     "folder": "Journal/01 - Daily",
     "template": "Templates/Daily",
-    "enabled": false
+    "enabled": true
   },
   "weekly": {
     "format": "",

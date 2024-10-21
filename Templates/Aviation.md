@@ -1,6 +1,6 @@
 ---
-title: 
-description: 
+title:
+description:
 dateCreated: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
 type: Resource
 topic:
