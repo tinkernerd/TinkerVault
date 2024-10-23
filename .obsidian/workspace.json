@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1690e45219a937d3",
+        "id": "4af6375af5516d3a",
         "type": "tabs",
         "children": [
           {
-            "id": "18aace193f551f83",
+            "id": "51489053e0a6635c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "organize/Harden-Loaner-Laptop-(Change-.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Harden-Loaner-Laptop-(Change-"
             }
           }
         ]
@@ -164,9 +169,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "organize/Harden-Loaner-Laptop-(Change-.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Harden-Loaner-Laptop-(Change-"
             }
           },
           {
@@ -760,6 +767,16 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "c0b2389ae9787742",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 27
@@ -774,7 +791,6 @@
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
@@ -791,8 +807,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "25669383a6f07ef2",
+  "active": "51489053e0a6635c",
   "lastOpenFiles": [
+    "Notes/Pierogi Casserole.md",
+    "organize/Harden-Loaner-Laptop-(Change-.md",
+    "organize/Prevent Win11 installation.md",
+    "Pierogi Casserole.md",
+    "Notes/2cor0517.md",
+    "Notes/2cor0102.md",
+    "Untitled.cook",
+    "recipies/Pierogi Casserole.md",
+    "Attachments/Pierogi-Casserole.jpg",
+    "recipies",
     "Notes/When Should You Fly.md",
     "Notes/Matt0514.md",
     "Notes/Introduction to the Airplane.md",
@@ -812,13 +838,6 @@
     "Templates/Bible Verse.md",
     "Templates/Callout.md",
     "Templates/GitHub Callout.md",
-    "Templates/Daily.md",
-    "Templates/Fleeting Note.md",
-    "Notes/2cor0102.md",
-    "Notes/eph0101.md",
-    "Notes/2cor0517.md",
-    "Notes/John0112.md",
-    "Notes/Phil0406.md",
     "organize",
     "Templates/Untitled",
     "Attachments/forces.jpg",
@@ -830,15 +849,12 @@
     "Templates/js",
     "Templates/DailyVerseFetchScript.js",
     "Journal/02 - Daily Verse",
-    "Templates/Dailyverse.js",
-    "[[Journal/Verse",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image4.png",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image3.png",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image2.png",
     "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image1.png",
     "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image4.png",
     "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image3.png",
-    "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image2.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -1,8 +1,8 @@
 {
-  "folder": "recipies",
-  "saveInActiveFile": true,
-  "imgFolder": "",
-  "saveImg": true,
+  "folder": "Notes",
+  "saveInActiveFile": false,
+  "imgFolder": "Attachments",
+  "saveImg": false,
   "saveImgSubdir": false,
   "recipeTemplate": "---\ntags: recipe \ncreated: {{datePublished}}\nauthor: {{author.name}}\nsource: {{url}} \ntitle:{{name}}\ntype: Recipe\n---\nCookTime: {{magicTime cookTime}}\nTotalTime: {{magicTime totalTime}}\n\n{{{description}}}\n\n![{{{name}}}]({{image}})\n\n### Ingredients\n\n{{#each recipeIngredient}}\n- {{{this}}}\n{{/each}}\n\n### Instructions\n\n{{#each recipeInstructions}}\n{{#if this.itemListElement}}\n#### {{{this.name}}}\n{{#each this.itemListElement}}\n- {{{this.text}}}\n{{/each}}\n{{else if this.text}}\n- {{{this.text}}}\n{{else}}\n- {{{this}}}\n{{/if}}\n{{/each}}\n\n-----\n\n## Notes\n",
   "decodeEntities": true,

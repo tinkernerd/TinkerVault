@@ -9,11 +9,9 @@
   "auto-template-trigger",
   "callout-manager",
   "obsidian-clipper",
-  "cooklang-viewer-and-editor",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-linter",
-  "recipe-grabber",
   "darlal-switcher-plus",
   "obsidian-style-settings",
   "obsidian-charts",
@@ -24,5 +22,6 @@
   "mathlive",
   "periodic-notes",
   "obsidian-projects",
-  "obsidian-underline"
+  "obsidian-underline",
+  "recipe-grabber"
 ]
