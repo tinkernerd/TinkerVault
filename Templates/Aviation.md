@@ -1,13 +1,15 @@
 ---
-title:
-description:
-dateCreated: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
+title: 
+description: 
+dateCreated:
+  "{ DATE:YYYY-MM-DD HH:mm:ss }": 
 type: Resource
 topic:
   - Aviation
 tags:
   - aviation
   - classnotes
-Chapter: "Volume #/Chapter #"
+Chapter: "Chapter #"
 status: Active
+Book: "Volume #"
 ---

@@ -1,6 +1,6 @@
 ---
 type: Fleeting
-dateCreated: {{date}}
+dateCreated: {{DATE:YYYY-MM-DD HH:mm:ss}}
 ---
 
 > [!INFO] Fleeting Notes

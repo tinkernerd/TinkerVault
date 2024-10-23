@@ -2,7 +2,7 @@
 title: 
 description: 
 type: Resource
-dateCreated: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
+dateCreated: {{DATE:YYYY-MM-DD HH:mm:ss}}
 tags: 
 author:
 ---

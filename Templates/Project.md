@@ -3,7 +3,7 @@ context: Work
 type: Project
 status: Active Holding Planned Maybe Archive
 topic: 
-dateCreated: {{date}}
+dateCreated: {{DATE:YYYY-MM-DD HH:mm:ss}}
 ---
 
 I mean, probably edit this template to remove the explanatory text.

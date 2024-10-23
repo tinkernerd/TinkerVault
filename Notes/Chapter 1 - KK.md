@@ -2,13 +2,15 @@
 title: End of Chapter Questions
 author: John Bevere
 source: Killing Kryptonite Destroy What Steals Your Strength
-chapter: Chapter 1
-type: Bible Study
+Chapter: Chapter01
+type: Bible
 status: Active
 dateCreated: 2024-10-20T15:44
 tags:
   - BibleStudy/killing-kryptonite
   - killing-kryptonite
+topic:
+  - Bible-Study
 ---
 **End of Chapter Questions:**
 1. How does your life stand out from the world?

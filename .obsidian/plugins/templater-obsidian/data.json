@@ -14,7 +14,7 @@
   "user_scripts_folder": "",
   "enable_folder_templates": false,
   "folder_templates": [],
-  "enable_file_templates": true,
+  "enable_file_templates": false,
   "file_templates": [
     {
       "regex": ".*",

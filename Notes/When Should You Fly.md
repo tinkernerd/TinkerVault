@@ -9,8 +9,9 @@ tags:
   - aviation
   - classnotes
   - ppl
-Chapter: Volume 1/Chapter 1
+Chapter: Chapter01
 status: Active
+Book: Volume01
 ---
 Before your flight lesson, you must make an important decision – whether to fly today or not. This is commonly referred to as the go/no-go decision. Even though at this stage of your education your flight instructor will help you make this decision, it’s important that you learn to analyze conditions for yourself. The decision is made based on several factors. One of the most important factors is the existing weather conditions.
 

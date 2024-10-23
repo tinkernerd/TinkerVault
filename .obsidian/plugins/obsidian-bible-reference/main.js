@@ -68,3 +68,5 @@ platform/platform.js:
    * Available under MIT license
    *)
 */
+
+/* nosourcemap */

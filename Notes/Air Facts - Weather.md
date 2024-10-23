@@ -1,5 +1,5 @@
----title: "Air Facts: Weather Geeks"
-description:
+---
+title: "Air Facts: Weather Geeks"
 dateCreated: 2024-10-17T16:35
 type: Resource
 topic:
@@ -8,9 +8,11 @@ tags:
   - aviation
   - classnotes
   - weather
-Chapter: Volume 1/Chapter 1
+Chapter: Chapter01
 status: Active
+Book: Volume01
 ---
+
 One of the really great things about learning to fly is the new relationship you’ll develop with the study of weather. You’ll acquire a knowledge of highs, lows, and fronts and how these phenomena affect weather patterns.
 
 

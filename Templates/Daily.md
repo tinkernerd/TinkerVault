@@ -1,6 +1,6 @@
 ---
 title: Daily Note - {{date}}
-dateCreated: {{time:YYYY-MM-DDTHH:mm:ss}}
+dateCreated: {{DATE:YYYY-MM-DD HH:mm:ss}}
 type: Daily
 tags: 
 - dailyverse 

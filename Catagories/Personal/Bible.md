@@ -5,22 +5,26 @@ tags:
   - bible
   - dashboard
 author: Nicholas Stull
+type: Bible
 ---
-# 📖 **Bible Dashboard**
----
-
-## 📚 **Books of the Bible**
+## 📚 **Bible Notes**
 
 ```dataview
-table file.name as "Note",
-  file.cday as "Created",
-  file.mday as "Last Modified",
-  metadata.title as "Book Title",
-  metadata.description as "Description",
-  metadata.tags as "Tags"
-from "Notes"
-where contains(tags, "bible/book")
-sort file.name asc
+TABLE WITHOUT ID  
+link(file.path, title) AS "Note", dateCreated as "Date Created", file.mtime AS "Last modified", status as Status, chapter as "Volume/Chapter"
+FROM "Notes" and !#verse
+WHERE contains(type, "Bible") AND !contains(topic, "Bible-Study") 
+SORT title ASC
+```
+---
+## 📚 **Verses**
+
+```dataview
+TABLE WITHOUT ID  
+link(file.path, title) AS "Note", dateCreated as "Date Created", file.mtime AS "Last modified",book as "Book", chapter as "Chapter"
+FROM "Notes" and #verse 
+WHERE contains(type, "Bible")
+SORT title ASC
 ```
 
 ---
@@ -29,20 +33,8 @@ sort file.name asc
 ```dataview
 TABLE WITHOUT ID  
 link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created",  status as Status, chapter as "Volume/Chapter"
-FROM "Notes"
-WHERE contains(type, "Bible Study")
+FROM "Notes" AND #BibleStudy/killing-kryptonite 
+WHERE contains(type, "Bible") AND contains(topic, "Bible-Study")
 SORT title ASC
 ```
----
-## ✨ **Other Notes**
-
-```dataview
-list
-from "Notes" or "Journal"
-where contains(tags, "bible/note")
-
-```
-
-Here you’ll find additional reflections, studies, and insights that don’t directly belong to any particular book but are essential for understanding the Bible more deeply.
-
 ---
