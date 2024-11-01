@@ -1,187 +1,70 @@
 ---
 title: Loaner Update Script
-description: The Loaner.ps1 PowerShell script is used to delete and recreate a user profile with an expiration date on loaner computers.
-type: Resource
 dateCreated: 2024-01-31T15:56:17
-tags: 
-- smc
-- powershell
+type: Resource
+topic:
+  - Powershell
+Repo: TinkerNerd/Loaner-Updater
+description: The Loaner.ps1 PowerShell script is used to delete and recreate a user profile with an expiration date on loaner computers.
+category: Programming
 ---
 
-# Loaner Update Script
+> [!Github] [TinkerNerd/Loaner-Updater](https://github.com/tinkernerd/loaner-updater)
+> The Loaner.ps1 PowerShell script is used to delete and recreate a user profile with an expiration date on loaner computers.
 
-**Description:**
 
-  
-
-The Loaner.ps1 PowerShell script is used to delete and recreate a user profile with an expiration date on loaner computers.
-
-  
-  
-  
-
-**Contact:**
-
-  
-
-For any issues or questions regarding the script, please contact Nick (nstull@swmich.edu)
-
-  
-  
-  
-
-**If the Loaner was not used for the semester period, the Loaner can be extended to the next semester instead of being completely re-provisioned.
-
-**
-
-  
+**If the Loaner was not used for the semester period, the Loaner can be extended to the next semester instead of being completely re-provisioned.**
 
 **Extending the borrowing period:**
 
-  
-
 1. Download the Extender.ps1 file from OneNote or GitHub.
-
-  
 
 2. Run PowerShell as an Administrator.
 
-  
-
 3. Run the script: `.Extender.ps1`
-
-  
 
 4. To change the expiration date, modify the `ExtendDate` variable in the script.
 
-  
-  
-  
+
 
 **Password:**
 
-  
-
 Password for the script: DoitLoan1@
 
-  
-  
-  
+
 
 **Re-enabling the account:**
 
-  
-
 To re-enable the account, use the following command: `net user smcloaner /expires:never`
 
-  
-  
-  
 
-**Instructions:**
 
-  
+> [!todo]+ Instructions:
+1.  Download Loaner.ps1 to a flash drive.
+2.  Log in to the loaner computer with an Administrator account.
+    a.  .administrator
+    b.  Admin Password
+3.  Insert the flash drive into the loaner computer.
+    a.  Open Search Bar in Windows
+    b.  Search for Powershell and click to run
+4.  Change directory to the flash drive:
+    a.  In PowerShell, use the command `cd DriveLetter` (e.g., `cd D:`).
+    b.  To navigate to the Administrator's Download Folder - 'cd C:/users/administrator/downloads'
+5.  .loaner_fall.ps1 [it is .filename.ps1]
+    a.  If you receive this error : ".ps1 is not digitally signed. The script will not execute on the system."
+    b.  Run : Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+    c.  Re-run
+6.  After reboot, check the log for any unwanted programs or wanted programs not installed.
+7.  Walk through the Loaner Refresh Upon Return Guide
 
-1.  Download Loaner.ps1 to a flash drive.
-
-2.  Log in to the loaner computer with an Administrator account.
-
-  
-
-    a.  .administrator
-
-  
-
-    b.  Admin Password
-
-  
-
-3.  Insert the flash drive into the loaner computer.
-
-  
-
-    a.  Open Search Bar in Windows
-
-  
-
-    b.  Search for Powershell and click to run
-
-  
-
-4.  Change directory to the flash drive:
-
-  
-
-    a.  In PowerShell, use the command `cd DriveLetter` (e.g., `cd D:`).
-
-  
-
-    b.  To navigate to the Administrator's Download Folder - 'cd C:/users/administrator/downloads'
-
-  
-
-5.  .loaner_fall.ps1 [it is .filename.ps1]
-
-  
-
-    a.  If you receive this error : ".ps1 is not digitally signed. The script will not execute on the system."
-
-  
-
-    b.  Run : Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-
-  
-
-    c.  Re-run
-
-  
-
-6.  After reboot, check the log for any unwanted programs or wanted programs not installed.
-
-7.  Walk through the Loaner Refresh Upon Return Guide
-
-  
-  
-  
-
-**Program Duties:**
-
-  
-
+> [!todo]+ Program Duties:
 1. Checks if Java, Filewave, and Windows agent are installed.
-
-  
-
 2. Compares the "LoanerPrograms" list with installed programs.
-
-  
-
 3. Deletes the old user and recreates a new user with an expiration date.
-
-  
-
 4. Bypasses the OOBE (Out of Box Experience).
-
-  
-
 5. Logs errors and other information to the flash drive.
+6. Reboots the computer after the script fini shes.
 
-  
-
-6. Reboots the computer after the script finishes.
-
-  
-  
-  
-  
-  
-
-**Note:**
-
-  
-
-- Ensure to replace `DriveLetter` with the actual drive letter where the script is saved.
-
-  
-
-- **Running PowerShell as an Administrator*** Right-click on the PowerShell icon and select "Run as Administrator."
+> [!note]+ Notes:
+> - Ensure to replace `DriveLetter` with the actual drive letter where the script is saved.
+> - **Running PowerShell as an Administrator*** Right-click on the PowerShell icon and select "Run as Administrator."

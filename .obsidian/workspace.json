@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Loaner Update Script 1.md",
+                "file": "Notes/Loaner Update Script.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loaner Update Script 1"
+              "title": "Loaner Update Script"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: Loaner Update Script ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,10 +95,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Loaner Update Script 1.md"
+                "file": "Notes/Loaner Update Script.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Loaner Update Script 1"
+              "title": "File properties for Loaner Update Script"
             }
           },
           {
@@ -166,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Loaner Update Script 1.md"
+                "file": "Notes/Loaner Update Script.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Loaner Update Script 1"
+              "title": "Outline of Loaner Update Script"
             }
           }
         ]
@@ -194,15 +195,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "25669383a6f07ef2",
+  "active": "79ea6bf980791f64",
   "lastOpenFiles": [
+    "Notes/Loaner Update Script.md",
+    "Notes/Loaner Update Script.md",
+    "Notes/Loaner PS Script Rundown.md",
     "Home.md",
     "organize/Loaner-Form.md",
     "organize/Loaner-Agreement-Form-Process.md",
     "organize/Loaner---Refresh-Upon-Return.md",
     "organize/Harden-Loaner-Laptop-(Change-.md",
     "organize/Laptop-Password-Reset.md",
-    "Notes/Loaner Update Script 1.md",
     "organize/Loaner---Refresh-Upon-Return-.md",
     "organize/Loaner-Return-Intake-Email.md",
     "organize/Loaner-Returns.md",
@@ -220,8 +223,6 @@
     "Notes/DOM Manipulation JavaScript.md",
     "Notes/APIs in JavaScript.md",
     "Notes/Arduino.md",
-    "README.md",
-    "Dashboards/Articles Dashboard.md",
     "Assets/Attachments/linux.png",
     "Assets/Attachments/papers_on_desk.jpg",
     "Assets/Attachments/js.jpg",
