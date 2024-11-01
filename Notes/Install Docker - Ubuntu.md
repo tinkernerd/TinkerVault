@@ -10,7 +10,10 @@ tags:
   - linxu
 source: https://docs.docker.com/engine/install/ubuntu/
 author: Docker
-type: Installs
+type: Resource
+category: Docker
+topic:
+  - Install
 ---
 > [!NOTE]
 ```dataviewjs

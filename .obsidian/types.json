@@ -28,6 +28,7 @@
     "date": "datetime",
     "dateCreated": "datetime",
     "articleCreated": "datetime",
-    "articleDate": "datetime"
+    "articleDate": "datetime",
+    "banner": "text"
   }
 }

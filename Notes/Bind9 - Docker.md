@@ -8,6 +8,9 @@ dateCreated: 2024-09-15
 source: https://www.youtube.com/@christianlempa/
 author: ChristianLempa
 status: Archive
+category: Docker
+topic:
+  - DNS
 ---
 
 > [!NOTE]

@@ -2,13 +2,13 @@
 created: 2024-07-14T21:52:56 (UTC -04:00)
 tags:
   - etcher
-  - linux
   - install
   - ubuntu
 title: Etcher
 source: https://phoenixnap.com/kb/etcher-ubuntu
 author: Marko Aleksic
 type: Installs
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

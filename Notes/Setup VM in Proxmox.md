@@ -8,6 +8,9 @@ tags:
 source: https://support.us.ovhcloud.com/hc/en-us/articles/360010916620-How-to-Create-a-VM-in-Proxmox-VE
 author: Ovhcloud
 type: Article
+category: Linux
+topic:
+  - Proxmox
 ---
 > [!NOTE]
 ```dataviewjs

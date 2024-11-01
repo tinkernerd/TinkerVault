@@ -6,6 +6,7 @@ tags:
   - ubuntu
   - rdp
 type: Resource
+category: Linux
 ---
 
 # How to Connect to a Windows PC from Ubuntu using RDP

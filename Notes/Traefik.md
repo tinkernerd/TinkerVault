@@ -11,11 +11,11 @@ tags:
   - ssl
   - certificates
 topic:
-  - Tech
   - Docker
+  - Networking
 type: Project
 status: Active
-category: Networking
+category: Docker
 ---
 > [!NOTE]
 ```dataviewjs

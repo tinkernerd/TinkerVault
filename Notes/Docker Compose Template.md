@@ -10,9 +10,8 @@ type: Resource
 topic:
   - Docker
   - Tech
+category: Docker
 ---
-# Docker Compose Template
-
 .env
 ```env
 Container_Name=Example

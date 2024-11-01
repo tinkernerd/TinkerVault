@@ -16,6 +16,7 @@ type: Article
 status: Archive
 dateCreated: 2024-09-15 08:00
 articleDate: 2017-05-02T13:40:11
+category: 3d Printing
 ---
 
 

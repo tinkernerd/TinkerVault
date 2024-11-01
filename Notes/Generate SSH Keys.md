@@ -8,7 +8,9 @@ tags:
 source: https://phoenixnap.com/kb/generate-setup-ssh-key-ubuntu
 author: Vladimir Kaplarevic
 title: SSH Keys
-status: Archive
+topic:
+  - Security
+category: Networking
 ---
 
 > [!NOTE]

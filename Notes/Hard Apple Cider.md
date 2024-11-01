@@ -4,8 +4,7 @@ source: https://www.growforagecookferment.com/how-to-make-hard-cider-part-1-brew
 author: Colleen Codekas
 type: Recipe
 tags:
-  - drinks
-  - Alcohol
+  - drinks/alcohol
 dateCreated: 2024-09-21 08:00
 status: Archive
 ---

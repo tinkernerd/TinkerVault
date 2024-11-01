@@ -2,7 +2,6 @@
 created: 2024-07-14T21:53:06 (UTC -04:00)
 title: GUI on an Ubuntu Server
 tags:
-  - linux
   - Guide
   - desktop
   - ubuntu
@@ -10,6 +9,7 @@ tags:
 source: https://phoenixnap.com/kb/how-to-install-a-gui-on-ubuntu
 author: Marko Aleksic
 type: Installs
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

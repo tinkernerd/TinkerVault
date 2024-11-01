@@ -2,10 +2,11 @@
 title: How to Add User to Sudoers or Sudo Group
 type: Resource
 tags:
-  - linux
   - sudo
 dateCreated: 2024-09-21T23:35:00
-topic: Linux
+topic:
+  - Sudo
+category: Linux
 ---
 
 # How to Add User to Sudoers or Sudo Group 

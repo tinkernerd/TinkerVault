@@ -2,11 +2,11 @@
 dateCreated: 2024-07-14T21:52:10 (UTC -04:00)
 tags:
   - Nginx
-  - linux
 title: Nginx
 source: https://phoenixnap.com/kb/install-nginx-on-ubuntu
 author: Goran Jevtic
 type: Installs
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

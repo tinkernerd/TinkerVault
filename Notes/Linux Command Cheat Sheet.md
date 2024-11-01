@@ -5,11 +5,11 @@ author: Alvin Khoo
 topic:
   - Linux
 tags:
-  - linux
   - commands
   - commandline
 dateCreated: 2015-05-22T11:55:00
-type: CheatSheet
+type: Resource
+category: Linux
 ---
 # Linux Command Cheat Sheet
 

@@ -6,6 +6,7 @@ tags:
 type: Project
 dateCreated: 2024-09-21T21:09:00
 status: Archive
+category: RaspberryPi
 ---
 ## Ham Radio
 ### Portable Raspberry Pi 4 Amateur Radio Station*

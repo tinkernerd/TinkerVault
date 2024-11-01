@@ -2,10 +2,9 @@
 title: RaspiDigiDisplay
 dateCreated: 2022-02-08T10:05:58
 type: Project
-topic:
-  - RaspberryPi
 Repo: TinkerNerd/RaspiDigiDisplay
 description: RaspiDigiDisplay is a Raspberry Pi project that installs and configures a digital display setup, including automatic cursor management, Python-based display clicker scripts, and system configurations for a smooth user experience.
+category: RaspberryPi
 ---
 # RaspiDigiDisplay
 

@@ -2,12 +2,12 @@
 dateCreated: 2024-07-14T21:49:46
 tags:
   - Networking
-  - linux
   - rpm
 title: RPM Packages
 source: https://phoenixnap.com/kb/install-rpm-packages-on-ubuntu
 author: Vladimir Kaplarevic
 type: Installs
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

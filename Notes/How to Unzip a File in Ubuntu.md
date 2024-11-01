@@ -1,11 +1,11 @@
 ---
 title: How to Unzip a File in Ubuntu
 tags:
-  - linux
   - Files
   - unzip
 type: Resource
 dateCreated: 2024-09-21T23:47:00
+category: Linux
 ---
 
 # How to Unzip a File in Ubuntu

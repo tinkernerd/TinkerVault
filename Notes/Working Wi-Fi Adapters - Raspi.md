@@ -3,15 +3,13 @@ title: Working Wi-Fi Adapters
 tags:
   - raspberry-pi
   - wifi
-  - linux
   - "#Networking"
 topic:
-  - Tech
-  - Wifi
   - RaspberryPi
 dateCreated: 2024-09-21T21:09:00
 type: Resource
-category: Raspberry Pi
+category: Linux
+context: Resources
 ---
 ---
 # Working Wi-Fi Adapters

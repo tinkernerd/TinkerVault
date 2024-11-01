@@ -1,23 +1,11 @@
 ---
-title: ChatGPT Prompting Cheat Sheet
-author: Finxter
-source: https://finxter.com/
-description: A guide to prompt engineering with ChatGPT, covering rules of thumb, examples, and best practices for effective interactions with language models.
+title: ChatGPT Prompting
 date: 2024-09-15
 articleDate: 2024-09-15
-tags:
-  - OpenAI
-  - ChatGPT
-  - Prompt
-  - Engineering
-  - AI
-  - Cheat
-  - Sheet
-type: Article
+type: Resource
 topic:
   - Ai
-  - Chatgpt
-status: Archive
+category: Networking
 ---
 > [!NOTE]
 ```dataviewjs

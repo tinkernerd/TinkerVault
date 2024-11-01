@@ -1,12 +1,13 @@
----topic:
+---
+topic:
   - Weather
-  - Aviation
 type: Resource
 tags:
   - aviation
   - weather
 status: Active
 dateCreated: 2024-09-21T00:14:00
+category: Aviation
 ---
 # METAR Data for Multiple Airports
 

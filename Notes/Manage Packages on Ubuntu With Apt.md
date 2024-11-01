@@ -1,12 +1,12 @@
 ---
 dateCreated: 2024-07-14T21:49:54 (UTC -04:00)
 tags:
-  - linux
   - apt
 title: Apt Packges
 source: https://phoenixnap.com/kb/how-to-manage-packages-ubuntu-debian-apt-get
 author: Dejan Tucakov
 type: Installs
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

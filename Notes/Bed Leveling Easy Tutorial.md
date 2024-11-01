@@ -9,11 +9,12 @@ tags:
   - Bed
   - Leveling
   - 3dprinting
-type: Article
+type: Resource
 dateCreated: 2024-09-15 08:00
 status: Archive
 topic:
-  - 3d-Printing
+  - Maintaince
+category: 3d Printing
 ---
 
 > [!NOTE]

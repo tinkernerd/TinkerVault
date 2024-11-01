@@ -2,6 +2,8 @@
 title: Wiping Drives W/DBAN
 dateCreated: 2021-11-04T16:18:44
 type: Resource
+topic:
+  - Storage
 category: Linux
 ---
 1. Plug in a USB with **DBAN (D**erick's **B**oot **A**nd **N**uke**)** installed.

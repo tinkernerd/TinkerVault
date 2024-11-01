@@ -2,9 +2,9 @@
 title: Create Sudo User
 type: Resource
 tags:
-  - linux
   - sudo
 dateCreated: 2024-09-21T23:35:00
+category: Linux
 ---
 
 # Create Sudo User

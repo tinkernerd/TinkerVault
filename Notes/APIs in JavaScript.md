@@ -3,16 +3,13 @@ title: APIs in JavaScript
 author: Nicholas Stull
 description: Working with APIs in JavaScript, including fetching and displaying data.
 date: 2024-09-15
-tags:
-  - tech
-  - javascript
-  - js
 topic:
-  - Tech
-  - Javascript
+  - APIs
+  - JavaScript
 type: Resource
 dateCreated: 2024-09-15 08:00
 status: Active
+category: Programming
 ---
 
 # APIs in JavaScript

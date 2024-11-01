@@ -2,12 +2,12 @@
 dateCreated: 2024-07-14T21:52:00 (UTC -04:00)
 tags:
   - pip
-  - linux
   - Python
 title: PIP
 source: https://phoenixnap.com/kb/how-to-install-pip-on-ubuntu
 author: Dejan Tucakov
 type: Installs
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

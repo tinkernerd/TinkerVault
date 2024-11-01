@@ -3,16 +3,11 @@ title: Building Arrays and Controlling Flow
 author: Carey/Vodnik
 source: JavaScript for Web Warriors 7th Edition
 dateCreated: 2024-09-18
-tags:
-  - JavaScript
-  - arrays
-  - flow
-  - control
-  - isys115
 topic:
-  - programming
   - isys115
+  - Javascript
 type: Resource
+category: Programming
 ---
 
 # Chapter 3: Building Arrays and Controlling Flow

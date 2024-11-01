@@ -4,11 +4,11 @@ tags:
   - Firewall
   - Networking
   - ubuntu
-  - linux
 source: https://phoenixnap.com/kb/configure-firewall-with-ufw-on-ubuntu
 author: Sofija Simic
 title: Set Up UFW Firewall
 type: Article
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

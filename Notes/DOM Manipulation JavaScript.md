@@ -1,17 +1,14 @@
 ---
-title: "DOM Manipulation"
-author: "Nicholas Stull"
-description: "Introduction to DOM manipulation using JavaScript to modify HTML elements dynamically."
+title: DOM Manipulation
+author: Nicholas Stull
+description: Introduction to DOM manipulation using JavaScript to modify HTML elements dynamically.
 date: 2024-09-15
-tags:
-  - tech
-  - javascript
 topic:
-- Tech
-- Javascript
+  - JavaScript
 type: Resource
 dateCreated: 2024-09-15 08:00
 status: Active
+category: Programming
 ---
 
 # DOM Manipulation

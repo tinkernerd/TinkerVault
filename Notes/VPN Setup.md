@@ -4,7 +4,7 @@ dateCreated: 2023-04-10T12:34:35
 type: Resource
 topic:
   - VPN
-  - Openvpn
+category: Networking
 ---
 # VPN Setup
 1. Have user log into the computer they are needing VPN set up on.

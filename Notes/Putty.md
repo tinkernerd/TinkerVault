@@ -2,13 +2,13 @@
 created: 2024-07-14T21:52:37 (UTC -04:00)
 tags:
   - putty
-  - linux
   - installs
   - install
 source: https://phoenixnap.com/kb/how-to-install-putty-on-ubuntu
 author: Bosko Marijan
 title: Putty
 type: Installs
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

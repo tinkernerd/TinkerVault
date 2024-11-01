@@ -9,10 +9,10 @@ tags:
   - CLI
   - Containers
   - DevOps
-type: Article
+type: Resource
 topic:
-  - Docker
-  - Tech
+  - CLI
+category: Docker
 ---
 > [!NOTE]
 ```dataviewjs

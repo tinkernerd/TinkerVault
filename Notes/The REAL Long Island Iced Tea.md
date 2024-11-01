@@ -2,8 +2,7 @@
 title: The REAL Long Island Iced Tea
 type: Recipe
 tags:
-  - drinks
-  - Alcohol
+  - drinks/alcohol
 dateCreated: 2024-09-21 08:00
 status: Active
 ---

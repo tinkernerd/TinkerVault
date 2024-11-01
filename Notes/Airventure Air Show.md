@@ -1,5 +1,5 @@
 ---
-title: Airventure
+title: The Legendary AirVenture
 tags:
   - airventure
   - eaa
@@ -8,9 +8,10 @@ tags:
 status: Active
 type: Resource
 topic:
-  - Aviation
   - Festival
+  - Events
 dateCreated: 2024-04-09
+category: Aviation
 ---
 # Airventure
 ## FAA Info

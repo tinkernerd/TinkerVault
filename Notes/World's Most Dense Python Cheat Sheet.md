@@ -3,14 +3,13 @@ title: " World's Most Dense Python Cheat Sheet"
 source: finxter.com
 topic:
   - Python
-  - programming
 dateCreated: 2024-09-15
 tags:
   - python
   - programming
   - cheatsheet
 type: Resource
-category: Python
+category: Programming
 ---
 # World's Most Dense Python Cheat Sheet
 

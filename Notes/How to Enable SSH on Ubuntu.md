@@ -8,14 +8,14 @@ dateCreated: 2020-08-07
 tags:
   - ubuntu
   - ssh
-  - linux
   - server
   - remote
   - access
 topic:
-  - Linux
   - Tech
+  - ssh
 type: Article
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

@@ -8,7 +8,7 @@ tags:
   - raspberrypi
   - google
 status: Active
-category: Raspberry Pi
+category: RaspberryPi
 ---
 1.  Flip power switch on surge suppressor at the bottom of the boom, after plugging it in (Ethernet to the Raspberry Pi Single Board Computer on the boom is optional as it has WiFi, however connection will be stronger and more reliable).
 2.  Turn on Podium PC with VNC Viewer Installed.

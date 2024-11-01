@@ -7,6 +7,7 @@ type: Resource
 tags:
   - Networking
   - cheatsheet
+category: Networking
 ---
 
 > [!NOTE]

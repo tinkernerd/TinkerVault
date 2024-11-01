@@ -12,9 +12,10 @@ tags:
   - Runway
   - Information
 topic:
-  - Aviation
+  - Airports
 type: Resource
 status: Active
+category: Aviation
 ---
 
 # Michigan Airport Information

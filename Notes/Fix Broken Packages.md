@@ -3,11 +3,11 @@ created: 2024-07-14T21:52:33 (UTC -04:00)
 tags:
   - packages
   - broken-packages
-  - linux
 title: Fix Broken Packages
 source: https://phoenixnap.com/kb/ubuntu-fix-broken-packages
 author: Marko Aleksic
-type: Article
+type: Installs
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

@@ -2,8 +2,8 @@
 title: Fix for Windows 10 Printing/Blue Screen Issue
 dateCreated: 2021-03-18T15:01:15
 type: Resource
-category: SMC
-topic: Windows
+topic:
+  - Windows
 ---
 
 

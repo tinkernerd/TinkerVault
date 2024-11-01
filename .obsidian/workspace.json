@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "8210e393c759a939",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "4af6375af5516d3a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "51489053e0a6635c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organize/Harden-Loaner-Laptop-(Change-.md",
+                "file": "Notes/Loaner Update Script 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harden-Loaner-Laptop-(Change-"
+              "title": "Loaner Update Script 1"
             }
           }
         ]
@@ -75,22 +75,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "6b4a35646ce1dd82",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "098a1b80ba3f5dea",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -101,11 +85,56 @@
     "type": "split",
     "children": [
       {
-        "id": "78c502afc2395726",
+        "id": "f93214fac3b06932",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ae63fcd73d0daa",
+            "id": "f712c743b3b9b499",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Notes/Loaner Update Script 1.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Loaner Update Script 1"
+            }
+          },
+          {
+            "id": "9a1e7e35fd04b00a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Obsidian"
+            }
+          },
+          {
+            "id": "b7ebc3940ffaee69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Obsidian"
+            }
+          },
+          {
+            "id": "947290edb81ce468",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,40 +147,7 @@
             }
           },
           {
-            "id": "1ee5dc44ae3cd0cb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "organize/RaspiDigiDisplay.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for RaspiDigiDisplay"
-            }
-          },
-          {
-            "id": "4d496eb2316c9b63",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "organize/RaspiDigiDisplay.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from RaspiDigiDisplay"
-            }
-          },
-          {
-            "id": "a5935c871f11e193",
+            "id": "0b7b5bf5056e3253",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,626 +161,22 @@
             }
           },
           {
-            "id": "a3f4f901d5cfe8de",
+            "id": "64581f6d4ccf2267",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "organize/Harden-Loaner-Laptop-(Change-.md"
+                "file": "Notes/Loaner Update Script 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Harden-Loaner-Laptop-(Change-"
-            }
-          },
-          {
-            "id": "78978ae018e89295",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f690e9dbe4defabb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "36449b9cd31e55ad",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "15fd07837458a2fe",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "9517add13495ec3a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5a2747958872cd06",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d2385da76236dce1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8e32f18ee024308b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "818bdc4e8da3b7bf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0b75189a69e454dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "1b8b8f121d4e35fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f325c6b3d3571037",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "a0fe39f2ea48ec47",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c50a4b8f846aecbb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "597519e365901fdf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "cacd2d4a89b34030",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e796669dbeaeabd5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "4b53eea4a4d847be",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8fc4b48cfd7fc790",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8fbf364543371492",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "bc001da42a762c24",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "027c3fdf08d0e015",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "818d1d25c0479d25",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "organize/RaspiDigiDisplay.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for RaspiDigiDisplay"
-            }
-          },
-          {
-            "id": "a4ac220a3a2cd765",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8418b3e0d6dd2228",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5b7e5e0882056e9d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "22a6f63859cb926b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "93cbe28c9780dfe9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d6e80a91991a2a5b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5449e7eaa450c4af",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ecc88a487b3007d7",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0858db4ac62a6688",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "75fab89f26247ab9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "77c1ab79d8076223",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c49ca442bd8b82a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "038f1a12f7e736f3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "dd1b387bb79a62ca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "6dc284f12f7e1de6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "a8495fd312852b5e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e18391968f408027",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "54500ba3e3defd19",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f5720c2f88d080da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "133c92fc77a6dea4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "9e53084c8498ccf5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c300ee2603622765",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "699e8ea33cdce32e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "dac0c764e788a84d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d738a556b894b631",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "87dc0d5de6caac5a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "415af8cfb5a8d89d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "89f5e07ce68bfcd3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "256eb195ccf8230a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "9ef92e7bba846a44",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ff47f72dd9d35ecb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ef8ccc6029b267c1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e93abe1ea5c8b722",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "7743093a14cb52e0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "43e54b68693313b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3635d400bf85de3a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c0b2389ae9787742",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Outline of Loaner Update Script 1"
             }
           }
-        ],
-        "currentTab": 27
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 265
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -796,65 +188,60 @@
       "yet-another-obsidian-synchronizer:YAOS": false,
       "templater-obsidian:Templater": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "recipe-grabber:Recipe Grabber": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
-      "obsidian-day-planner:Timeline": false,
-      "obsidian-projects:Open projects": false,
-      "periodic-notes:Open today": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "51489053e0a6635c",
+  "active": "25669383a6f07ef2",
   "lastOpenFiles": [
-    "Notes/Pierogi Casserole.md",
+    "Home.md",
+    "organize/Loaner-Form.md",
+    "organize/Loaner-Agreement-Form-Process.md",
+    "organize/Loaner---Refresh-Upon-Return.md",
     "organize/Harden-Loaner-Laptop-(Change-.md",
-    "organize/Prevent Win11 installation.md",
-    "Pierogi Casserole.md",
-    "Notes/2cor0517.md",
-    "Notes/2cor0102.md",
+    "organize/Laptop-Password-Reset.md",
+    "Notes/Loaner Update Script 1.md",
+    "organize/Loaner---Refresh-Upon-Return-.md",
+    "organize/Loaner-Return-Intake-Email.md",
+    "organize/Loaner-Returns.md",
+    "Notes/Mapping Network Drive Manually.md",
+    "organize/Office 365 Password Reset.md",
+    "Notes/Prevent Win11 installation.md",
+    "organize/Help-Desk-Ticket-Procedure---.md",
+    "organize/Help-Desk-Forwarding.md",
+    "organize/KB890830.md",
+    "organize/Links.md",
+    "Notes/ISYS 115 - Chapter 3.md",
+    "Notes/ISYS 115 - Chapter 2.md",
+    "Notes/JavaScript.md",
+    "Notes/ISYS 115 - Chapter 1.md",
+    "Notes/DOM Manipulation JavaScript.md",
+    "Notes/APIs in JavaScript.md",
+    "Notes/Arduino.md",
+    "README.md",
+    "Dashboards/Articles Dashboard.md",
+    "Assets/Attachments/linux.png",
+    "Assets/Attachments/papers_on_desk.jpg",
+    "Assets/Attachments/js.jpg",
+    "Assets/Attachments/obsidian.jpg",
+    "Assets/Templates/freq.jpg",
+    "Assets/Attachments/forces.jpg",
+    "Assets/Attachments/fishing.jpg",
+    "Assets/Attachments/docker.jpg",
+    "Assets/Attachments/cautionary.png",
+    "Assets/Attachments/AI_dash.png",
+    "docker/projects",
+    "docker",
+    "Assets",
     "Untitled.cook",
-    "recipies/Pierogi Casserole.md",
-    "Attachments/Pierogi-Casserole.jpg",
     "recipies",
-    "Notes/When Should You Fly.md",
-    "Notes/Matt0514.md",
-    "Notes/Introduction to the Airplane.md",
-    "Notes/col0102.md",
-    "Notes/Chapter 1 - KK.md",
-    "Templates/Aviation.md",
-    "Notes/Air Facts - Weather.md",
-    "Notes/lostson.md",
-    "Notes/luke1511.md",
-    "Catagories/Personal/Bible.md",
-    "Dashboards/Notes.md",
-    "Dashboards/TODO.md",
-    "Notes/WhoamI.md",
-    "Dashboards/Tasks.md",
-    "Dashboards/Projects.md",
-    "Notes/phil0101.md",
-    "Templates/Bible Verse.md",
-    "Templates/Callout.md",
-    "Templates/GitHub Callout.md",
     "organize",
     "Templates/Untitled",
-    "Attachments/forces.jpg",
-    "forces.jpg",
     "Excalidraw",
-    "Attachments/Pasted image 20241017165408.jpg",
     "Templates/js/fetch_daily_verse.js",
     "Templates/js/DailyVerseFetchScript.js",
-    "Templates/js",
-    "Templates/DailyVerseFetchScript.js",
-    "Journal/02 - Daily Verse",
-    "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image4.png",
-    "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image3.png",
-    "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image2.png",
-    "Attachments/Software-Use-Epson-iProjection-to-Connect-to-Computer-image1.png",
-    "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image4.png",
-    "Attachments/Software-New-Account-Setup-for-Faculty-Staff-image3.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

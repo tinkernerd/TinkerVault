@@ -36,17 +36,13 @@ This example shows you how to monitor the state of a switch by establishing [ser
 
 ### Circuit
 
-![circuit](https://docs.arduino.cc/static/73702ee121860fa04c7f6db5bc77183b/a6d36/circuit.png)
-
 Connect three wires to the board. The first two, red and black, connect to the two long vertical rows on the side of the breadboard to provide access to the 5 volt supply and ground. The third wire goes from digital pin 2 to one leg of the pushbutton. That same leg of the button connects through a pull-down resistor (here 10k ohm) to ground. The other leg of the button connects to the 5 volt supply.
 
 Pushbuttons or switches connect two points in a circuit when you press them. When the pushbutton is open (unpressed) there is no connection between the two legs of the pushbutton, so the pin is connected to ground (through the pull-down resistor) and reads as LOW, or 0. When the button is closed (pressed), it makes a connection between its two legs, connecting the pin to 5 volts, so that the pin reads as HIGH, or 1.
 
 If you disconnect the digital i/o pin from everything, its reading may change erratically. This is because the input is "floating" - that is, it doesn't have a solid connection to voltage or ground, and it will randomly return either HIGH or LOW. That's why you need a pull-down resistor in the circuit.
 
-### Schematic
 
-![schematic](https://docs.arduino.cc/static/86400cf9037a0a765bd8584fe48fad17/a6d36/schematic.png)
 
 ### Code
 

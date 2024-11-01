@@ -3,10 +3,10 @@ title: .Deb Files
 tags:
   - deb
   - install
-  - linux
 type: Installs
 source: https://askubuntu.com/questions/40779/how-do-i-install-a-deb-file-via-the-command-line
 author: AskLinux
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

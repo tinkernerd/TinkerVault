@@ -1,20 +1,11 @@
 ---
 title: Python OpenAI API Cheat Sheet
-author: Finxter
-source: https://blog.finxter.com/openapi-cheat-sheet/
-description: A quick reference guide for using the Python OpenAI API, covering installation, basic prompt usage, and key arguments for the GPT and DALL-E models.
 date: 2024-09-15
-tags:
-  - Python
-  - OpenAI
-  - API
-  - Cheat
-  - Sheet
-  - AI
-  - Models
 topic:
-  - Tech
-type: Article
+  - Ai
+  - Python
+type: Resource
+category: Networking
 ---
 
 # Python OpenAI API Cheat Sheet

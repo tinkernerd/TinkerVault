@@ -3,12 +3,13 @@ title: JavaScript Functions
 author: Nicholas Stull
 description: A guide to JavaScript functions, including function declarations and expressions.
 date: 2024-09-15
-tags:
-  - tech
-  - javascript
 type: Resource
 dateCreated: 2024-09-15 08:00
 status: Active
+topic:
+  - Functions
+  - JavaScript
+category: Programming
 ---
 Here’s the markdown for each of the **JavaScript** topics you mentioned. You can add these to your notes:
 

@@ -1,13 +1,13 @@
 ---
 dateCreated: 2024-07-14T21:54:36
 tags:
-  - linux
   - kernel
   - ubuntu
 title: Update Kernal
 source: https://phoenixnap.com/kb/how-to-update-kernel-ubuntu
 author: Sara Zivanov
 type: Article
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

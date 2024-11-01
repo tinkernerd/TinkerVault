@@ -4,9 +4,9 @@ Author: Nick Stull
 type: Resource
 dateCreated: 2024-09-21T10:05:00
 tags:
-  - linux
   - ubuntu
   - server
+category: Linux
 ---
 
 # Ubuntu Server Setup Guide

@@ -3,17 +3,11 @@ title: Working with Functions, Data Types, and Operators
 author: Carey/Vodnik
 source: JavaScript for Web Warriors 7th Edition
 dateCreated: 2024-09-11
-tags:
-  - JavaScript
-  - functions
-  - data
-  - types
-  - operators
-  - isys115
 topic:
-  - programming
   - isys115
+  - JavaScript
 type: Resource
+category: Programming
 ---
 
 # Chapter 2: Working with Functions, Data Types, and Operators

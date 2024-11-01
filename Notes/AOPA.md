@@ -6,9 +6,10 @@ tags:
   - aopa
 dateCreated: 2024-04-09
 topic:
-  - Aviation
+  - AOPA
 type: Resource
 status: Active
+category: Aviation
 ---
 # AOPA
 ## Information

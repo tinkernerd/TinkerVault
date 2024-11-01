@@ -1,11 +1,10 @@
 ---
 dateCreated: 2024-07-14T21:49:32 (UTC -04:00)
-tags:
-  - linux
 title: Ubuntu
 source: https://phoenixnap.com/kb/install-ubuntu-24-04
 author: Bosko Marijan
 type: Installs
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

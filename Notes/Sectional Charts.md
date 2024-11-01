@@ -1,12 +1,15 @@
----tags:
+---
+title: Sectional Charts
+tags:
   - sectionalcharts
   - flight
   - aviation
 dateCreated: 2024-04-09
 topic:
-  - Aviation
+  - Sectional Charts
 type: Resource
 status: Active
+category: Aviation
 ---
 ## Information
 - [Sky Vector](https://skyvector.com/)

@@ -3,11 +3,12 @@ title: How to Change Password in Linux
 type: Resource
 dateCreated: 2024-09-21T23:35:00
 tags:
-  - linux
   - passwords
   - security
+topic:
+  - Security
+category: Linux
 ---
-# How to Change Password in Linux
 
 To change your password in [Linux](https://phoenixnap.com/kb/what-is-linux):
 

@@ -3,15 +3,10 @@ title: JavaScript Basics
 author: Nicholas Stull
 description: Introduction to JavaScript, covering variables, data types, and basic syntax.
 date: 2024-09-15
-tags:
-  - tech
-  - javascript
-topic:
-  - Tech
-  - Javascript
 dateCreated: 2024-09-15 08:00
 type: Resource
 status: Active
+category: JavaScript
 ---
 # JavaScript Basics
 

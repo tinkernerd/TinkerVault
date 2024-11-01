@@ -1,14 +1,13 @@
 ---
-title: "Asynchronous JavaScript"
-author: "Nicholas Stull"
-description: "Understanding asynchronous operations in JavaScript using callbacks, promises, and async/await."
+title: Asynchronous JavaScript
+author: Nicholas Stull
+description: Understanding asynchronous operations in JavaScript using callbacks, promises, and async/await.
 date: 2024-09-15
-tags:
-  - tech
-  - javascript
 dateCreated: 2024-09-15 08:00
 type: Resource
-status: Active
+topic:
+  - Asynchronous
+category: JavaScript
 ---
 
 # Asynchronous JavaScript

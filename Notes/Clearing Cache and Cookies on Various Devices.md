@@ -1,9 +1,8 @@
 ---
-title: Untitled
+title: Clearing Cache and Cookies on Various Devices
 dateCreated: 2022-09-07T17:24:36
 type: Resource
-topic:
-  - Networking
+category: Networking
 tags:
   - Networking
 source: https://harvard.service-now.com/ithelp?id=kb_article&sys_id=e934a5cf6fc9a204a3a79b9eae3ee4bf#edge

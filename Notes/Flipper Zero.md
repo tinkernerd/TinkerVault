@@ -6,6 +6,9 @@ tags:
 title: Flipper Zero
 dateCreated: 2024-09-21T21:05:00
 type: Resource
+category: CyberSecurity
+topic:
+  - Security
 ---
 # Flipper Zero
 ## Links

@@ -2,11 +2,11 @@
 title: Phonetic Alphabet
 dateCreated: 2024-04-09
 topic:
-  - Aviation
+  - atc
 status: Archive
 type: Resource
+category: Aviation
 ---
-# Phonetic Alphabet
 
 | Letter | Phonetic |
 | ------ | -------- |

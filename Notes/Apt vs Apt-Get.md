@@ -2,10 +2,10 @@
 title: Apt vs Apt-Get
 type: Resource
 tags:
-  - linux
   - apt
   - apt_get
 dateCreated: 2024-09-21T23:35:00
+category: Linux
 ---
 
 # APT vs APT-GET: What's the Difference?

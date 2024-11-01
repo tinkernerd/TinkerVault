@@ -1,22 +1,11 @@
 ---
 title: OpenAI Glossary Cheat Sheet
-author: Finxter
-source: https://blog.finxter.com/openai-glossary/
-description: A glossary of AI-related terms, including key concepts like AGI, NLP, transformers, and more, with explanations of major topics in AI and machine learning.
 date: 2024-09-15
-tags:
-  - AI
-  - Glossary
-  - Cheat
-  - Sheet
-  - Machine
-  - Learning
-  - OpenAI
-type: Article
+type: Resource
+category: Networking
+topic:
+  - Ai
 ---
-
-# OpenAI Glossary Cheat Sheet
-
 ## Artificial General Intelligence (AGI)
 AGI refers to a hypothetical AI that can perform any intellectual task a human being can do, demonstrating human-like cognitive abilities across diverse domains.
 

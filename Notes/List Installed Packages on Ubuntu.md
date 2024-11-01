@@ -2,10 +2,10 @@
 title: How to List Installed Packages on Ubuntu
 dateCreated: 2024-09-21T23:35:00
 tags:
-  - linux
   - ls
   - packages
 type: Resource
+category: Linux
 ---
 
 # How to List Installed Packages on Ubuntu

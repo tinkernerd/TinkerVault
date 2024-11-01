@@ -1,11 +1,10 @@
 ---
 dateCreated: 2024-07-14T21:55:30 (UTC -04:00)
-tags:
-  - linux
 title: Virtual Box
 source: https://phoenixnap.com/kb/install-virtualbox-on-ubuntu
 author: Sara Zivanov
 type: Installs
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

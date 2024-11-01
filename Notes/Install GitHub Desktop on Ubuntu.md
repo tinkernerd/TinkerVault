@@ -5,8 +5,10 @@ tags:
   - github
   - git
   - ubuntu
-  - linux
 dateCreated: 2024-09-21T23:45:00
+category: Linux
+topic:
+  - Github
 ---
 # Install 
 

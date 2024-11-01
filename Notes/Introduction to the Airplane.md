@@ -4,13 +4,14 @@ description:
 dateCreated: 2024-10-17T16:52
 type: Resource
 topic:
-  - Aviation
+  - Aircraft
 tags:
   - aviation
   - classnotes
 Chapter: Chapter01
 status: Active
 Book: Volume01
+category: Aviation
 ---
 ### Aircraft Climb Forces Diagram
 

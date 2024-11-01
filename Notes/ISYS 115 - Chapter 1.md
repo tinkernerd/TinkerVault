@@ -3,17 +3,11 @@ title: Introduction to JavaScript
 author: Carey/Vodnik
 source: JavaScript for Web Warriors 7th Edition
 dateCreated: 2024-09-04
-tags:
-  - JavaScript
-  - scripting
-  - languages
-  - web
-  - development
-  - isys115
 topic:
-  - programming
   - isys115
+  - JavaScript
 type: Resource
+category: Programming
 ---
 
 # Chapter 1: Introduction to JavaScript

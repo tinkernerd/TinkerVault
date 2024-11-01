@@ -3,11 +3,14 @@ dateCreated: 2024-07-14T21:49:28 (UTC -04:00)
 tags:
   - git
   - ubuntu
-  - linux
 title: Git
 source: https://phoenixnap.com/kb/how-to-install-git-on-ubuntu
 author: Sofija Simic
 type: Installs
+topic:
+  - Github
+  - Git
+category: Linux
 ---
 > [!NOTE]
 ```dataviewjs

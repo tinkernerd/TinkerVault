@@ -7,7 +7,7 @@ source: https://www.simplyrecipes.com/recipes/homemade_ginger_ale/
 author: Elise Bauer
 dateCreated: 2024-09-21 08:00
 tags:
-  - drinks
+  - drinks/clean
 status: Active
 ---
 # Homemade Ginger Ale
