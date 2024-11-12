@@ -42,7 +42,6 @@
   "Notes/Networking.md": "LiNetwork",
   "Notes/3d Printing.md": "LiMove3d",
   "Notes/Aviation.md": "LiPlane",
-  "Notes/Bible.md": "LiBookOpen",
   "Notes/Email Templates.md": "📧",
   "Notes/Documentation.md": "LiStickyNote",
   "Notes/JavaScript.md": "LiFileJson",
@@ -53,5 +52,6 @@
   "Notes/Python.md": "🐍",
   "Notes/Radios.md": "LiRadioTower",
   "Notes/Arduino.md": "LiCircuitBoard",
-  "Notes/Github.md": "LiGithub"
+  "Notes/Github.md": "LiGithub",
+  "Notes/The Bible.md": "LiBookOpen"
 }

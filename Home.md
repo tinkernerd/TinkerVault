@@ -15,7 +15,7 @@ banner_y: 0
 	-  [[Documentation]]
 	- [[Email Templates]]
 - Educational
-	- [[Bible]]
+	- [[The Bible]]
 	- [[Photography]]
 - Class Notes
 `$=dv.list(dv.pages().where(p => p.category == "School").sort(f => f.file.name, "asc").file.link)`

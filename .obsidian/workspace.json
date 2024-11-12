@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6cb260901adb6d44",
+        "id": "e9761eb08230ddfe",
         "type": "tabs",
         "children": [
           {
-            "id": "f7b11c140c66fb4f",
+            "id": "91c85d8869883775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/lostson.md",
-                "mode": "preview",
+                "file": "Notes/Loaner How to.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "lostson"
+              "title": "Loaner How to"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Loaner Update Script ",
+                "query": "loaner",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,10 +94,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/lostson.md"
+                "file": "Notes/Loaner PS Script Rundown.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for lostson"
+              "title": "File properties for Loaner PS Script Rundown"
             }
           },
           {
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/lostson.md"
+                "file": "Notes/Loaner How to.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of lostson"
+              "title": "Outline of Loaner How to"
             }
           }
         ]
@@ -195,54 +195,54 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f7b11c140c66fb4f",
+  "active": "91c85d8869883775",
   "lastOpenFiles": [
-    "Notes/luke1532.md",
-    "Notes/lostson.md",
-    "Notes/Bible.md",
-    "Notes/Chapter 1 - KK.md",
-    "Notes/Phil0406.md",
-    "Notes/luke1511.md",
+    "Notes/Loaner How to.md",
     "Home.md",
-    "README.md",
-    "Notes/WhoamI.md",
-    "Notes/phil0101.md",
-    "Notes/eph0101.md",
-    "Notes/John0112.md",
-    "Notes/Matt0514.md",
-    "Notes/Matt0513.md",
-    "Notes/Computer Network Cheat Sheet.md",
-    "Notes/col0102.md",
-    "Notes/2cor0517.md",
-    "Notes/2cor.md",
-    "Notes/ASUS Blu-Ray – NOT SHOWING AS DEVICE.md",
-    "Notes/T-Drive VPN Connection Workaround.md",
-    "Notes/Loaner Update Script.md",
-    "Notes/Loaner Update Script.md",
     "Notes/Loaner PS Script Rundown.md",
-    "organize/Loaner-Form.md",
-    "organize/Loaner-Agreement-Form-Process.md",
-    "organize/Loaner---Refresh-Upon-Return.md",
+    "Notes/Email Templates.md",
+    "Notes/Bible Stick Notes.md",
+    "Scripture/52 - 1 Thessalonians/1Thess-5.md",
+    "Notes/1.md",
+    "Notes/The Bible.md",
+    "Notes/Old Testament.md",
+    "Notes/Prodigal son.md",
+    "Notes/Remove SMC School Email Contacts from iPhone.md",
+    "Notes/Chapter 1 - KK.md",
+    "Notes/Resume2.md",
+    "Notes/Nicholas Stull Cover Letter.md",
+    "Notes/Nicholas Stull Resume.md",
+    "Bible todo.md",
+    "Scripture/07 - Judges/Judges.md",
+    "Notes/Joshua.md",
+    "Notes/Deuteronomy.md",
+    "Notes/Numbers.md",
+    "Notes/Leviticus.md",
+    "Notes/Exodus.md",
+    "Notes/Genesis.md",
+    "Assets/Attachments/josh.jpg",
+    "Assets/Attachments/Deuteronomy.jpg",
+    "Assets/Attachments/Deuteronomy.01.jpg",
+    "Scripture/04 - Numbers/Num-27.md",
+    "Scripture/04 - Numbers/Num-31.md",
+    "Assets/Attachments/numbers.png",
+    "Scripture/03 - Leviticus/Lev-20.md",
+    "Assets/Attachments/leviticus.jpeg",
+    "Assets/Attachments/bible_open.jpg",
+    "Assets/Attachments/oldtesta.jpg",
+    "Assets/Attachments/exodus.jpg",
+    "Scripture/01 - Genesis",
+    "Assets/Attachments/GEN.jpg",
+    "Scripture/file.py",
+    "Scripture/books.csv",
+    "Scripture/30 - Amos",
+    "Scripture/29 - Joel",
+    "Scripture/28 - Hosea",
+    "Scripture/27 - Daniel",
+    "Scripture/26 - Ezekiel",
+    "Scripture/25 - Lamentations",
+    "Scripture/24 - Jeremiah",
     "Assets/Attachments/linux.png",
-    "Assets/Attachments/papers_on_desk.jpg",
-    "Assets/Attachments/js.jpg",
-    "Assets/Attachments/obsidian.jpg",
-    "Assets/Templates/freq.jpg",
-    "Assets/Attachments/forces.jpg",
-    "Assets/Attachments/fishing.jpg",
-    "Assets/Attachments/docker.jpg",
-    "Assets/Attachments/cautionary.png",
-    "Assets/Attachments/AI_dash.png",
-    "docker/projects",
-    "docker",
-    "Assets",
-    "Untitled.cook",
-    "recipies",
-    "organize",
-    "Templates/Untitled",
-    "Excalidraw",
-    "Templates/js/fetch_daily_verse.js",
-    "Templates/js/DailyVerseFetchScript.js",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
