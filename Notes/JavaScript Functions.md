@@ -11,9 +11,7 @@ topic:
   - JavaScript
 category: Programming
 ---
-Here’s the markdown for each of the **JavaScript** topics you mentioned. You can add these to your notes:
 
----
 # JavaScript Functions
 
 Functions are one of the core building blocks in JavaScript. They allow you to encapsulate code that can be reused.

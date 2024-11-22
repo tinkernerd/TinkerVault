@@ -1,19 +1,24 @@
 ---
+tags:
+  - recipe
+  - "#drinks/clean"
+created: 2005-12-05T19:43:58.000-05:00
+author: 
+source: https://www.simplyrecipes.com/recipes/homemade_ginger_ale/
 title: Homemade Ginger Ale
 type: Recipe
 topic:
   - Drinks
-source: https://www.simplyrecipes.com/recipes/homemade_ginger_ale/
-author: Elise Bauer
-dateCreated: 2024-09-21 08:00
-tags:
-  - drinks/clean
-status: Active
 ---
+
 # Homemade Ginger Ale
+
 Ginger ale is so easy to make at home, you might just stop buying it from the store. All you need is grated ginger, lime, and sugar, you can make this refreshing homemade ginger ale in no time.
 
-![Homemade Ginger Ale](https://www.simplyrecipes.com/thmb/HJib1-ZU7Z45JBiB0ism-m-Nqxo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Ginger-Ale-LEAD-4-d7bb96ceb994481ab4072f76c0cc1291.jpg)
+CookTime: 30m 
+TotalTime: 35m 
+
+![Homemade Ginger Ale](https://www.simplyrecipes.com/thmb/q5LEIII9iHuGoq3zPjdT_IXpQkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Ginger-Ale-LEAD-4-d7bb96ceb994481ab4072f76c0cc1291.jpg)
 
 ### Ingredients
 

@@ -23045,3 +23045,5 @@ var RecipeGrabber = class extends import_obsidian3.Plugin {
 ieee754/index.js:
   (*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> *)
 */
+
+/* nosourcemap */

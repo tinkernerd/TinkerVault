@@ -34,7 +34,7 @@ banner_y: 0
 `$=dv.list(dv.pages().where(p => p.category == "Radio" && p.type == "Dashboard").sort(f => f.file.name, "asc").file.link)`
 # Recipes
 - Food
-`$=dv.list(dv.pages('#food').where(p => p.file.path.startsWith("Notes/")&& p.type == "Recipe").sort(f => f.file.name, "desc").limit(4).file.link)`
+`$=dv.list(dv.pages().where(p => p.topic && p.topic.includes("Food") && p.type == "Recipe").sort(f => f.file.name, "asc").file.link)`
 - Alcoholic Drinks
 `$=dv.list(dv.pages('#drinks/alcohol').where(p => p.file.path.startsWith("Notes/")&& p.type == "Recipe").sort(f => f.file.name, "desc").file.link)`
 - Regular Drinks

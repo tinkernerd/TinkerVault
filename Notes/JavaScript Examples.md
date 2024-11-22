@@ -1,7 +1,9 @@
 ---
 title: JavaScript Examples
 type: Resource
-category: JavaScript
+category: Programming
+topic:
+  - JavaScript
 ---
 # JS Examples
 ## not my work badge

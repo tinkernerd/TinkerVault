@@ -5,7 +5,7 @@ source: JavaScript for Web Warriors 7th Edition
 dateCreated: 2024-09-18
 topic:
   - isys115
-  - Javascript
+  - JavaScript
 type: Resource
 category: Programming
 ---

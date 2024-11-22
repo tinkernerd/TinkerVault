@@ -4,22 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e9761eb08230ddfe",
+        "id": "1b3a4073c67e1d25",
         "type": "tabs",
         "children": [
           {
-            "id": "91c85d8869883775",
+            "id": "c0eb83be007ca193",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Loaner How to.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Loaner How to"
+              "title": "Home"
             }
           }
         ]
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loaner",
+                "query": "funct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,10 +96,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Loaner PS Script Rundown.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Loaner PS Script Rundown"
+              "title": "File properties for Home"
             }
           },
           {
@@ -166,18 +168,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Loaner How to.md"
+                "file": "Home.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Loaner How to"
+              "title": "Outline of Home"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 265,
-    "collapsed": true
+    "width": 265
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,41 +193,47 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "recipe-grabber:Recipe Grabber": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "91c85d8869883775",
+  "active": "c0eb83be007ca193",
   "lastOpenFiles": [
-    "Notes/Loaner How to.md",
+    "Notes/ISYS 115 - Chapter 3.md",
+    "Notes/Html-Status.md",
+    "Notes/JavaScript Functions.md",
+    "Notes/Peppermint Hot Chocolate.md",
     "Home.md",
-    "Notes/Loaner PS Script Rundown.md",
-    "Notes/Email Templates.md",
-    "Notes/Bible Stick Notes.md",
-    "Scripture/52 - 1 Thessalonians/1Thess-5.md",
-    "Notes/1.md",
-    "Notes/The Bible.md",
-    "Notes/Old Testament.md",
-    "Notes/Prodigal son.md",
-    "Notes/Remove SMC School Email Contacts from iPhone.md",
-    "Notes/Chapter 1 - KK.md",
-    "Notes/Resume2.md",
-    "Notes/Nicholas Stull Cover Letter.md",
-    "Notes/Nicholas Stull Resume.md",
-    "Bible todo.md",
-    "Scripture/07 - Judges/Judges.md",
-    "Notes/Joshua.md",
-    "Notes/Deuteronomy.md",
-    "Notes/Numbers.md",
-    "Notes/Leviticus.md",
-    "Notes/Exodus.md",
-    "Notes/Genesis.md",
+    "Notes/Homemade Ginger Ale.md",
+    "Notes/Copycat Chick-fil-A Spicy Southwest Salad.md",
+    "Notes/Spicy-Sweet Buffalo Popcorn.md",
+    "Notes/Homemade Lemonade Recipe.md",
+    "Notes/The REAL Long Island Iced Tea.md",
+    "Notes/Hard Apple Cider.md",
+    "Notes/Homemade Ginger Ale2.md",
+    "Notes/3d Printing.md",
+    "3d-printing",
+    "Notes/recipes",
+    "Homemade Lemonade Recipe.md",
+    "Notes/Documentation.md",
+    "Notes/Aviation Weather.md",
+    "Notes/Radios.md",
+    "Notes/Arduino.md",
+    "Notes/ISYS 229 Notes - Python.md",
+    "Notes/Python.md",
+    "Notes/Python Age.md",
+    "Notes/Python Classes.md",
+    "Notes/Google Meet Boom Camera.md",
+    "Notes/Signing github releases.md",
+    "Notes/Github.md",
+    "Notes/Pip Install from a Github Repo.md",
+    "Notes/Aviation/info-tech",
+    "Notes/Aviation",
     "Assets/Attachments/josh.jpg",
     "Assets/Attachments/Deuteronomy.jpg",
     "Assets/Attachments/Deuteronomy.01.jpg",
-    "Scripture/04 - Numbers/Num-27.md",
-    "Scripture/04 - Numbers/Num-31.md",
     "Assets/Attachments/numbers.png",
-    "Scripture/03 - Leviticus/Lev-20.md",
     "Assets/Attachments/leviticus.jpeg",
     "Assets/Attachments/bible_open.jpg",
     "Assets/Attachments/oldtesta.jpg",
@@ -238,10 +245,6 @@
     "Scripture/30 - Amos",
     "Scripture/29 - Joel",
     "Scripture/28 - Hosea",
-    "Scripture/27 - Daniel",
-    "Scripture/26 - Ezekiel",
-    "Scripture/25 - Lamentations",
-    "Scripture/24 - Jeremiah",
     "Assets/Attachments/linux.png",
     "Untitled.canvas",
     "Untitled 1.canvas"

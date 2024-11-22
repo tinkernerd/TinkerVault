@@ -16,5 +16,7 @@
   "homepage",
   "obsidian-hover-editor",
   "obsidian-banners",
-  "mathlive"
+  "mathlive",
+  "obsidian-importer",
+  "recipe-grabber"
 ]
