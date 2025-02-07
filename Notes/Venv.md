@@ -1,11 +1,12 @@
 ---
 title: VENV
+description: Venv is a virtual Enviroment for projects.
 type: Resource
-author: Nicholas Stull
-tags:
+topic:
   - Python
-  - Projects
-dateCreated: 2024-09-21T00:24:00
+category: Development
+created_at: 2025-02-06T00:21:29-05:00
+modified_at: 2025-02-06T01:23:31-05:00
 ---
 # Venv
 Venv is a virtual Enviroment for projects. 
@@ -26,13 +27,13 @@ deactivate
 ## Windows
 On Windows, invoke the `venv` command as follows:
 
-```
+```bash
 c:\Python35\python -m venv c:\path\to\myenv
 ```
 
 Alternatively, if you configured the `PATH` and `PATHEXT` variables for your [Python installation](https://docs.python.org/3/using/windows.html#using-on-windows):
 
-```
+```bash
 c:\python -m venv c:\path\to\myenv
 ```
 ## Options
@@ -71,3 +72,4 @@ optional arguments:
 Once an environment has been created, you may wish to activate it, e.g. by
 sourcing an activate script in its bin directory.
 ```
+

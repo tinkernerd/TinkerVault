@@ -1,0 +1,18 @@
+/* Updated 2023-11-02 */
+
+/* Title at top of the document */
+.cleandoc .markdown-preview-section .title {
+  top: 60px;
+  position: absolute;
+  font-size: 26pt !important;
+  font-weight: bolder;
+  letter-spacing: 8px;
+}
+
+
+.cleandoc h1 {
+  border-bottom-style: dotted !important;
+  border-width: 1px !important;
+  padding-bottom: 3px !important;
+}
+

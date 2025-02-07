@@ -1,26 +1,20 @@
 ---
-dateCreated: 2024-07-14T21:52:15
+title: Disable Firewall
+type: Article
+topic:
+  - Firewalls
+  - Security
+  - Networking
+category: Linux
+created_at: 2025-02-06T14:36:15-05:00
+modified_at: 2025-02-06T14:37:21-05:00
+source: https://phoenixnap.com/kb/how-to-enable-disable-firewall-ubuntu
+author: Vladimir Kaplarevic
 tags:
   - Firewall
   - Networking
-source: https://phoenixnap.com/kb/how-to-enable-disable-firewall-ubuntu
-author: Vladimir Kaplarevic
-title: Disable Firewall
-type: Article
 ---
 
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
-
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
-</div>`;
-
-dv.el("div", noteBlock);
-```
 # How to Disable Firewall (UFW) on Ubuntu 18.04 & 20.04
 
 > ## Excerpt
@@ -124,3 +118,4 @@ Conclusion
 In this guide, you learned how to disable and stop the firewall on Ubuntu. We also showed you how to enable the firewall and reset settings.
 
 Now you know the options available with the UFW tool. These commands provide an excellent foundation to explore firewall functions and settings.
+

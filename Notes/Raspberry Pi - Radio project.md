@@ -1,12 +1,14 @@
 ---
 title: Raspberry Pi - Radio project
-tags:
-  - tech
-  - raspberrypi
+description: Portable Raspberry Pi 4 Amateur Radio Station
 type: Project
-dateCreated: 2024-09-21T21:09:00
-status: Archive
-category: RaspberryPi
+topic:
+  - Raspberry Pi
+  - Radio
+  - Ham
+category: Development
+created_at: 2025-02-06T00:48:51-05:00
+modified_at: 2025-02-06T22:24:22-05:00
 ---
 ## Ham Radio
 ### Portable Raspberry Pi 4 Amateur Radio Station*
@@ -24,6 +26,6 @@ category: RaspberryPi
 
 ### Radio Scanner
 ### Keyboard Knob
-- [Rotary Encoder](/arduino/rotary-encoder.md) to change Freq
+- [[Microcontrollers#Parts|Rotary Encoder]] to change Freq
 Parts
 - 7 In Screen

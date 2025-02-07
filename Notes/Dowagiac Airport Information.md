@@ -3,7 +3,7 @@ title: Dowagiac Airport Information
 author: Provided PDF
 source: FAA EC 180 (September 2024)
 description: A collection of airport details for various Michigan airports including runway information, services, and communications.
-dateCreated: 2024-04-09
+created_at: 2024-04-09
 tags:
   - Airports
   - Michigan

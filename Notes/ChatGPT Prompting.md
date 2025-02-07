@@ -1,44 +1,94 @@
 ---
 title: ChatGPT Prompting
-date: 2024-09-15
-articleDate: 2024-09-15
 type: Resource
 topic:
   - Ai
 category: Networking
+created_at: 2025-02-05T23:49:22-05:00
+modified_at: 2025-02-05T23:50:32-05:00
 ---
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const authors = dv.current().author || "Unknown author";
-const title = dv.current().title || "No title provided";
 
-// Split authors by comma and trim spaces
-let authorsList = authors.split(",").map(author => author.trim());
+# ChatGPT Prompting Cheat Sheet
 
-// Truncate the title after 4 words
-let titleTruncated = title.split(" ").slice(0, 4).join(" ");
-if (title.split(" ").length > 4) {
-    titleTruncated += "...";
-}
+## How Prompt Engineering Works
 
-let authorsText;
+Prompt engineering is the process of designing and optimizing prompts for language models like ChatGPT. It’s crucial for natural language processing (NLP) and language generation tasks, such as product descriptions or conversational AI.
 
-if (authorsList.length === 1) {
-    authorsText = authorsList[0];
-} else {
-    const lastAuthor = authorsList.pop();
-    authorsText = `${authorsList.join(", ")}, and ${lastAuthor}`;
-}
+- Prompts guide the model in performing specific tasks.
+- Reliable prompt formats exist, but experimenting with new formats is encouraged.
 
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out <a href="${source}" target="_blank">${titleTruncated}</a>, by ${authorsText}.
-</div>`;
+---
 
-dv.el("div", noteBlock);
+## Rules of Thumb for Prompt Engineering
 
+### Rule #1: Instructions and Separators
+
+Start with clear instructions at the beginning of the prompt and use `###` or `"""` to separate instructions or context.
+
+Example:
+
+```text
+Rewrite the text below in more engaging language.
+
+Text: """
+{your input here}
+"""
 ```
+
+---
+
+### Rule #2: Be Specific and Detailed
+
+Be explicit about the desired context, outcome, length, format, and style.
+
+Example:
+
+```text
+Write a funny soccer story for kids that teaches the importance of persistence, in the style of J.K. Rowling.
+```
+
+---
+
+### Rule #3: Provide Example Outputs
+
+If possible, provide examples of the desired output format.
+
+Example:
+
+```text
+Extract house pricing data from the following text.
+
+Desired format: """
+House 1 | $1,000,000 | 100 sqm
+House 2 | $500,000 | 90 sqm
+"""
+```
+
+---
+
+### Rule #4: Try Without Examples First
+
+When starting, avoid providing examples. If results are suboptimal, provide examples for better clarity.
+
+Example:
+
+```text
+Extract brand names from the text below.
+
+Text: Finxter and YouTube are tech companies.
+Brand names:
+```
+
+---
+
+### Rule #5: Fine-Tuning
+
+Fine-tuning the model improves performance. This technique trains the model on specific examples to produce higher-quality results, save tokens, and reduce latency.
+
+Example training data:
+
+```json
+
 # ChatGPT Prompting Cheat Sheet
 
 ## How Prompt Engineering Works
@@ -163,3 +213,4 @@ Allow ChatGPT to design an optimal prompt based on the task. For example, ask it
 ```text
 ChatGPT, what would be the most effective prompt for generating a marketing copy about solar panels?
 ```
+

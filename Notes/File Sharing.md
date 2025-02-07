@@ -1,15 +1,17 @@
 ---
+title: File Sharing
 tags:
   - Files
   - Networking
   - Windows
   - Samba
   - Remote
-title: File Sharing
-dateCreated: 2024-07-14T21:54:56
+created_at: 2024-07-14T21:54:56
 type: Resource
 topic:
   - Windows
+  - Network Drive
+category: Networking
 ---
 # File Sharing
 ## Windows

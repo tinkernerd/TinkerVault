@@ -4,12 +4,13 @@ tags:
   - Ansible
   - Automation
   - Software
-context: Personal
 type: Resource
 status: Archive
 topic:
   - Automation
-dateCreated: 2024-04-09
+  - Networking
+Category: Networking
+created_at: 2024-04-09
 ---
 
 **Ansible:**

@@ -1,24 +1,19 @@
 ---
 title: TurtlePy
-dateCreated: 2024-09-15
-tags:
-  - tech
-  - python
+description: Makes cool shapes with python using numbers. Forked from [queenofhearts4171/pynums](https://github.com/queenofhearts4171/pynums)
 type: Project
 topic:
-  - Tech
-  - programming
   - Python
-status: Archive
+category: Development
+created_at: 2025-02-06T12:34:57-05:00
+modified_at: 2025-02-06T12:36:14-05:00
+Repo: tinkernerd/TurtlePy
 ---
 # TurtlePy
-## GitHub Link:
--  [tinkernerd/TurtlePy](https://github.com/tinkernerd/TurtlePy)
-## Basic Project Information
-
-Makes cool shapes with python using numbers. Forked from [queenofhearts4171/pynums](https://github.com/queenofhearts4171/pynums)
+> [!Github] [tinkernerd/TurtlePy](https://github.com/tinkernerd/turtlepy)
+> Makes cool shapes with python using numbers. Forked from [queenofhearts4171/pynums](https://github.com/queenofhearts4171/pynums)
+    
 
 ## Resources
 
 ## Notes
-

@@ -1,35 +1,23 @@
 ---
-title: Docker
-dateCreated: 2024-07-14T16:01:04 (UTC -04:00)
+title: Install Docker - Ubuntu
+type: Resource
+topic:
+  - Docker
+  - Install
+category: Linux
+created_at: 2025-02-06T15:13:14-05:00
+modified_at: 2025-02-06T22:31:56-05:00
+source: https://docs.docker.com/engine/install/ubuntu/
+author: Docker
 tags:
   - docker
   - install
   - script
   - ubuntu
   - server
-  - linxu
-source: https://docs.docker.com/engine/install/ubuntu/
-author: Docker
-type: Resource
-category: Docker
-topic:
-  - Install
+  - linux
 ---
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
-
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
-</div>`;
-
-dv.el("div", noteBlock);
-```
-
----
-To get started with Docker Engine on Ubuntu, make sure you [meet the prerequisites](#prerequisites), and then follow the [installation steps](#installation-methods).
+To get started with Docker Engine on Ubuntu, make sure you [meet the prerequisites](#prerequisites), and then follow the [[#Installation methods]]
 
 ## Prerequisites
 
@@ -75,7 +63,7 @@ for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker c
 
 `apt-get` might report that you have none of these packages installed.
 
-Images, containers, volumes, and networks stored in `/var/lib/docker/` aren't automatically removed when you uninstall Docker. If you want to start with a clean installation, and prefer to clean up any existing data, read the [uninstall Docker Engine](#uninstall-docker-engine) section.
+Images, containers, volumes, and networks stored in `/var/lib/docker/` aren't automatically removed when you uninstall Docker. If you want to start with a clean installation, and prefer to clean up any existing data, read the [[#Uninstall old versions]] section.
 
 ## Installation methods
 
@@ -83,11 +71,10 @@ You can install Docker Engine in different ways, depending on your needs:
 
 -   Docker Engine comes bundled with [Docker Desktop for Linux](https://docs.docker.com/desktop/install/linux-install/). This is the easiest and quickest way to get started.
     
--   Set up and install Docker Engine from [Docker's `apt` repository](#install-using-the-apt-repository).
+-   Set up and install Docker Engine from [[#Install using the `apt` repository|Docker's `apt` repository]]
     
--   [Install it manually](#install-from-a-package) and manage upgrades manually.
+-   [[#Install from a package|Install it Manually]] and manage upgrades manually.
     
--   Use a [convenience script](#install-using-the-convenience-script). Only recommended for testing and development environments.
     
 
 ### Install using the `apt` repository
@@ -138,24 +125,24 @@ You have now successfully installed and started Docker Engine.
 ### Install from a package
 If you can't use Docker's `apt` repository to install Docker Engine, you can download the `deb` file for your release and install it manually. You need to download a new file each time you want to upgrade Docker Engine.
 
-1.  Go to [`https://download.docker.com/linux/ubuntu/dists/`](https://download.docker.com/linux/ubuntu/dists/).
+4.  Go to [`https://download.docker.com/linux/ubuntu/dists/`](https://download.docker.com/linux/ubuntu/dists/).
     
-2.  Select your Ubuntu version in the list.
+5.  Select your Ubuntu version in the list.
     
-3.  Go to `pool/stable/` and select the applicable architecture (`amd64`, `armhf`, `arm64`, or `s390x`).
+6.  Go to `pool/stable/` and select the applicable architecture (`amd64`, `armhf`, `arm64`, or `s390x`).
     
-4.  Download the following `deb` files for the Docker Engine, CLI, containerd, and Docker Compose packages:
+7.  Download the following `deb` files for the Docker Engine, CLI, containerd, and Docker Compose packages:
     
     -   `containerd.io_<version>_<arch>.deb`
     -   `docker-ce_<version>_<arch>.deb`
     -   `docker-ce-cli_<version>_<arch>.deb`
     -   `docker-buildx-plugin_<version>_<arch>.deb`
     -   `docker-compose-plugin_<version>_<arch>.deb`
-5.  Install the `.deb` packages. Update the paths in the following example to where you downloaded the Docker packages.
+8.  Install the `.deb` packages. Update the paths in the following example to where you downloaded the Docker packages.
     
     The Docker daemon starts automatically.
     
-6.  Verify that the Docker Engine installation is successful by running the `hello-world` image.
+9.  Verify that the Docker Engine installation is successful by running the `hello-world` image.
     
     This command downloads a test image and runs it in a container. When the container runs, it prints a confirmation message and exits.
     
@@ -182,18 +169,18 @@ If you don't want to preface the `docker` command with `sudo`, create a Unix gro
 
 To create the `docker` group and add your user:
 
-1.  Create the `docker` group.
+10.  Create the `docker` group.
     
-2.  Add your user to the `docker` group.
+11.  Add your user to the `docker` group.
     
-3.  Log out and log back in so that your group membership is re-evaluated.
+12.  Log out and log back in so that your group membership is re-evaluated.
     
 > [!INFO]
 > If you're running Linux in a virtual machine, it may be necessary to restart the virtual machine for
 > changes to take effect.
 > You can also run the following command to activate the changes to groups:
     
-4.  Verify that you can run `docker` commands without `sudo`.
+13.  Verify that you can run `docker` commands without `sudo`.
     
     This command downloads a test image and runs it in a container. When the container runs, it prints a message and exits.
     
@@ -221,4 +208,6 @@ To avoid issues with overusing disk for log data, consider one of the following 
 -   Configure the `json-file` logging driver to turn on [log rotation](https://docs.docker.com/config/containers/logging/json-file/).
 -   Use an [alternative logging driver](https://docs.docker.com/config/containers/logging/configure/#configure-the-default-logging-driver) such as the ["local" logging driver](https://docs.docker.com/config/containers/logging/local/) that performs log rotation by default.
 -   Use a logging driver that sends logs to a remote logging aggregator.
+
+
 

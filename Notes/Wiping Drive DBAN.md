@@ -1,10 +1,11 @@
 ---
-title: Wiping Drives W/DBAN
-dateCreated: 2021-11-04T16:18:44
+title: Wiping Drive DBAN
 type: Resource
 topic:
-  - Storage
-category: Linux
+  - Decommissioning
+category: Info Tech
+created_at: 2025-02-06T13:26:51-05:00
+modified_at: 2025-02-06T13:30:11-05:00
 ---
 1. Plug in a USB with **DBAN (D**erick's **B**oot **A**nd **N**uke**)** installed.
 2. Plug in the hard drive bay to the computer, **without powering on the hard drive bay.**

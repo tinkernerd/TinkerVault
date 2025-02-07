@@ -8,10 +8,10 @@
   "setCancelledDate": true,
   "autoSuggestInEditor": true,
   "autoSuggestMinMatch": 0,
-  "autoSuggestMaxItems": 20,
+  "autoSuggestMaxItems": 6,
   "provideAccessKeys": true,
   "useFilenameAsScheduledDate": false,
-  "filenameAsScheduledDateFormat": "YYYY MM DD",
+  "filenameAsScheduledDateFormat": "",
   "filenameAsDateFolders": [],
   "recurrenceOnNextLine": false,
   "statusSettings": {

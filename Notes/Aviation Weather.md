@@ -6,27 +6,26 @@ tags:
   - flight
   - weather
   - dashboard
+  - dashboard/aviation
 category: Aviation
 topic:
   - Weather
 type: Dashboard
 status: Active
-dateCreated: 2024-04-09
+created_at: 2024-04-09
 cssclasses:
-  - dashboard
-banner: "![[weather.jpg]]"
+  - cleandoc
+banner: "https://media.tinkernerd.dev/banners/weather.jpg"
 banner_x: 0
 banner_y: 0.416
 ---
 
 # ☀️ Weather for Pilots ☁️
-___
-
 Understanding the weather is crucial to any pilot, whether you're flying VFR or IFR. Below are some key concepts and resources to help you navigate the skies safely, no matter what Mother Nature throws your way.
 
 ## 🌦 Key Weather Concepts for Pilots:
 
-# METAR & TAF Reports
+### METAR & TAF Reports
 - METAR
 	- Meteorological Aerodrome Report, giving real-time weather information.
 - TAF 
@@ -34,7 +33,7 @@ Understanding the weather is crucial to any pilot, whether you're flying VFR or 
 	- Example METAR: `METAR KJFK 051951Z 01008KT 10SM CLR 26/10 A3013 RMK AO2 SLP207`
 	- Example TAF: `TAF KJFK 051740Z 0518/0624 04015KT P6SM SCT030 BKN040`
 
-# Clouds and Their Types
+### Clouds and Their Types
 - Cumulus 
 	- Puffy, white clouds, usually indicate good weather.
 - Stratus 
@@ -44,19 +43,19 @@ Understanding the weather is crucial to any pilot, whether you're flying VFR or 
 - Cirrus 
 	- High-altitude, wispy clouds, indicating fair weather.
 
-# Wind
+### Wind
 - Crosswind Landings 
 	- Critical skill for any pilot. Practice makes perfect!
 - Wind Shear 
 	- Sudden changes in wind speed or direction—dangerous during takeoff and landing.
 
-# Pressure Systems
+### Pressure Systems
 - High-Pressure Systems
 	- Generally bring fair, calm weather.
 - Low-Pressure Systems 
 	- Associated with stormy, unstable weather conditions.
 
-# Fronts
+### Fronts
 - Cold Front 
 	- Brings quick temperature drops, thunderstorms, and turbulence.
 - Warm Front 
@@ -64,20 +63,18 @@ Understanding the weather is crucial to any pilot, whether you're flying VFR or 
 - Occluded Front 
 	- Combination of both, can result in complex weather patterns.
 
-# Turbulence
+### Turbulence
 Caused by sudden changes in airflow. Can occur due to terrain (mountain waves), thunderstorms, or jet streams.
 
 ---
 
-# 🌍 Useful Weather Resources:
-- Resources
-	- [Aviation Weather Center (NOAA)](https://aviationweather.gov/)
-	- [SkyVector for METAR & TAF](https://skyvector.com/)
-	- [PilotWeather App](https://pilotweather.com/)
-	- [Windy: Wind map & weather forecast](https://www.windy.com/?41.718,-86.880,7)
-- Weather Notes: 
-`$=dv.list(dv.pages().where(p => p.category == "Aviation" && p.topic == "Weather").sort(f => f.file.name, "desc").file.link)`
-
+## 🌍 Useful Weather Resources:
+- [Aviation Weather Center (NOAA)](https://aviationweather.gov/)
+- [SkyVector for METAR & TAF](https://skyvector.com/)
+- [PilotWeather App](https://pilotweather.com/)
+- [Windy: Wind map & weather forecast](https://www.windy.com/?41.718,-86.880,7)
+## Weather Notes: 
+`$=dv.list(dv.pages().where(p => p.category == "Aviation" && p.topic == "Weather" && p.type != "Dashboard").sort(f => f.file.name, "desc").file.link)`
 
 ---
 

@@ -1,10 +1,13 @@
 ---
 title: UEFI Imaging Hand-Install
-dateCreated: 2024-08-22T13:22:38
+description: UEFI Imaging Hand-Install
 type: Resource
 topic:
-  - Networking
-  - Computers
+  - Windows
+  - Setup
+category: Info Tech
+created_at: 2025-02-06T13:35:51-05:00
+modified_at: 2025-02-06T13:36:46-05:00
 ---
 UEFI Imaging 2021
 1.  Repeatedly press F12 upon startup to enter into the BIOS
@@ -49,5 +52,6 @@ UEFI Imaging 2021
 40. Apply Bitlocker Fileset
 41. Confirm Bitlocker key is in AD (Ask Gatlin or Matt to confirm)
 42. Apply Office 365 Fileset
+
 
 

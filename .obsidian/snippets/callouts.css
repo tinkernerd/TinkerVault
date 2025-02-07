@@ -2,3 +2,8 @@
     --callout-color:255,165,0;
     --callout-icon: lucide-github;
 }
+
+.callout[data-callout="bible"] {
+  --callout-color:255,165,0;
+  --callout-icon: book-plus;
+}

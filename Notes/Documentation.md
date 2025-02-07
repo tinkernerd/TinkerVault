@@ -1,54 +1,53 @@
 ---
 title: Documentation
+discription: Documentation is the cornerstone of organizing, sharing, and preserving knowledge. Whether you're maintaining personal notes, writing technical manuals, or creating public-facing resources, effective documentation ensures clarity, accessibility, and longevity.
+type: Dashboard
 topic:
-  - Front-Facing
-dateCreated: 2024-09-21T23:09:00
+  - Documentation
 tags:
   - documentation
   - tech
   - dash/tech
-type: Dashboard
-category: Technology
+category: Info Tech
 cssclasses:
-  - dashboard
-banner: "![[papers_on_desk.jpg]]"
-banner_y: 0.84
+  - cleandoc
+banner: "https://media.tinkernerd.dev/banners/papers_on_desk.jpg"
+banner_y: 0.748
+created_at: 2024-09-21T23:09:00
+dateUpdated: 2025-01-31T22:04:34
 ---
 
-<div class="title" style="color:Sienna">Documentation Site</div>
+Think of it like a campaign in Dungeons & Dragons: every bit of knowledge you document is like gaining experience points (XP). The more you document, the more you learn, and the closer you get to leveling up your skills and abilities. At Level 1, you might just be jotting down simple notes, but as you advance, your documentation can become a legendary artifact in its own right, guiding others through the labyrinth of complex topics.
 
-# Front Facing Sites
-- Examples
-	- [Yehezgun](https://docs.yehezgun.com/)
-	- [Base | Base](https://base.sznm.dev/)
-	- [T.I.L. | sozonome](https://sznm.dev/til)
-	- [Personal Bookmarks - YehezGun](https://docs.yehezgun.com/bookmarks)
-	- [meleu.dev](https://meleu.dev/)
-	- [meleu/meleudotdev: https://meleu.dev/](https://github.com/meleu/meleudotdev/tree/master)
-	- [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/)
-	- [Aaron Young](https://ajy.co/)
-- Github Repo's
-	- [sozonome (sozonome) / Repositories](https://github.com/sozonome?tab=repositories)
-	- [sozonome/sznm.dev: My Personal Dev Site, built with Next.js and Chakra UI](https://github.com/sozonome/sznm.dev/tree/main)
-	- [yehezkielgunawan/yehez-docs](https://github.com/yehezkielgunawan/yehez-docs/)
-	- [cs231n/cs231n.github.io: Public facing notes page](https://github.com/cs231n/cs231n.github.io)
-- Sites
-	- [Docusaurus](https://docusaurus.io/docs)
-	- [docsifyjs/docsify: 🃏 A magical documentation site generator.](https://github.com/docsifyjs/docsify)
-	- [Getting Started | Chirpy](https://chirpy.cotes.page/posts/getting-started/)
-	- [Docusaurus](https://docusaurus.io/)
-	- [Digital Garden ](https://dg-docs.ole.dev/)
-- YouTube
-	- [Meet Jekyll | The Static Site Generator](https://youtu.be/F8iOU1ci19Q?si=I7YDSpXI4FF1NFW3)
+# What is Documentation?
 
+Documentation refers to the process of systematically recording information for future reference. It can take various forms, such as:
+1. Personal notes or knowledge bases.
+2. User manuals and technical guides.
+3. Public-facing websites or repositories.
 
-# Markdown
-- Obsidian
-	- [How to Organize Your Notes in Obsidian: Best Practices](https://mattgiaro.com/organize-notes-obsidian/)
-	- [Basic formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
-	- [Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian)
-- Markdown Guides | "Hacks" :)
-	- [Adam P - GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-	- [Sameer Katija](https://dev.to/sameerkatija/github-markdown-cheat-sheet-everything-you-need-to-know-to-write-readme-md-2eca)
-	- [Markdown Guide](https://markdownguide.org/cheat-sheet/)
-	- [Markdown Hacks](https://www.markdownguide.org/hacks/)
+Just like in a D&D campaign, where adventurers track maps, inventories, and spellbooks, documentation helps you navigate challenges, equip yourself with knowledge, and share wisdom with your party.
+
+---
+
+# Why is Documentation Important?
+
+Good documentation:
+1. **Preserves Knowledge**: Captures essential information that can be revisited later. It's like keeping a spellbook—you don't want to forget Fireball just when you need it most!
+2. **Improves Communication**: Provides clear guidance for teams, users, or collaborators. Imagine sharing a quest map—everyone needs to know where the treasure is.
+3. **Enhances Productivity**: Saves time by reducing the need to repeat explanations. Wouldn't it be easier to hand out the quest objectives instead of repeating them for each player?
+4. **Facilitates Learning**: Helps others (or your future self) understand complex topics quickly. Each page of documentation is another piece of XP toward mastering the game.
+
+---
+## Notes About Documentation
+Explore notes on how to take better notes, what makes documentation effective, and why it's essential in various contexts:
+
+```dataview
+LIST
+WHERE category = "Info Tech" AND contains(topic, "Documentation") AND type != "Dashboard"
+SORT title ASC
+```
+
+---
+
+Documentation is a skill that grows with practice and consistency. Like a D&D character gaining XP, every effort you put into documenting your knowledge brings you closer to mastering your craft. Whether you are organizing personal notes or publishing a website, this section will serve as your guide to leveling up your documentation game. Ready your pen, adventurer—your journey begins here.

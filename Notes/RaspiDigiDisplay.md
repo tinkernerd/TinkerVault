@@ -1,13 +1,15 @@
 ---
 title: RaspiDigiDisplay
-dateCreated: 2022-02-08T10:05:58
+created_at: 2022-02-08T10:05:58
+modified_at: 2025-02-06T23:22:49-05:00
 type: Project
 Repo: TinkerNerd/RaspiDigiDisplay
 description: RaspiDigiDisplay is a Raspberry Pi project that installs and configures a digital display setup, including automatic cursor management, Python-based display clicker scripts, and system configurations for a smooth user experience.
-category: RaspberryPi
+category: Development
+topic:
+  - Raspberry Pi
 ---
 # RaspiDigiDisplay
-
 
 > [!Github] [TinkerNerd/RaspiDigiDisplay](https://github.com/tinkernerd/raspidigidisplay)
 > RaspiDigiDisplay is a Raspberry Pi project that installs and configures a digital display setup, including automatic cursor management, Python-based display clicker scripts, and system configurations for a smooth user experience.
@@ -76,6 +78,3 @@ You can adjust the frequency or behavior by editing this file.
 
 If you’d like to contribute to this project, please fork the repository and create a pull request. Feel free to submit issues or feature requests as well!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

@@ -2,13 +2,14 @@
 title: Google Meet Boom Camera
 description: 
 type: Resource
-dateCreated: 2021-03-29 08:32:53
+topic:
+  - Raspberry Pi
+category: Development
+created_at: 2025-02-06T15:05:09-05:00
+modified_at: 2025-02-06T15:06:00-05:00
 tags:
-  - smc
-  - raspberrypi
-  - google
-status: Active
-category: RaspberryPi
+  - raspberry-pi
+  - meetings
 ---
 1.  Flip power switch on surge suppressor at the bottom of the boom, after plugging it in (Ethernet to the Raspberry Pi Single Board Computer on the boom is optional as it has WiFi, however connection will be stronger and more reliable).
 2.  Turn on Podium PC with VNC Viewer Installed.

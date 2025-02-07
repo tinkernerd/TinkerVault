@@ -1,127 +1,399 @@
 ---
-title: Basic Data Types
-source: finxter.com
+title: Python Data Types
+type: Resource
 topic:
   - Python
-  - programming
-dateCreated: 2024-09-15
+category: Development
+created_at: 2025-02-06T00:35:22-05:00
+modified_at: 2025-02-06T19:19:36-05:00
 tags:
+  - data-types
   - python
-  - programming
-  - cheatsheet
-type: CheatSheet
 ---
-# Python Cheat Sheet: Basic Data Types
-_A puzzle a day to learn, code, and play → Visit [finxter.com](https://finxter.com)_
+# Data Types in Python
 
-## 1. Boolean Operations
+## Overview
+Python provides various data types to define and manage data effectively. These include:
+1. Numbers
+2. Strings
+3. Booleans
+4. Lists
+5. Tuples
+6. Dictionaries
+7. Sets
 
-| Description                    | Example                                                                                                                                     |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Boolean**                    | The Boolean data type is either `True` or `False`.                                                                                          |
-| Boolean operators by priority: | `not x` → “if x is False, then True” <br> `x and y` → “if x is False, then False, else y” <br> `x or y` → “if x is True, then True, else y” |
-| Comparison example:            | `1 < 2 and 0 <= 1 and 3 > 2 and 2 >= 2 and 1 == 1 and 1 != 0  # True`                                                                       |
+---
 
-### Code Example:
+## Numbers
+8. Represent numerical data and can perform arithmetic operations.
+9. Types of numbers:
+   - **Integer (`int`)**: Whole numbers, both positive and negative.
+   - **Floating Point (`float`)**: Decimal numbers.
+   - **Complex Numbers (`complex`)**: Numbers with a real and imaginary part.
+
+### Examples:
+
 ```python
-x, y = True, False
-print(x and not y)  # True
-print(not x and y or x)  # True
+x = 10       # Integer
+y = 3.14     # Float
+z = 1 + 2j   # Complex number
 ```
 
-## 2. Conditional False Values
+### Common Functions:
+- `type(x)`: Returns the type of `x`.
+- `int()`: Converts to integer.
+- `float()`: Converts to float.
+- `complex()`: Converts to complex number.
 
-| Description                           | Example                                                                                       |
-|---------------------------------------|-----------------------------------------------------------------------------------------------|
-| **Falsy Values**                      | Values that evaluate to `False`: `None`, `0`, `0.0`, `''` (empty string), `[]` (empty list), `{}` (empty dict), `set()` |
-| Conditional example:                  | If any of the falsy values are used in an `if` statement, they will be treated as `False`.     |
+---
 
-### Code Example:
+## Strings
+10. A sequence of characters enclosed in single, double, or triple quotes.
+11. Strings are immutable.
+
+### Examples:
+
 ```python
-if None or 0 or 0.0 or '' or [] or {} or set():
-    print("Dead code")  # This won't be printed
+string1 = 'Hello'
+string2 = "World"
+string3 = """This is a 
+multiline string."""
 ```
 
-## 3. Arithmetic Operations
+### Common Operations:
+- Concatenation: `"Hello" + " " + "World"` → `"Hello World"`
+- Repetition: `"Hi" * 3` → `"HiHiHi"`
+- Slicing: `"Python"[0:3]` → `"Pyt"`
+- Methods: `upper()`, `lower()`, `strip()`, `replace()`, etc.
 
-| Operation                             | Example                                                                                       |
-|---------------------------------------|-----------------------------------------------------------------------------------------------|
-| **Addition**                          | `3 + 2  # 5`                                                                                  |
-| **Subtraction**                       | `3 - 2  # 1`                                                                                  |
-| **Multiplication**                    | `3 * 2  # 6`                                                                                  |
-| **Division**                          | `3 / 2  # 1.5`                                                                                |
-| **Integer Division**                  | `3 // 2  # 1`                                                                                 |
-| **Modulo**                            | `3 % 2  # 1`                                                                                  |
-| **Exponentiation**                    | `3 ** 2  # 9`                                                                                 |
-| **Absolute Value**                    | `abs(-3)  # 3`                                                                                |
-| **Type Conversion (int to float)**    | `float(3)  # 3.0`                                                                             |
-| **Type Conversion (float to int)**    | `int(3.9)  # 3`                                                                               |
+### Example:
 
-### Code Example:
 ```python
-x, y = 3, 2
-print(x + y)  # 5
-print(x - y)  # 1
-print(x * y)  # 6
-print(x / y)  # 1.5
-print(x // y)  # 1
-print(x % y)  # 1
-print(-x)  # -3
-print(abs(-x))  # 3
-print(int(3.9))  # 3
-print(float(3))  # 3.0
-print(x ** y)  # 9
-```
-
-## 4. String Operations
-
-| Description                           | Example                                                                                       |
-|---------------------------------------|-----------------------------------------------------------------------------------------------|
-| **String Creation**                   | 1. `'Yes'` (Single quotes) <br> 2. `"Yes"` (Double quotes) <br> 3. `'''Yes\nWe Can'''` (Triple quotes) <br> 4. `str(5) == '5'` (String method) |
-| **Concatenation**                     | `"Ma" + "hatma" == 'Mahatma'`                                                                 |
-| **Whitespace Characters**             | Newline: `\n`, Space: `\s`, Tab: `\t`                                                          |
-
-### Indexing and Slicing:
-```python
-s = "The youngest pope was 11 years old"
-print(s[0])  # 'T'
-print(s[1:3])  # 'he'
-print(s[-3:-1])  # 'ol'
-print(s[-3:])  # 'old'
-x = s.split()  # creates string array of words
-print(x[-3] + " " + x[-1] + " " + x[2] + "s")  # '11 old popes'
-```
-
-## 5. Useful String Methods
-
-| Method                                | Description and Example                                                                       |
-|---------------------------------------|-----------------------------------------------------------------------------------------------|
-| **`strip()`**                         | Removes whitespace: `"    This is lazy\t\n   ".strip()  # 'This is lazy'`                      |
-| **`lower()`**                         | Converts to lowercase: `"DrDre".lower()  # 'drdre'`                                            |
-| **`upper()`**                         | Converts to uppercase: `"attention".upper()  # 'ATTENTION'`                                    |
-| **`startswith()`**                    | Checks if string starts with a prefix: `"smartphone".startswith("smart")  # True`              |
-| **`endswith()`**                      | Checks if string ends with a suffix: `"smartphone".endswith("phone")  # True`                  |
-| **`find()`**                          | Finds a substring: `"another".find("other")  # 2`                                              |
-| **`replace()`**                       | Replaces a substring: `"cheat".replace("ch", "m")  # 'meat'`                                   |
-| **`join()`**                          | Joins list elements with a delimiter: `','.join(["F", "B", "I"])  # 'F,B,I'`                   |
-| **`len()`**                           | Returns the string length: `len("Rumpelstiltskin")  # 15`                                      |
-| **`in`**                              | Checks if a substring exists: `"ear" in "earth"  # True`                                       |
-
-### Code Example:
-```python
-y = "    This is lazy\t\n   "
-print(y.strip())  # 'This is lazy'
-print("DrDre".lower())  # 'drdre'
-print("attention".upper())  # 'ATTENTION'
-print("smartphone".startswith("smart"))  # True
-print("smartphone".endswith("phone"))  # True
-print("another".find("other"))  # 2
-print("cheat".replace("ch", "m"))  # 'meat'
-print(','.join(["F", "B", "I"]))  # 'F,B,I'
-print(len("Rumpelstiltskin"))  # 15
-print("ear" in "earth")  # True
+text = "Python"
+print(text.upper())      # Output: "PYTHON"
+print(text[0:3])         # Output: "Pyt"
 ```
 
 ---
 
-_For more information, visit [finxter.com](https://finxter.com)._
+## Booleans
+12. Represents one of two values: `True` or `False`.
+13. Often used in conditional statements and logical operations.
+
+### Examples:
+
+```python
+is_active = True
+is_admin = False
+```
+
+### Common Operations:
+- Logical Operators: `and`, `or`, `not`
+- Comparison Operators: `==`, `!=`, `<`, `>`, `<=`, `>=`
+
+Example:
+
+```python
+x = 10
+print(x > 5)  # Output: True
+```
+
+---
+
+## Lists
+14. A collection of items that is ordered, mutable, and allows duplicates.
+15. Defined using square brackets `[]`.
+
+### Examples:
+
+```python
+fruits = ["apple", "banana", "cherry"]
+```
+
+### Common Operations:
+- Access: `fruits[0]` → `"apple"`
+- Modify: `fruits[1] = "blueberry"`
+- Append: `fruits.append("orange")`
+- Methods: `pop()`, `remove()`, `sort()`, etc.
+
+Example:
+
+```python
+fruits = ["apple", "banana", "cherry"]
+fruits.append("orange")
+print(fruits)  # Output: ['apple', 'banana', 'cherry', 'orange']
+```
+
+---
+
+## Tuples
+16. Similar to lists but immutable (cannot be changed after creation).
+17. Defined using parentheses `()`.
+
+### Examples:
+
+```python
+coordinates = (10, 20, 30)
+```
+
+### Common Operations:
+- Access: `coordinates[0]` → `10`
+- Methods: `count()`, `index()`
+
+Example:
+
+```python
+coordinates = (10, 20, 30)
+print(coordinates[1])  # Output: 20
+```
+
+---
+
+## Dictionaries
+18. Collection of key-value pairs.
+19. Defined using curly braces `{}`.
+
+### Examples:
+
+```python
+person = {"name": "Alice", "age": 25}
+```
+
+### Common Operations:
+- Access: `person["name"]` → `"Alice"`
+- Modify: `person["age"] = 30`
+- Methods: `keys()`, `values()`, `items()`
+
+Example:
+
+```python
+person = {"name": "Alice", "age": 25}
+person["age"] = 30
+print(person)  # Output: {'name': 'Alice', 'age': 30}
+```
+
+---
+
+## Sets
+20. Unordered collection of unique items.
+21. Defined using curly braces `{}` or the `set()` function.
+
+### Examples:
+
+```python
+# Data Types in Python
+
+## Overview
+Python provides various data types to define and manage data effectively. These include:
+1. Numbers
+2. Strings
+3. Booleans
+4. Lists
+5. Tuples
+6. Dictionaries
+7. Sets
+
+---
+
+## Numbers
+8. Represent numerical data and can perform arithmetic operations.
+9. Types of numbers:
+   - **Integer (`int`)**: Whole numbers, both positive and negative.
+   - **Floating Point (`float`)**: Decimal numbers.
+   - **Complex Numbers (`complex`)**: Numbers with a real and imaginary part.
+
+### Examples:
+
+```python
+x = 10       # Integer
+y = 3.14     # Float
+z = 1 + 2j   # Complex number
+```
+
+### Common Functions:
+- `type(x)`: Returns the type of `x`.
+- `int()`: Converts to integer.
+- `float()`: Converts to float.
+- `complex()`: Converts to complex number.
+
+---
+
+## Strings
+10. A sequence of characters enclosed in single, double, or triple quotes.
+11. Strings are immutable.
+
+### Examples:
+
+```python
+string1 = 'Hello'
+string2 = "World"
+string3 = """This is a 
+multiline string."""
+```
+
+### Common Operations:
+- Concatenation: `"Hello" + " " + "World"` → `"Hello World"`
+- Repetition: `"Hi" * 3` → `"HiHiHi"`
+- Slicing: `"Python"[0:3]` → `"Pyt"`
+- Methods: `upper()`, `lower()`, `strip()`, `replace()`, etc.
+
+### Example:
+
+```python
+text = "Python"
+print(text.upper())      # Output: "PYTHON"
+print(text[0:3])         # Output: "Pyt"
+```
+
+---
+
+## Booleans
+12. Represents one of two values: `True` or `False`.
+13. Often used in conditional statements and logical operations.
+
+### Examples:
+
+```python
+is_active = True
+is_admin = False
+```
+
+### Common Operations:
+- Logical Operators: `and`, `or`, `not`
+- Comparison Operators: `==`, `!=`, `<`, `>`, `<=`, `>=`
+
+Example:
+
+```python
+x = 10
+print(x > 5)  # Output: True
+```
+
+---
+
+## Lists
+14. A collection of items that is ordered, mutable, and allows duplicates.
+15. Defined using square brackets `[]`.
+
+### Examples:
+
+```python
+fruits = ["apple", "banana", "cherry"]
+```
+
+### Common Operations:
+- Access: `fruits[0]` → `"apple"`
+- Modify: `fruits[1] = "blueberry"`
+- Append: `fruits.append("orange")`
+- Methods: `pop()`, `remove()`, `sort()`, etc.
+
+Example:
+
+```python
+fruits = ["apple", "banana", "cherry"]
+fruits.append("orange")
+print(fruits)  # Output: ['apple', 'banana', 'cherry', 'orange']
+```
+
+---
+
+## Tuples
+16. Similar to lists but immutable (cannot be changed after creation).
+17. Defined using parentheses `()`.
+
+### Examples:
+
+```python
+coordinates = (10, 20, 30)
+```
+
+### Common Operations:
+- Access: `coordinates[0]` → `10`
+- Methods: `count()`, `index()`
+
+Example:
+
+```python
+coordinates = (10, 20, 30)
+print(coordinates[1])  # Output: 20
+```
+
+---
+
+## Dictionaries
+18. Collection of key-value pairs.
+19. Defined using curly braces `{}`.
+
+### Examples:
+
+```python
+person = {"name": "Alice", "age": 25}
+```
+
+### Common Operations:
+- Access: `person["name"]` → `"Alice"`
+- Modify: `person["age"] = 30`
+- Methods: `keys()`, `values()`, `items()`
+
+Example:
+
+```python
+person = {"name": "Alice", "age": 25}
+person["age"] = 30
+print(person)  # Output: {'name': 'Alice', 'age': 30}
+```
+
+---
+
+## Sets
+20. Unordered collection of unique items.
+21. Defined using curly braces `{}` or the `set()` function.
+
+### Examples:
+
+```python
+unique_numbers = {1, 2, 3, 4, 5}
+```
+
+### Common Operations:
+- Add: `unique_numbers.add(6)`
+- Remove: `unique_numbers.remove(3)`
+- Mathematical operations: Union (`|`), Intersection (`&`), Difference (`-`).
+
+Example:
+
+```python
+unique_numbers = {1, 2, 3}
+unique_numbers.add(4)
+print(unique_numbers)  # Output: {1, 2, 3, 4}
+```
+
+---
+
+## Type Conversion
+22. You can convert between data types using built-in functions.
+
+| Function   | Description           | Example                |
+|------------|-----------------------|------------------------|
+| `int()`    | Converts to integer   | `int(3.14)` → `3`      |
+| `float()`  | Converts to float     | `float(3)` → `3.0`     |
+| `str()`    | Converts to string    | `str(3)` → `"3"`       |
+| `bool()`   | Converts to boolean   | `bool(0)` → `False`    |
+| `list()`   | Converts to list      | `list((1, 2))` → `[1, 2]` |
+| `tuple()`  | Converts to tuple     | `tuple([1, 2])` → `(1, 2)` |
+| `set()`    | Converts to set       | `set([1, 2, 2])` → `{1, 2}` |
+
+Example:
+
+```python
+x = "123"
+y = int(x)  # Convert string to integer
+print(type(y))  # Output: <class 'int'>
+```
+
+---
+
+## Summary
+23. Python provides various data types to work with different kinds of data.
+24. Understanding data types and their operations is essential for writing efficient code.
+25. Use type conversion functions to switch between types when needed.

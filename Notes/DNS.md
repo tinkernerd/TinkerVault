@@ -1,11 +1,13 @@
 ---
 title: DNS
-tags:
-  - Networking
-  - DNS
 type: Resource
-dateCreated: 2024-07-14T21:54:56
+topic:
+  - DNS
+category: Networking
+created_at: 2025-02-06T00:23:18-05:00
+modified_at: 2025-02-06T00:23:50-05:00
 ---
+
 # DNS
 
 Internal DNS IP: 10.0.0.140
@@ -19,3 +21,4 @@ Backup: 10.0.0.1
 ## YouTube Resource
 - [You want a real DNS Server at home? (bind9 + docker)](https://www.youtube.com/watch?v=syzwLwE3Xq4&t=1671s)
 - [Best DNS Server for Home lab - Pihole Unbound configuration!](https://www.youtube.com/watch?v=XbbziN_H71U)
+

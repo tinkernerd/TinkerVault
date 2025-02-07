@@ -1,11 +1,11 @@
 ---
-title: Python OpenAI API Cheat Sheet
-date: 2024-09-15
+title: Python OpenAI API
 topic:
-  - Ai
   - Python
 type: Resource
-category: Networking
+category: Development
+created_at: 2025-02-06T14:03:16-05:00
+modified_at: 2025-02-06T14:06:26-05:00
 ---
 
 # Python OpenAI API Cheat Sheet

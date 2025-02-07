@@ -1,16 +1,22 @@
 ---
-title: Python Cheat Sheet - Classes
+title: Python Classes
 author: Finxter
 source: https://finxter.com/
-description: A quick reference cheat sheet for Python classes, covering class creation, instances, and common class methods.
-dateCreated: 2024-09-15
+description: A quick reference cheat sheet for Python classes, covering class creation, instances, and common class methods.5
 tags:
   - Python
-  - Cheat Sheet
+  - Cheat
+  - Sheet
   - Programming
   - Classes
-  - Object-Oriented Programming
-type: CheatSheet
+  - Object-Oriented
+  - Programming
+topic:
+  - Python
+category: Development
+type: Resource
+created_at: 2025-02-06T14:03:16-05:00
+modified_at: 2025-02-06T14:04:41-05:00
 ---
 
 # Python Cheat Sheet: Classes

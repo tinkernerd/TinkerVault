@@ -1,6 +1,5 @@
 ---
 title: Setup Proxmox VM
-dateCreated: 2024-07-16T20:37:51 (UTC -04:00)
 tags:
   - proxmox
   - tech
@@ -11,19 +10,10 @@ type: Article
 category: Linux
 topic:
   - Proxmox
+created_at: 2025-02-06T18:11:27-05:00
+modified_at: 2025-02-06T19:01:13-05:00
 ---
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
 
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
-</div>`;
-
-dv.el("div", noteBlock);
-```
 # Setup VM in Proxmox
 
 With Proxmox VE, creating your own VMs is a seamless process. This article will show you how to get started with creating VMs to build your Proxmox environment.

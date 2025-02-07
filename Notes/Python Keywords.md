@@ -3,13 +3,18 @@ title: Python Keywords
 author: Finxter
 source: https://finxter.com/
 description: A reference guide for Python keywords, including examples of how to use them in code. Covers keywords such as True, False, and, or, not, class, def, and more.
-dateCreated: 2024-09-15
 tags:
   - Python
   - Keywords
   - Cheat Sheet
   - Programming
   - Boolean Operators
+topic:
+  - Python
+category: Development
+type: Resource
+created_at: 2025-02-06T14:03:16-05:00
+modified_at: 2025-02-06T14:05:22-05:00
 ---
 # Python Cheat Sheet: Keywords
 

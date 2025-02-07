@@ -7,13 +7,22 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
-  "auto_jump_to_cursor": false,
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": false,
-  "folder_templates": [],
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Notes",
+      "template": "Assets/Templates/Default Template.md"
+    },
+    {
+      "folder": "Notes/Quick Notes",
+      "template": "Assets/Templates/Quick Note Template.md"
+    }
+  ],
   "enable_file_templates": false,
   "file_templates": [
     {
@@ -23,9 +32,11 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [],
-  "startup_templates": [
-    ""
+  "enabled_templates_hotkeys": [
+    "Assets/Templates/Insertion Template/GitHub Callout Template.md",
+    "Assets/Templates/Insertion Template/Callout Template.md"
   ],
-  "enable_ribbon_icon": true
+  "startup_templates": [
+    "Assets/Templates/startup template.md"
+  ]
 }

@@ -8,6 +8,7 @@ title: Copycat Chick-fil-A Spicy Southwest Salad
 type: Recipe
 topic:
   - Food
+category: Recipes
 ---
 
 # Copycat Chick-fil-A Spicy Southwest Salad

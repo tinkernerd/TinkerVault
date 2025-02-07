@@ -1,25 +1,17 @@
 ---
-dateCreated: 2024-07-14T21:52:59
-tags:
-  - nfs
-  - Networking
-source: https://phoenixnap.com/kb/ubuntu-nfs-server
-author: Marko Aleksic
 title: Install & Configure NFS Server
 type: Article
+source: https://phoenixnap.com/kb/ubuntu-nfs-server
+author: Marko Aleksic
+topic:
+  - Linux
+  - NFS
+  - Ubuntu
+  - Servers
+category: Networking
+created_at: 2025-02-06T15:18:35-05:00
+modified_at: 2025-02-06T15:19:47-05:00
 ---
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
-
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
-</div>`;
-
-dv.el("div", noteBlock);
-```
 
 # How to Install & Configure NFS Server on Ubuntu 
 

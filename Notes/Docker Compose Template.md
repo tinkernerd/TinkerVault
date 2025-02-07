@@ -1,19 +1,16 @@
 ---
 title: Docker Compose Template
-dateCreated: 2024-09-15
-tags:
-  - Docker
-  - CLI
-  - Containers
-  - DevOps
 type: Resource
 topic:
   - Docker
-  - Tech
-category: Docker
+category: Development
+created_at: 2025-02-06T12:44:36-05:00
+modified_at: 2025-02-06T12:45:16-05:00
 ---
+
+# Docker Compose Template
 .env
-```env
+```sh
 Container_Name=Example
 P1=8080
 ```

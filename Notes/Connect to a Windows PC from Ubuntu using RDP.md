@@ -1,13 +1,15 @@
 ---
-title: How to Connect to a Windows PC from Ubuntu using RDP
-dateCreated: 2024-09-21T23:35:00
-tags:
-  - linux
-  - ubuntu
-  - rdp
+title: Connect to a Windows PC from Ubuntu using RDP
+description: Connect to a Windows PC from Ubuntu using RDP
 type: Resource
+topic:
+  - Rdp
+  - Networking
 category: Linux
+created_at: 2025-02-06T13:21:52-05:00
+modified_at: 2025-02-06T13:22:51-05:00
 ---
+
 
 # How to Connect to a Windows PC from Ubuntu using RDP
 

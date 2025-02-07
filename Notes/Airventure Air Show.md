@@ -1,16 +1,18 @@
 ---
 title: The Legendary AirVenture
+description: A giant fly-in in Oshkosh Wisconsin
+status: Active
+type: Resource
+category: Aviation
 tags:
   - airventure
   - eaa
   - flight
   - aviation
-status: Active
-type: Resource
 topic:
-  - Festival
   - Events
-dateCreated: 2024-04-09
+  - Festival
+created_at: 2024-04-09
 category: Aviation
 ---
 # Airventure

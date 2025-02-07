@@ -1,7 +1,6 @@
 ---
 title: Introduction to the Airplane
-description: 
-dateCreated: 2024-10-17T16:52
+created_at: 2024-10-17T16:52
 type: Resource
 topic:
   - Aircraft

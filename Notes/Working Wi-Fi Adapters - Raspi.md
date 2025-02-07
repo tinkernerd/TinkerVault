@@ -1,15 +1,11 @@
 ---
-title: Working Wi-Fi Adapters
-tags:
-  - raspberry-pi
-  - wifi
-  - "#Networking"
-topic:
-  - RaspberryPi
-dateCreated: 2024-09-21T21:09:00
+title: Working Wi-Fi Adapters - Raspi
 type: Resource
-category: Linux
-context: Resources
+topic:
+  - Raspberry Pi
+category: Networking
+created_at: 2025-02-05T23:55:48-05:00
+modified_at: 2025-02-05T23:56:24-05:00
 ---
 ---
 # Working Wi-Fi Adapters
@@ -108,3 +104,4 @@ USB WiFi adapters come in various shapes, sizes and speeds. Their capabilities
 can vary greatly. The adapter that you pick needs to be chosen based on its
 ability to do the job that you need it to do.
 ```
+

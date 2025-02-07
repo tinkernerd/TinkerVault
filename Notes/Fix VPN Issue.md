@@ -1,10 +1,11 @@
 ---
 title: Fix VPN Issue
-dateCreated: 2020-07-20T08:41:20
 type: Resource
 topic:
   - VPN
-  - Networking
+category: Networking
+created_at: 2025-02-06T14:58:25-05:00
+modified_at: 2025-02-06T14:59:39-05:00
 ---
 
 1.  Turn off WIFI and turn on Airplane mode from the login screen.
@@ -24,16 +25,6 @@ topic:
 15. Then make a folder named Database in the TileDataLayer folder
 16. Done
 
-
-
-
-
-Resources:
-
-
-
-<https://www.tenforums.com/windows-10-news/133041-known-resolved-issues-windows-10-may-2019-update-version-1903-a-2.html#post1638963>
-
-
-
-<https://www.4winkey.com/windows-tips/top-3-ways-to-fix-edb-log-on-windows-10-8-1-8-7.html>
+## Resources:
+- [Known and Resolved issues for Windows 10 May 2019 Update version 1903 - Page 2 - Windows 10 Forums](https://www.tenforums.com/windows-10-news/133041-known-resolved-issues-windows-10-may-2019-update-version-1903-a-2.html#post1638963)
+- [Top 3 Ways to Fix edb.log on Windows 10/8.1/8/7](https://www.4winkey.com/windows-tips/top-3-ways-to-fix-edb-log-on-windows-10-8-1-8-7.html)

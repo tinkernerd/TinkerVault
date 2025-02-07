@@ -9,8 +9,7 @@ tags:
   - dash/tech
 topic:
   - Github
-  - Tech
-category: Programming
+category: Development
 type: Dashboard
 ---
 
@@ -18,12 +17,22 @@ type: Dashboard
 
 GitHub is where projects come to life. Whether you’re looking to manage your repositories, organize project resources, or sign releases, this section’s got everything you need. Have at ‘er!
 
-## Topics
+## Notes
 
 ```dataview  
 TABLE WITHOUT ID  
-link(file.path, title) AS "Note", type as Type, dateCreated as "Date Created", 
+link(file.path, title) AS "Note", type as Type, created_at as "Date Created", 
 file.mtime AS "Last modified"  
-FROM #github   AND "Notes"
+WHERE category = "Development" AND contains(topic, "Github") AND type != "Dashboard"
+SORT title ASC
+```
+
+## Git Notes
+
+```dataview  
+TABLE WITHOUT ID  
+link(file.path, title) AS "Note", type as Type, created_at as "Date Created", 
+file.mtime AS "Last modified"  
+WHERE category = "Development" AND contains(topic, "Git") AND type != "Dashboard"
 SORT title ASC
 ```

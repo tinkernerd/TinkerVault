@@ -1,11 +1,14 @@
 ---
-title: Apt vs Apt-Get
+title: APT vs APT-GET | What's the Difference?
 type: Resource
 tags:
   - apt
   - apt_get
-dateCreated: 2024-09-21T23:35:00
+topic:
+  - Apt
+  - Packages
 category: Linux
+created_at: 2024-09-21T23:35:00
 ---
 
 # APT vs APT-GET: What's the Difference?

@@ -1,10 +1,15 @@
 ---
-title: How to Edit the Mac Hosts File
-dateCreated: 2021-11-17T14:01:51
+title: Edit Mac Host File
 type: Resource
 topic:
-  - Apple
+  - Terminal
   - Networking
+  - MacOs
+category: Info Tech
+created_at: 2025-02-06T14:40:35-05:00
+modified_at: 2025-02-06T14:49:58-05:00
+tags:
+  - macos
 ---
 **First Easy Way: Command for Open Hosts File on Mac and Edit File Normally**  
 
@@ -37,3 +42,4 @@ Move Cursor in Host file to Edit on Host file on Mac
    Move back to the terminal on the Mac
 
    Close the **Terminal** screen to end your session.
+

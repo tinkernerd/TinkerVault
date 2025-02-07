@@ -1,13 +1,11 @@
 {
   "callouts": {
-    "custom": [
-      "Github"
-    ],
+    "custom": [],
     "settings": {
-      "Github": [
+      "bible": [
         {
           "changes": {
-            "icon": "lucide-github"
+            "icon": "lucide-book-plus"
           }
         },
         {
@@ -21,7 +19,7 @@
             "colorScheme": "dark"
           },
           "changes": {
-            "color": "233, 151, 63"
+            "color": "0, 119, 255"
           }
         }
       ]
@@ -30,6 +28,6 @@
   "calloutDetection": {
     "obsidian": true,
     "theme": true,
-    "snippet": false
+    "snippet": true
   }
 }

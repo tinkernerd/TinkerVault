@@ -1,8 +1,9 @@
 ---
 title: Phonetic Alphabet
-dateCreated: 2024-04-09
+created_at: 2024-04-09
 topic:
-  - atc
+  - ATC
+  - Navigation
 status: Archive
 type: Resource
 category: Aviation

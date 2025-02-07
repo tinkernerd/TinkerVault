@@ -1,16 +1,14 @@
 {
-  "autoPairMarkdown": false,
+  "propertiesInDocument": "hidden",
   "newFileLocation": "folder",
   "newFileFolderPath": "Notes",
-  "attachmentFolderPath": "Attachments",
-  "pdfExportSettings": {
-    "includeName": false,
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
+  "attachmentFolderPath": "Assets/Attachments",
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
-  "propertiesInDocument": "hidden"
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "trashOption": "local",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Assets/"
+  ]
 }

@@ -1,15 +1,17 @@
 ---
 title: US Amateur Radio Bands
 description: A reference chart detailing the US amateur radio bands, including frequency allocations, power limits, and license classes.
-date: 2024-09-15
-type: Dashboard
-dateCreated: 2024-09-21T21:18:00
-cssclasses:
-  - dashboard
-banner: "![[freq.jpg]]"
+type: Resource
+topic:
+  - Bands
 category: Radio
+created_at: 2025-02-06T01:25:05-05:00
+modified_at: 2025-02-06T01:27:17-05:00
 ---
-# Frequency Bands by License Class
+# US Amateur Radio Bands 
+
+A reference chart detailing the US amateur radio bands, including frequency allocations, power limits, and license classes.
+## Frequency Bands by License Class
 
 - 23 cm (1240 MHz)
 	- **Frequency Range**: 1240-1300 MHz
@@ -33,7 +35,7 @@ category: Radio
 	- **License Classes**: E, A, G, T
 
 
-# HF and Other Bands
+## HF and Other Bands
 
 - 10 Meters (28 MHz)
 	- **Frequency Range**: 28.000-29.700 MHz
@@ -64,7 +66,7 @@ category: Radio
 	- **Power Limit**: 200 W
 	- **Note**: Avoid interference to fixed services outside the US.
 
-# Lower Bands
+## Lower Bands
 
 - 40 Meters (7 MHz)
 	- **Frequency Range**: 7.000-7.300 MHz
@@ -86,7 +88,7 @@ category: Radio
 	- **License Classes**: E, A, G
 	- **Note**: Avoid interference with radiolocation operations from 1.900 to 2.000 MHz.
 
-# Special Bands
+## Special Bands
 
 - 630 Meters (472 kHz)
 	- **Frequency Range**: 472-479 kHz
@@ -98,7 +100,7 @@ category: Radio
 	- **License Classes**: E, A, G
 	- **Power Limit**: 1 W EIRP
 
-# Notes
+## Notes
 - Key Symbols
 	- **CW**: Continuous Wave (Morse Code)
 	- **USB**: Upper Sideband voice, CW, RTTY, and data

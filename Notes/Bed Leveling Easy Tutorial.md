@@ -3,52 +3,20 @@ title: Bed Leveling Easy Tutorial
 author: All3DP
 source: https://all3dp.com/2/3d-printer-bed-leveling-step-by-step-tutorial/
 description: A step-by-step tutorial on how to level a 3D printer bed, ensuring optimal print quality by adjusting the bed height and alignment.
-articleDate: 2024-03-10T12:00:00
+status: archive
 tags:
   - Calibration
   - Bed
   - Leveling
   - 3dprinting
-type: Resource
-dateCreated: 2024-09-15 08:00
-status: Archive
+type: Article
 topic:
-  - Maintaince
-category: 3d Printing
+  - 3d Printing
+  - Maintenance
+category: Development
+created_at: 2025-01-30
+dateUpdated: 2025-01-31
 ---
-
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const authors = dv.current().author || "Unknown author";
-const title = dv.current().title || "No title provided";
-
-// Split authors by comma and trim spaces
-let authorsList = authors.split(",").map(author => author.trim());
-
-// Truncate the title after 4 words
-let titleTruncated = title.split(" ").slice(0, 4).join(" ");
-if (title.split(" ").length > 4) {
-    titleTruncated += "...";
-}
-
-let authorsText;
-
-if (authorsList.length === 1) {
-    authorsText = authorsList[0];
-} else {
-    const lastAuthor = authorsList.pop();
-    authorsText = `${authorsList.join(", ")}, and ${lastAuthor}`;
-}
-
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out <a href="${source}" target="_blank">${titleTruncated}</a>, by ${authorsText}.
-</div>`;
-
-dv.el("div", noteBlock);
-
-```
 # 3D Printer Bed Leveling Easy Step-by-Step Guide
 
 Manual 3D printer bed leveling can be a frustrating experience even for seasoned makers. However, as soon as you understand the basics of the process, you’ll easily master this useful skill. Here’s how to do it.

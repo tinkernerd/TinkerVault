@@ -1,9 +1,6 @@
 ---
 title: Python NumPy
-author: Finxter
-source: https://finxter.com/
 description: A comprehensive reference guide for NumPy, covering essential operations such as array manipulation, matrix multiplication, sorting, statistical functions, and more.
-dateCreated: 2024-09-15
 tags:
   - Python
   - NumPy
@@ -13,11 +10,15 @@ tags:
   - Science
   - Array
   - Manipulation
-type: CheatSheet
+topic:
+  - Python
+category: Development
+type: Resource
+created_at: 2025-02-06T14:03:16-05:00
+modified_at: 2025-02-06T19:30:44-05:00
 ---
-# Python Cheat Sheet: NumPy
+# Python - NumPy
 
-**“A puzzle a day to learn, code, and play”** → Visit [finxter.com](https://finxter.com/)
 
 ---
 ## Array Shape and Dimensions

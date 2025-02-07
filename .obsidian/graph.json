@@ -3,78 +3,57 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "[\"topic\": Aviation]",
+      "query": "[\"category\":bible]",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 14701138
       }
     },
     {
-      "query": "[\"type\":ClassNote]",
+      "query": "[\"category\":development]",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 14725458
       }
     },
     {
-      "query": "[\"topic\": Fishing]",
+      "query": "[\"category\":electrical]",
       "color": {
         "a": 1,
-        "rgb": 6070742
+        "rgb": 11657298
       }
     },
     {
-      "query": "[\"Type\": Recipie]",
+      "query": "[\"category\":info tech]",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 5431378
       }
     },
     {
-      "query": "tag:#3dprinting  ",
+      "query": "[\"category\":radio]",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 5431473
       }
     },
     {
-      "query": "[\"topic\": Photography]",
+      "query": "[\"category\":Aviation]",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 5419488
       }
     },
     {
-      "query": "tag:#radio ",
+      "query": "[\"category\":Recipies]",
       "color": {
         "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "tag:#linux  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
-      }
-    },
-    {
-      "query": "tag:#Arduino  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#docker  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
+        "rgb": 5395168
       }
     }
   ],
@@ -83,11 +62,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.427083333333333,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.12160396543010113,
-  "close": false
+  "scale": 2.844836270482671,
+  "close": true
 }

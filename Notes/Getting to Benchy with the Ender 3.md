@@ -1,54 +1,20 @@
 ---
 title: Getting to Benchy with the Ender 3
+description: A guide on how to achieve a successful Benchy print with the Ender 3, covering printer setup, calibration, and troubleshooting common issues.
+topic:
+  - 3d Printing
 author: WebWorxShop
 source: https://webworxshop.com/3d-printing-getting-to-benchy-with-the-ender-3/
-description: A guide on how to achieve a successful Benchy print with the Ender 3, covering printer setup, calibration, and troubleshooting common issues.
-articleDate: 2019-11-13
-tags:
-  - Ender
-  - Benchy
-  - Print
-  - Printer
-  - Calibration
-  - 3dprinting
 type: Article
-dateCreated: 2024-09-15 08:00
-status: Archive
-category: 3d Printing
+dateUpdated: 2025-01-31T22:04:34
+created_at: 2024-09-15T08:00
+category: Development
 ---
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const authors = dv.current().author || "Unknown author";
-const title = dv.current().title || "No title provided";
 
-// Split authors by comma and trim spaces
-let authorsList = authors.split(",").map(author => author.trim());
+# Getting to Benchy with the Ender 3
 
-// Truncate the title after 4 words
-let titleTruncated = title.split(" ").slice(0, 4).join(" ");
-if (title.split(" ").length > 4) {
-    titleTruncated += "...";
-}
+---
 
-let authorsText;
-
-if (authorsList.length === 1) {
-    authorsText = authorsList[0];
-} else {
-    const lastAuthor = authorsList.pop();
-    authorsText = `${authorsList.join(", ")}, and ${lastAuthor}`;
-}
-
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out <a href="${source}" target="_blank">${titleTruncated}</a>, by ${authorsText}.
-</div>`;
-
-dv.el("div", noteBlock);
-
-```
-# 3D Printing Getting to Benchy with the Ender 3 – Rob Connolly's Blog
 I recently bought a 3D printer in the form of a [Creality Ender 3](http://s.click.aliexpress.com/e/Ew0J8ezw). I thought I would take the time to document how I got up and running, since this area is completely new to me. Hopefully this will be useful to those who are just starting out in 3D printing, specifically with the Ender 3. It’s not going to be a complete guide, but more of a high level overview of the steps I took. I’ll link to more detailed instructions where relevant.
 
 ### About the Ender 3

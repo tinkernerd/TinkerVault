@@ -1,12 +1,15 @@
 ---
-title: How to Add User to Sudoers or Sudo Group
+title: Add User to Sudoers or Sudo Group
 type: Resource
-tags:
-  - sudo
-dateCreated: 2024-09-21T23:35:00
-topic:
-  - Sudo
 category: Linux
+tags:
+  - Sudo
+  - Linux
+topic:
+  - Linux
+  - Sudo
+created_at: 2024-09-21T23:35:00
+dateUpdated: 2025-01-31T22:04:34
 ---
 
 # How to Add User to Sudoers or Sudo Group 
@@ -15,12 +18,11 @@ category: Linux
 > Learn how to add users to sudoers on Ubuntu the simple way. In Linux, Sudo allows users to execute specific commands as a superuser.
 
 ---
-
 Standard user accounts have limitations that prevent them from performing sensitive tasks.
 
 For example, to view the _/root_ directory contents with the [ls command](https://phoenixnap.com/kb/linux-ls-commands), users need elevated permissions. Running the command without those permissions results in an error:
 
-```
+```bash
 ls /root
 ```
 
@@ -30,13 +32,13 @@ To create a new user:
 
 1. Use the [adduser](https://phoenixnap.com/kb/linux-adduser) command:
 
-```
+```sh
 sudo adduser [name-of-user]
 ```
 
 For instance, create a user called _user1_ with:
 
-```
+```bash
 sudo adduser user1
 ```
 
@@ -58,13 +60,13 @@ On the other hand, the sudo group is created specifically to manage sudo privile
 
 To grant users sudo permission without editing the _sudoers_ file, add them to the sudo group with the [usermod](https://phoenixnap.com/kb/usermod-linux) command:
 
-```
+```bash
 sudo usermod -aG sudo [name-of-user]
 ```
 
 For example, grant _user1_ sudo privileges with:
 
-```
+```bash
 sudo usermod -aG sudo user1
 ```
 
@@ -74,7 +76,7 @@ The command has no output, but the **`-aG`** option tells the system to append t
 
 To confirm _user1_ belongs to the sudoers group, view the groups the user belongs to:
 
-```
+```bash
 groups user1
 ```
 
@@ -86,7 +88,7 @@ To verify sudo access, take the following steps:
 
 1. Switch users with the [su command](https://phoenixnap.com/kb/su-command-linux-examples). For example:
 
-```
+```bash
 su - user1
 ```
 
@@ -94,7 +96,7 @@ Enter the password when prompted.
 
 2. Run a command that requires elevated privileges. For instance, list the _/root_ directory contents using the **`ls`** command with **`sudo`**:
 
-```
+```bash
 sudo ls /root
 ```
 

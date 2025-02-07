@@ -9,6 +9,7 @@ title: Peppermint Hot Chocolate
 type: Recipe
 topic:
   - Drinks
+category: Recipes
 ---
 
 # Peppermint Hot Chocolate

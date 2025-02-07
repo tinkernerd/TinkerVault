@@ -1,18 +1,13 @@
 ---
-tags:
-  - DRS
-  - DigitalReadSerial
-  - "#Electronics"
-  - Arduino
-  - Small
-  - Prototyping
 title: Digital Read Serial
 type: Article
 topic:
-  - Arduino
-  - Tech
-dateCreated: 2024-09-21T20:53:00
+  - Microcontrollers
+category: Development
+created_at: 2025-02-06T00:27:35-05:00
+modified_at: 2025-02-06T00:32:37-05:00
 ---
+
 # [Digital Read Serial | Arduino Documentation](https://docs.arduino.cc/built-in-examples/basics/DigitalReadSerial/)
 
 Read a switch, print the state out to the Arduino Serial Monitor.

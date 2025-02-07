@@ -1,9 +1,9 @@
----
+<% '---' %>
 title: 
 description: 
-dateCreated:
-  "{ DATE:YYYY-MM-DD HH:mm:ss }": 
-type: Resource
+created_at: <% tp.file.creation_date('YYYY-MM-DD[T]HH:mm:ssZ') %>
+modified_at: <% tp.file.last_modified_date('YYYY-MM-DD[T]HH:mm:ssZ') %>
+category: Aviation
 topic:
   - Aviation
 tags:
@@ -12,4 +12,5 @@ tags:
 Chapter: "Chapter #"
 status: Active
 Book: "Volume #"
----
+<% '---' %>
+

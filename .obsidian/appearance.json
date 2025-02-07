@@ -1,11 +1,20 @@
 {
-  "accentColor": "#003b6f",
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "CalloutsAndCheckboxesHelpbox",
     "callouts",
-    "dashboard",
-    "dashboard-ReadLineLength"
-  ]
+    "CalloutsAndCheckboxesHelpbox",
+    "Cards",
+    "Cards Shadow",
+    "cleandoc",
+    "extended-colorschemes",
+    "invert image",
+    "links",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "my-styles",
+    "sidebar"
+  ],
+  "accentColor": "#0097a7"
 }

@@ -1,15 +1,14 @@
 ---
-title: How to Change Password in Linux
+title: How to Change Password In Linux
 type: Resource
-dateCreated: 2024-09-21T23:35:00
-tags:
-  - passwords
-  - security
 topic:
-  - Security
-category: Linux
+  - Linux
+  - CyberSecurity
+category: Development
+created_at: 2025-02-05T23:46:31-05:00
+modified_at: 2025-02-05T23:49:05-05:00
 ---
-
+# How to Change Password in Linux
 To change your password in [Linux](https://phoenixnap.com/kb/what-is-linux):
 
 1. Open a terminal window and run the passwd

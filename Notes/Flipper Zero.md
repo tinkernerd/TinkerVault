@@ -1,14 +1,15 @@
 ---
+title: Flipper Zero
+type: Resource
 tags:
   - "#Flipper"
   - Security
   - Links
-title: Flipper Zero
-dateCreated: 2024-09-21T21:05:00
-type: Resource
-category: CyberSecurity
 topic:
   - Security
+category: Info Tech
+created_at: 2025-02-06T13:50:50-05:00
+modified_at: 2025-02-06T13:51:38-05:00
 ---
 # Flipper Zero
 ## Links

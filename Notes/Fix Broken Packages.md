@@ -6,21 +6,11 @@ tags:
 title: Fix Broken Packages
 source: https://phoenixnap.com/kb/ubuntu-fix-broken-packages
 author: Marko Aleksic
-type: Installs
-category: Linux
+type: Article
+category: Development
+topic:
+  - Linux
 ---
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
-
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
-</div>`;
-
-dv.el("div", noteBlock);
-```
 # How to Fix Broken Packages in Ubuntu 
 
 > ## Excerpt

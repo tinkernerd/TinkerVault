@@ -1,13 +1,14 @@
 ---
-tags:
-  - DHCP
-  - Networking
-  - VLAN
-  - Videos
-  - OPNsense
 title: Multiple Vlans
-dateCreated: 2024-07-14T21:54:56
+description: Running Multiple Vlans on one system.
 type: Resource
+topic:
+  - Vlans
+  - Routers
+  - Firewalls
+category: Networking
+created_at: 2025-02-05T22:59:43-05:00
+modified_at: 2025-02-05T23:46:05-05:00
 ---
 
 # Multiple VLANS
@@ -26,3 +27,4 @@ type: Resource
 Cisco Switches
 - [How to configure a DHCP Server for multiple VLANs on a Cisco switch](https://www.youtube.com/watch?v=u2Idjsji_J4)
 
+What is a Vlan? [[Tech Glossary#VLAN (Virtual Local Area Network)]]

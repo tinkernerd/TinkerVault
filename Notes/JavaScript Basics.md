@@ -1,13 +1,14 @@
 ---
 title: JavaScript Basics
-author: Nicholas Stull
 description: Introduction to JavaScript, covering variables, data types, and basic syntax.
-date: 2024-09-15
-dateCreated: 2024-09-15 08:00
 type: Resource
-status: Active
-category: JavaScript
+topic:
+  - JavaScript
+category: Development
+created_at: 2025-02-06T15:16:23-05:00
+modified_at: 2025-02-06T15:17:02-05:00
 ---
+
 # JavaScript Basics
 
 JavaScript is a versatile programming language primarily used for enhancing web pages. Here’s a breakdown of the basics:

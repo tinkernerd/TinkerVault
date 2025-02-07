@@ -1,12 +1,14 @@
 ---
 title: Wallpaper Resources
+type: Resource
 topic:
   - Windows
-  - Tech
+category: Info Tech
+created_at: 2025-02-06T01:23:50-05:00
+modified_at: 2025-02-06T01:24:51-05:00
 tags:
+  - Wallpapers
   - Windows
-  - wallpaper
-dateCreated: 2024-10-21T15:52:00
 ---
 # Wallpaper Resources
 ## Links

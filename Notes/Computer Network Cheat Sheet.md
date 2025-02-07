@@ -1,27 +1,14 @@
 ---
 title: Computer Network Cheat Sheet
+type: Resource
+topic:
+  - Protocols
+category: Networking
+created_at: 2025-02-05T23:51:22-05:00
+modified_at: 2025-02-05T23:54:48-05:00
 source: https://www.geeksforgeeks.org/computer-network-cheat-sheet/?ref=lbp
 author: ritikshrivas
-dateCreated: 2024-07-14T21:54:56
-type: Resource
-tags:
-  - Networking
-  - cheatsheet
-category: Networking
 ---
-
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
-
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
-</div>`;
-
-dv.el("div", noteBlock);
-```
 # Computer Network Cheat Sheet
 
 Last Updated : 21 Sep, 2022
@@ -324,4 +311,5 @@ Here is a cheat sheet of computer networks that is given below:
 | [Encryption](https://www.geeksforgeeks.org/encryption-its-algorithms-and-its-future/) | Encrypt data with a key,  that is, the same key is required to decrypt the data. This is how HTTPS works. |
 | [Firewalls](https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/) | Protect the network from unauthorized access. |
 | [MAC Address Filtering](https://www.geeksforgeeks.org/mac-filtering-in-computer-network/) | Allow devices to access or be prevented from accessing the network based on their physical address embedded in the device’s network adapter. |
+
 

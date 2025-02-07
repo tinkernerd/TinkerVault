@@ -4,12 +4,13 @@ type: Project
 tags:
   - docker
   - tech
-dateCreated: 2024-09-15
+created_at: 2024-09-15
 source: https://www.youtube.com/@christianlempa/
 author: ChristianLempa
 status: Archive
-category: Docker
+category: Development
 topic:
+  - Docker
   - DNS
 ---
 

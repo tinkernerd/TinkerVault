@@ -7,46 +7,12 @@ tags:
   - Networking
   - ssh
   - Security
-dateCreated: 2024-07-14T21:55:33
 topic:
-  - ssh
   - Security
-articleDate: 2021-12-15T04:00:00
-status: Active
 category: Networking
+created_at: 2025-02-06T13:23:43-05:00
+modified_at: 2025-02-06T13:25:07-05:00
 ---
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const authors = dv.current().author || "Unknown author";
-const title = dv.current().title || "No title provided";
-
-// Split authors by comma and trim spaces
-let authorsList = authors.split(",").map(author => author.trim());
-
-// Truncate the title after 4 words
-let titleTruncated = title.split(" ").slice(0, 4).join(" ");
-if (title.split(" ").length > 4) {
-    titleTruncated += "...";
-}
-
-let authorsText;
-
-if (authorsList.length === 1) {
-    authorsText = authorsList[0];
-} else {
-    const lastAuthor = authorsList.pop();
-    authorsText = `${authorsList.join(", ")}, and ${lastAuthor}`;
-}
-
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out <a href="${source}" target="_blank">${titleTruncated}</a>, by ${authorsText}.
-</div>`;
-
-dv.el("div", noteBlock);
-
-```
 # Create SSH Key
 
 ### [Introduction](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2#introduction)
@@ -132,4 +98,5 @@ Once the key pair is generated, it’s time to place the public key on the serve
 You can copy the public key into the server’s `authorized_keys` file with the `ssh-copy-id` command. Make sure to replace the example username and address:
 
 Once the command completes, you will be able to log into the server via SSH without being prompted for a password. However, if you set a passphrase when creating your SSH key, you will be asked to enter the passphrase at that time. This is your local `ssh` client asking you to decrypt the private key, it _is not_ the remote server asking for a password.
+
 

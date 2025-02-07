@@ -1,25 +1,34 @@
 ---
 title: Linux
-author: Nicholas Stull
 description: Linux tips and resources for sysadmins and tinkerers.
 date: 2024-09-15
 tags:
   - tech
   - linux
-type: Dashboard
-category: Technology
-cssclasses:
-  - dashboard
-banner: "![[linux.png]]"
-banner_y: 0.772
+type: Dashboard/L1
+category: Linux
+banner: "https://media.tinkernerd.dev/banners/linux.png"
+banner_y: 0.652
 ---
 
 # Linux
 
 Linux is where the magic happens. Whether you’re setting up servers or just exploring, this section has what you need.
 
-Notes
-- Topics
-`$=dv.list(dv.pages().where(p => p.category == "Linux" && p.type == "Resource").sort(f => f.file.name, "asc").file.link)`
-- Installs
-`$=dv.list(dv.pages().where(p => p.category == "Linux" && p.type == "Installs").sort(f => f.file.name, "asc").file.link)`
+## Resources
+-  [💾 Arch Wiki](https://wiki.archlinux.org/) – RTFM, buddy.
+-  🖥️ [Linux Commands Bible](https://linuxcommand.org/)
+
+
+## 📝 Notes  
+```dataview  
+TABLE WITHOUT ID
+link(file.path, title) AS "Note", type AS "Type", created_at AS "Date Created", file.mtime AS "Last Modified", status AS "Status"
+FROM "Notes"
+WHERE contains(category, "Linux") AND type != "Dashboard" AND type != "Dashboard/L1"
+SORT title ASC
+````
+
+
+
+Explore the sections above to deepen your Linux knowledge and streamline your workflows! 🚀  

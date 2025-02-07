@@ -1,18 +1,20 @@
 ---
 title: PyMath
-dateCreated: 2024-09-15
-tags:
-  - tech
-  - python
+description: Some basic Py scripts from class for math.
 type: Project
 topic:
-  - Tech
-  - programming
   - Python
+category: Development
+created_at: 2025-02-06T00:41:42-05:00
+modified_at: 2025-02-06T00:44:17-05:00
+Repo: tinkernerd/Python-Math
+statis: Archive
 ---
-# PyMath
-## GitHub Link:
--  [tinkernerd/Python-Math](https://www.github.com/tinkernerd/Python-Math)
-## Basic Project Information
 
-Some basic Py scripts from class for math.
+> [!Github] [tinkernerd/Python-Math](https://github.com/tinkernerd/python-math)
+> Some basic Py scripts from class for math.
+    
+
+## Notes
+
+

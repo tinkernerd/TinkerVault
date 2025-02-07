@@ -1,30 +1,21 @@
 ---
+title: Generate SSH Keys
 type: Article
-dateCreated: 2024-07-14T21:55:33
+topic:
+  - SSH
+  - Keys
+  - Networking
+  - Security
 tags:
   - Networking
   - ssh
   - Security
-source: https://phoenixnap.com/kb/generate-setup-ssh-key-ubuntu
+category: Linux
+created_at: 2025-02-06T15:02:15-05:00
+modified_at: 2025-02-06T15:03:43-05:00
 author: Vladimir Kaplarevic
-title: SSH Keys
-topic:
-  - Security
-category: Networking
+source: https://phoenixnap.com/kb/generate-setup-ssh-key-ubuntu
 ---
-
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
-
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
-</div>`;
-
-dv.el("div", noteBlock);
-```
 # How to Generate SSH Keys on Ubuntu 
 
 > ## Excerpt
@@ -248,3 +239,4 @@ Conclusion
 By following the instructions in this tutorial, you have set up SSH-key-based authentication on an Ubuntu server. The connection is now highly secure, using unique, cryptographic SSH key pairs.
 
 Next, find out what the 19 most common [SSH Commands in Linux](https://phoenixnap.com/kb/linux-ssh-commands) are.
+

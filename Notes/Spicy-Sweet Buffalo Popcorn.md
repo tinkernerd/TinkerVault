@@ -4,6 +4,7 @@ type: Recipe
 source: https://www.allrecipes.com/recipe/261199/spicy-sweet-buffalo-popcorn/
 topic:
   - Food
+category: Recipes
 ---
 # Spicy-Sweet Buffalo Popcorn
 # Ingredients

@@ -5668,3 +5668,5 @@ var YaosPlugin = class extends import_obsidian5.Plugin {
     }
   }
 };
+
+/* nosourcemap */

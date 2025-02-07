@@ -1,25 +1,15 @@
 ---
-title: .Deb Files
-tags:
-  - deb
-  - install
-type: Installs
+title: Deb File - Installing & Uninstalling
+type: Resource
+topic:
+  - Programs
+category: Linux
 source: https://askubuntu.com/questions/40779/how-do-i-install-a-deb-file-via-the-command-line
 author: AskLinux
-category: Linux
+created_at: 2025-02-06T13:59:07-05:00
+modified_at: 2025-02-06T13:59:42-05:00
 ---
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
 
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
-</div>`;
-
-dv.el("div", noteBlock);
-```
 # .Deb File - Installing/Uninstalling
 
 

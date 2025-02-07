@@ -1,11 +1,13 @@
 ---
 title: Mapping Network Drive Manually
-dateCreated: 2021-05-26T11:49:22
 type: Resource
 topic:
   - Network Drive
 category: Networking
+created_at: 2025-02-06T18:03:56-05:00
+modified_at: 2025-02-06T18:04:59-05:00
 ---
+
 # Mapping Network Drive Manually
 
 1.  Open File Explorer.

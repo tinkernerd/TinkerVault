@@ -1,10 +1,11 @@
 ---
 title: Create Sudo User
 type: Resource
-tags:
-  - sudo
-dateCreated: 2024-09-21T23:35:00
+topic:
+  - User Management
 category: Linux
+created_at: 2025-02-06T13:38:43-05:00
+modified_at: 2025-02-06T13:39:20-05:00
 ---
 
 # Create Sudo User

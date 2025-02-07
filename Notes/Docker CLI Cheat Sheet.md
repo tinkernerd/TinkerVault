@@ -1,36 +1,16 @@
 ---
 title: Docker CLI Cheat Sheet
-author: Docker
-source: https://docs.docker.com/
 description: A concise cheat sheet for Docker CLI commands, covering image management, container management, and general Docker usage.
-dateCreated: 2024-09-15
-tags:
-  - Docker
-  - CLI
-  - Containers
-  - DevOps
 type: Resource
 topic:
-  - CLI
-category: Docker
+  - Docker
+category: Development
+created_at: 2025-02-06T12:48:54-05:00
+modified_at: 2025-02-06T12:49:33-05:00
 ---
-> [!NOTE]
-```dataviewjs
-const source = dv.current().source || "No source provided";
-const author = dv.current().author || "Unknown author";
-
-let noteBlock = `<div class="callout">
-    <strong>Hey, this isn't my work.</strong>
-    Feel free to check out the <a href="${source}" target="_blank">original article</a>, by ${author}.
-</div>`;
-
-dv.el("div", noteBlock);
-```
 # Docker CLI Cheat Sheet
+A concise cheat sheet for Docker CLI commands, covering image management, container management, and general Docker usage.
 
-This cheat sheet provides essential Docker CLI commands for managing images, containers, and general Docker operations.
-
----
 ## Image Management
 
 - **Build an Image from a Dockerfile**

@@ -1,15 +1,12 @@
 ---
-title: JavaScript Functions
-author: Nicholas Stull
-description: A guide to JavaScript functions, including function declarations and expressions.
-date: 2024-09-15
+title: Javascript Functions
+description: Functions are one of the core building blocks in JavaScript. They allow you to encapsulate code that can be reused.
 type: Resource
-dateCreated: 2024-09-15 08:00
-status: Active
 topic:
-  - Functions
   - JavaScript
-category: Programming
+category: Development
+created_at: 2025-02-06T15:15:27-05:00
+modified_at: 2025-02-06T15:16:17-05:00
 ---
 
 # JavaScript Functions

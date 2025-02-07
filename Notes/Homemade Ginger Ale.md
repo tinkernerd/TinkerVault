@@ -2,13 +2,13 @@
 tags:
   - recipe
   - "#drinks/clean"
-created: 2005-12-05T19:43:58.000-05:00
-author: 
+created: 2005-12-05T19:43:58.000-05:00=
 source: https://www.simplyrecipes.com/recipes/homemade_ginger_ale/
 title: Homemade Ginger Ale
 type: Recipe
 topic:
   - Drinks
+category: Recipes
 ---
 
 # Homemade Ginger Ale

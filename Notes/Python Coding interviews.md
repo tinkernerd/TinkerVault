@@ -1,16 +1,23 @@
 ---
-title: Python Cheat Sheet - Coding Interview Questions
+title: Python Interview Questions
 author: Finxter
 source: https://finxter.com/
 description: A collection of 14 common Python coding interview questions and solutions, covering topics such as list manipulation, recursion, sorting, and more.
-dateCreated: 2024-09-15
 tags:
   - Python
-  - Interview Questions
-  - Coding Challenges
+  - Interview
+  - Questions
+  - Coding
+  - Challenges
   - Algorithms
-  - Data Structures
-type: CheatSheet
+  - Data
+  - Structures
+topic:
+  - Python
+category: Development
+type: Resource
+created_at: 2025-02-06T14:03:16-05:00
+modified_at: 2025-02-06T14:04:56-05:00
 ---
 
 # Python Cheat Sheet: 14 Interview Questions

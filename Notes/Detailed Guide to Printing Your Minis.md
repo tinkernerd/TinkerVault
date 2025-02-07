@@ -1,25 +1,22 @@
 ---
 title: Detailed Guide to Printing Your Minis
+description: A detailed guide on how to print miniatures, covering optimal settings, supports, and techniques for achieving high-quality prints.
 author: Reddit User /r/PrintedMinis
 source: https://www.reddit.com/r/PrintedMinis/comments/68umnm/a_detailed_guide_to_printing_your_minis/
-description: A detailed guide on how to print miniatures, covering optimal settings, supports, and techniques for achieving high-quality prints.
+type: Article
+topic:
+  - 3d Printing
+  - DND
+  - Mini-Figures
 tags:
   - Miniatures
   - Guide
   - 3dprinting
   - dnd
-topic:
-  - DND
-  - Mini-Figures
-  - 3d-Printing
-type: Article
-status: Archive
-dateCreated: 2024-09-15 08:00
-articleDate: 2017-05-02T13:40:11
-category: 3d Printing
+category: Development
+created_at: 2025-02-06T00:25:21-05:00
+modified_at: 2025-02-06T01:18:56-05:00
 ---
-
-
 > [!NOTE]
 ```dataviewjs
 const source = dv.current().source || "No source provided";
