@@ -30,7 +30,7 @@ Each section is formatted for clarity, accessibility, and easy navigation.
 
 ### Open in Obsidian
 
-Make sure you have [Obsidian](https://obsidian.md/) installed. You can clone the repo, The `main` branch will be up to date or Download this repository as a ZIP file from the [releases page](https://github.com/tinkernerd/tinkerddocs/releases/latest) and  unzip it Either way open the folder inside Obsidian. All set? Click around in the folders to the left, or just use the links above to get oriented.
+Make sure you have [Obsidian](https://obsidian.md/) installed. You can clone the repo, The `main` branch will be up to date or Download this repository as a ZIP file from the [releases page](https://github.com/tinkernerd/tinkervault/releases/latest) and  unzip it Either way open the folder inside Obsidian. All set? Click around in the folders to the left, or just use the links above to get oriented.
 
 ### Suggested Tools
 
@@ -59,17 +59,17 @@ Contributions are welcome! To suggest improvements:
 2. Create a new branch.
 3. Submit a pull request with a description of your changes.
 
-Check out [CONTRIBUTING.md](https://chatgpt.com/c/CONTRIBUTING.md) for guidelines.
+Check out [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://chatgpt.com/c/LICENSE). Feel free to use, modify, and share.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share.
 
 ## 📫 Contact
 
 For questions, feedback, or contributions, reach out via:
 
-- **GitHub Issues** – [Submit an issue](https://github.com/tinkernerd/TinkerDocs/issues)
+- **GitHub Issues** – [Submit an issue](https://github.com/tinkernerd/TinkerVault/issues)
 - **Email** – [howdy@tinkernerd.dev](mailto:howdy@tinkernerd.dev)
 
 ---
