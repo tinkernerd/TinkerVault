@@ -1,0 +1,67 @@
+---
+title: Job 17
+type: Scripture
+tags:
+ - bible/verse
+ - bible/book/Job
+ - verse
+Chapter: Chapter17
+Book: Job
+Aliases: [Job 17]
+previous: ['Job 16']
+up: ['Job']
+next: ['Job 18']
+category: Bible
+---
+# Job 17
+
+***
+
+
+###### 1 
+<sup class="versenum mid-line">1</sup>My spirit is broken, my days are cut short, the grave awaits me. 
+
+###### 2 
+Surely mockers surround me; my eyes must dwell on their hostility. 
+
+###### 3 
+"Give me, O God, the pledge you demand. Who else will put up security for me? 
+
+###### 4 
+You have closed their minds to understanding; therefore you will not let them triumph. 
+
+###### 5 
+If anyone denounces their friends for reward, the eyes of their children will fail. 
+
+###### 6 
+"God has made me a byword to everyone, a man in whose face people spit. 
+
+###### 7 
+My eyes have grown dim with grief; my whole frame is but a shadow. 
+
+###### 8 
+The upright are appalled at this; the innocent are aroused against the ungodly. 
+
+###### 9 
+Nevertheless, the righteous will hold to their ways, and those with clean hands will grow stronger. 
+
+###### 10 
+"But come on, all of you, try again! I will not find a wise man among you. 
+
+###### 11 
+My days have passed, my plans are shattered. Yet the desires of my heart 
+
+###### 12 
+turn night into day; in the face of the darkness light is near. 
+
+###### 13 
+If the only home I hope for is the grave, if I spread out my bed in the realm of darkness, 
+
+###### 14 
+if I say to corruption, 'You are my father,' and to the worm, 'My mother' or 'My sister,' 
+
+###### 15 
+where then is my hope-- who can see any hope for me? 
+
+###### 16 
+Will it go down to the gates of death? Will we descend together into the dust?" 

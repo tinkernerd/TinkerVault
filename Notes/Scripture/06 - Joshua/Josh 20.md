@@ -1,0 +1,46 @@
+---
+title: Joshua 20
+type: Scripture
+tags:
+ - bible/verse
+ - bible/book/Joshua
+ - verse
+Chapter: Chapter20
+Book: Joshua
+Aliases: [Joshua 20]
+previous: ['Josh 19']
+up: ['Joshua']
+next: ['Josh 21']
+category: Bible
+---
+# Joshua 20
+
+***
+
+
+###### 1 
+Then the LORD said to Joshua: 
+
+###### 2 
+"Tell the Israelites to designate the cities of refuge, as I instructed you through Moses, 
+
+###### 3 
+so that anyone who kills a person accidentally and unintentionally may flee there and find protection from the avenger of blood. 
+
+###### 4 
+When they flee to one of these cities, they are to stand in the entrance of the city gate and state their case before the elders of that city. Then the elders are to admit the fugitive into their city and provide a place to live among them. 
+
+###### 5 
+If the avenger of blood comes in pursuit, the elders must not surrender the fugitive, because the fugitive killed their neighbor unintentionally and without malice aforethought. 
+
+###### 6 
+They are to stay in that city until they have stood trial before the assembly and until the death of the high priest who is serving at that time. Then they may go back to their own home in the town from which they fled." 
+
+###### 7 
+So they set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath Arba (that is, Hebron) in the hill country of Judah. 
+
+###### 8 
+East of the Jordan (on the other side from Jericho) they designated Bezer in the wilderness on the plateau in the tribe of Reuben, Ramoth in Gilead in the tribe of Gad, and Golan in Bashan in the tribe of Manasseh. 
+
+###### 9 
+Any of the Israelites or any foreigner residing among them who killed someone accidentally could flee to these designated cities and not be killed by the avenger of blood prior to standing trial before the assembly. 

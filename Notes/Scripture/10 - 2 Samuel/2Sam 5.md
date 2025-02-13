@@ -1,0 +1,94 @@
+---
+title: 2 Samuel 5
+type: Scripture
+tags:
+ - bible/verse
+ - bible/book/2 Samuel
+ - verse
+Chapter: Chapter05
+Book: 2 Samuel
+Aliases: [2 Samuel 5]
+previous: ['2 Sam 4']
+up: ['2 Samuel']
+next: ['2 Sam 6']
+category: Bible
+---
+# 2 Samuel 5
+
+***
+
+
+###### 1 
+All the tribes of Israel came to David at Hebron and said, "We are your own flesh and blood. 
+
+###### 2 
+In the past, while Saul was king over us, you were the one who led Israel on their military campaigns. And the LORD said to you, 'You will shepherd my people Israel, and you will become their ruler.'" 
+
+###### 3 
+When all the elders of Israel had come to King David at Hebron, the king made a covenant with them at Hebron before the LORD, and they anointed David king over Israel. 
+
+###### 4 
+David was thirty years old when he became king, and he reigned forty years. 
+
+###### 5 
+In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned over all Israel and Judah thirty-three years. ## David Conquers Jerusalem 
+
+###### 6 
+The king and his men marched to Jerusalem to attack the Jebusites, who lived there. The Jebusites said to David, "You will not get in here; even the blind and the lame can ward you off." They thought, "David cannot get in here." 
+
+###### 7 
+Nevertheless, David captured the fortress of Zion--which is the City of David. 
+
+###### 8 
+On that day David had said, "Anyone who conquers the Jebusites will have to use the water shaft to reach those 'lame and blind' who are David's enemies." That is why they say, "The 'blind and lame' will not enter the palace." 
+
+###### 9 
+David then took up residence in the fortress and called it the City of David. He built up the area around it, from the terraces inward. 
+
+###### 10 
+And he became more and more powerful, because the LORD God Almighty was with him. 
+
+###### 11 
+Now Hiram king of Tyre sent envoys to David, along with cedar logs and carpenters and stonemasons, and they built a palace for David. 
+
+###### 12 
+Then David knew that the LORD had established him as king over Israel and had exalted his kingdom for the sake of his people Israel. 
+
+###### 13 
+After he left Hebron, David took more concubines and wives in Jerusalem, and more sons and daughters were born to him. 
+
+###### 14 
+These are the names of the children born to him there: Shammua, Shobab, Nathan, Solomon, 
+
+###### 15 
+Ibhar, Elishua, Nepheg, Japhia, 
+
+###### 16 
+Elishama, Eliada and Eliphelet. ## David Defeats the Philistines 
+
+###### 17 
+When the Philistines heard that David had been anointed king over Israel, they went up in full force to search for him, but David heard about it and went down to the stronghold. 
+
+###### 18 
+Now the Philistines had come and spread out in the Valley of Rephaim; 
+
+###### 19 
+so David inquired of the LORD, "Shall I go and attack the Philistines? Will you deliver them into my hands?" The LORD answered him, "Go, for I will surely deliver the Philistines into your hands." 
+
+###### 20 
+So David went to Baal Perazim, and there he defeated them. He said, "As waters break out, the LORD has broken out against my enemies before me." So that place was called Baal Perazim. 
+
+###### 21 
+The Philistines abandoned their idols there, and David and his men carried them off. 
+
+###### 22 
+Once more the Philistines came up and spread out in the Valley of Rephaim; 
+
+###### 23 
+so David inquired of the LORD, and he answered, "Do not go straight up, but circle around behind them and attack them in front of the poplar trees. 
+
+###### 24 
+As soon as you hear the sound of marching in the tops of the poplar trees, move quickly, because that will mean the LORD has gone out in front of you to strike the Philistine army." 
+
+###### 25 
+So David did as the LORD commanded him, and he struck down the Philistines all the way from Gibeon to Gezer. 

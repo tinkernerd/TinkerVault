@@ -1,0 +1,106 @@
+---
+title: 2 Samuel 7
+type: Scripture
+tags:
+ - bible/verse
+ - bible/book/2 Samuel
+ - verse
+Chapter: Chapter07
+Book: 2 Samuel
+Aliases: [2 Samuel 7]
+previous: ['2 Sam 6']
+up: ['2 Samuel']
+next: ['2 Sam 8']
+category: Bible
+---
+# 2 Samuel 7
+
+***
+
+
+###### 1 
+After the king was settled in his palace and the LORD had given him rest from all his enemies around him, 
+
+###### 2 
+he said to Nathan the prophet, "Here I am, living in a house of cedar, while the ark of God remains in a tent." 
+
+###### 3 
+Nathan replied to the king, "Whatever you have in mind, go ahead and do it, for the LORD is with you." 
+
+###### 4 
+But that night the word of the LORD came to Nathan, saying: 
+
+###### 5 
+"Go and tell my servant David, 'This is what the LORD says: Are you the one to build me a house to dwell in? 
+
+###### 6 
+I have not dwelt in a house from the day I brought the Israelites up out of Egypt to this day. I have been moving from place to place with a tent as my dwelling. 
+
+###### 7 
+Wherever I have moved with all the Israelites, did I ever say to any of their rulers whom I commanded to shepherd my people Israel, "Why have you not built me a house of cedar?"' 
+
+###### 8 
+"Now then, tell my servant David, 'This is what the LORD Almighty says: I took you from the pasture, from tending the flock, and appointed you ruler over my people Israel. 
+
+###### 9 
+I have been with you wherever you have gone, and I have cut off all your enemies from before you. Now I will make your name great, like the names of the greatest men on earth. 
+
+###### 10 
+And I will provide a place for my people Israel and will plant them so that they can have a home of their own and no longer be disturbed. Wicked people will not oppress them anymore, as they did at the beginning 
+
+###### 11 
+and have done ever since the time I appointed leaders over my people Israel. I will also give you rest from all your enemies. "'The LORD declares to you that the LORD himself will establish a house for you: 
+
+###### 12 
+When your days are over and you rest with your ancestors, I will raise up your offspring to succeed you, your own flesh and blood, and I will establish his kingdom. 
+
+###### 13 
+He is the one who will build a house for my Name, and I will establish the throne of his kingdom forever. 
+
+###### 14 
+I will be his father, and he will be my son. When he does wrong, I will punish him with a rod wielded by men, with floggings inflicted by human hands. 
+
+###### 15 
+But my love will never be taken away from him, as I took it away from Saul, whom I removed from before you. 
+
+###### 16 
+Your house and your kingdom will endure forever before me; your throne will be established forever.'" 
+
+###### 17 
+Nathan reported to David all the words of this entire revelation. ## David's Prayer 
+
+###### 18 
+Then King David went in and sat before the LORD, and he said: "Who am I, Sovereign LORD, and what is my family, that you have brought me this far? 
+
+###### 19 
+And as if this were not enough in your sight, Sovereign LORD, you have also spoken about the future of the house of your servant--and this decree, Sovereign LORD, is for a mere human! 
+
+###### 20 
+"What more can David say to you? For you know your servant, Sovereign LORD. 
+
+###### 21 
+For the sake of your word and according to your will, you have done this great thing and made it known to your servant. 
+
+###### 22 
+"How great you are, Sovereign LORD! There is no one like you, and there is no God but you, as we have heard with our own ears. 
+
+###### 23 
+And who is like your people Israel--the one nation on earth that God went out to redeem as a people for himself, and to make a name for himself, and to perform great and awesome wonders by driving out nations and their gods from before your people, whom you redeemed from Egypt? 
+
+###### 24 
+You have established your people Israel as your very own forever, and you, LORD, have become their God. 
+
+###### 25 
+"And now, LORD God, keep forever the promise you have made concerning your servant and his house. Do as you promised, 
+
+###### 26 
+so that your name will be great forever. Then people will say, 'The LORD Almighty is God over Israel!' And the house of your servant David will be established in your sight. 
+
+###### 27 
+"LORD Almighty, God of Israel, you have revealed this to your servant, saying, 'I will build a house for you.' So your servant has found courage to pray this prayer to you. 
+
+###### 28 
+Sovereign LORD, you are God! Your covenant is trustworthy, and you have promised these good things to your servant. 
+
+###### 29 
+Now be pleased to bless the house of your servant, that it may continue forever in your sight; for you, Sovereign LORD, have spoken, and with your blessing the house of your servant will be blessed forever." 

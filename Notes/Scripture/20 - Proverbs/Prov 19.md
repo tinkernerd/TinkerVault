@@ -1,0 +1,106 @@
+---
+title: Proverbs 19
+type: Scripture
+tags:
+ - bible/verse
+ - bible/book/Proverbs
+ - verse
+Chapter: Chapter19
+Book: Proverbs
+Aliases: [Proverbs 19]
+previous: ['Prov 18']
+up: ['Proverbs']
+next: ['Prov 20']
+category: Bible
+---
+# Proverbs 19
+
+***
+
+
+###### 1 
+Better the poor whose walk is blameless than a fool whose lips are perverse. 
+
+###### 2 
+Desire without knowledge is not good-- how much more will hasty feet miss the way! 
+
+###### 3 
+A person's own folly leads to their ruin, yet their heart rages against the LORD. 
+
+###### 4 
+Wealth attracts many friends, but even the closest friend of the poor person deserts them. 
+
+###### 5 
+A false witness will not go unpunished, and whoever pours out lies will not go free. 
+
+###### 6 
+Many curry favor with a ruler, and everyone is the friend of one who gives gifts. 
+
+###### 7 
+The poor are shunned by all their relatives-- how much more do their friends avoid them! Though the poor pursue them with pleading, they are nowhere to be found. 
+
+###### 8 
+The one who gets wisdom loves life; the one who cherishes understanding will soon prosper. 
+
+###### 9 
+A false witness will not go unpunished, and whoever pours out lies will perish. 
+
+###### 10 
+It is not fitting for a fool to live in luxury-- how much worse for a slave to rule over princes! 
+
+###### 11 
+A person's wisdom yields patience; it is to one's glory to overlook an offense. 
+
+###### 12 
+A king's rage is like the roar of a lion, but his favor is like dew on the grass. 
+
+###### 13 
+A foolish child is a father's ruin, and a quarrelsome wife is like the constant dripping of a leaky roof. 
+
+###### 14 
+Houses and wealth are inherited from parents, but a prudent wife is from the LORD. 
+
+###### 15 
+Laziness brings on deep sleep, and the shiftless go hungry. 
+
+###### 16 
+Whoever keeps commandments keeps their life, but whoever shows contempt for their ways will die. 
+
+###### 17 
+Whoever is kind to the poor lends to the LORD, and he will reward them for what they have done. 
+
+###### 18 
+Discipline your children, for in that there is hope; do not be a willing party to their death. 
+
+###### 19 
+A hot-tempered person must pay the penalty; rescue them, and you will have to do it again. 
+
+###### 20 
+Listen to advice and accept discipline, and at the end you will be counted among the wise. 
+
+###### 21 
+Many are the plans in a person's heart, but it is the LORD's purpose that prevails. 
+
+###### 22 
+What a person desires is unfailing love; better to be poor than a liar. 
+
+###### 23 
+The fear of the LORD leads to life; then one rests content, untouched by trouble. 
+
+###### 24 
+A sluggard buries his hand in the dish; he will not even bring it back to his mouth! 
+
+###### 25 
+Flog a mocker, and the simple will learn prudence; rebuke the discerning, and they will gain knowledge. 
+
+###### 26 
+Whoever robs their father and drives out their mother is a child who brings shame and disgrace. 
+
+###### 27 
+Stop listening to instruction, my son, and you will stray from the words of knowledge. 
+
+###### 28 
+A corrupt witness mocks at justice, and the mouth of the wicked gulps down evil. 
+
+###### 29 
+Penalties are prepared for mockers, and beatings for the backs of fools. 

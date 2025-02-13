@@ -1,11 +1,10 @@
 {
   "version": "1.2.2",
   "previousVersion": "1.0.0",
-  "groupBy": 0,
+  "groupBy": 1,
   "expandedFolderItems": [
     "Excalidraw",
     "Excalidraw/ExcaliBrain Snapshot - Drawing 2025-02-06 20.11.57.excalidraw.excalidraw.md",
-    "Notes",
     "Notes/FAR/Volume 4",
     "Notes/FAR/Volume 4/D Special regulations",
     "Notes/FAR/Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md",
@@ -52,10 +51,25 @@
     "Notes/FAR/Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md",
     "Notes/Tech Glossary.md",
     "Notes/RaspiDigiDisplay.md",
-    "Notes/Aviation Glossary.md"
+    "Notes/Aviation Glossary.md",
+    "Notes",
+    "Notes/Aviation",
+    "Notes/Aviation/Aviation Airspace.md",
+    "Notes/Aviation/Aviation Glossary.md"
   ],
-  "expandedFileItems": [],
-  "expandedLinkItems": [],
+  "expandedFileItems": [
+    "Notes/Aviation/Glossary/A.md",
+    "Notes/Aviation/Aviation Glossary Updated.md"
+  ],
+  "expandedLinkItems": [
+    "aerodrome-beacon-icao",
+    "air-traffic-control",
+    "contingency-hazard-area",
+    "Common Aviation Terms",
+    "chart-supplement-us",
+    "automated-information-transfer",
+    "aircraft-icao"
+  ],
   "folderSort": 0,
   "fileSort": 3,
   "linkSort": 3,

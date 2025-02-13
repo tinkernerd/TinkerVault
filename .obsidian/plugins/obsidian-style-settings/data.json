@@ -39,5 +39,6 @@
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-everforest-light",
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-kanagawa-dark",
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-blue"
 }

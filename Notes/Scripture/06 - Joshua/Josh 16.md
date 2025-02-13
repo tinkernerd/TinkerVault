@@ -1,0 +1,49 @@
+---
+title: Joshua 16
+type: Scripture
+tags:
+ - bible/verse
+ - bible/book/Joshua
+ - verse
+Chapter: Chapter16
+Book: Joshua
+Aliases: [Joshua 16]
+previous: ['Josh 15']
+up: ['Joshua']
+next: ['Josh 17']
+category: Bible
+---
+# Joshua 16
+
+***
+
+
+###### 1 
+The allotment for Joseph began at the Jordan, east of the springs of Jericho, and went up from there through the desert into the hill country of Bethel. 
+
+###### 2 
+It went on from Bethel (that is, Luz), crossed over to the territory of the Arkites in Ataroth, 
+
+###### 3 
+descended westward to the territory of the Japhletites as far as the region of Lower Beth Horon and on to Gezer, ending at the Mediterranean Sea. 
+
+###### 4 
+So Manasseh and Ephraim, the descendants of Joseph, received their inheritance. 
+
+###### 5 
+This was the territory of Ephraim, according to its clans: The boundary of their inheritance went from Ataroth Addar in the east to Upper Beth Horon 
+
+###### 6 
+and continued to the Mediterranean Sea. From Mikmethath on the north it curved eastward to Taanath Shiloh, passing by it to Janoah on the east. 
+
+###### 7 
+Then it went down from Janoah to Ataroth and Naarah, touched Jericho and came out at the Jordan. 
+
+###### 8 
+From Tappuah the border went west to the Kanah Ravine and ended at the Mediterranean Sea. This was the inheritance of the tribe of the Ephraimites, according to its clans. 
+
+###### 9 
+It also included all the towns and their villages that were set aside for the Ephraimites within the inheritance of the Manassites. 
+
+###### 10 
+They did not dislodge the Canaanites living in Gezer; to this day the Canaanites live among the people of Ephraim but are required to do forced labor. 

@@ -1,0 +1,58 @@
+---
+title: 1 Corinthians 5
+type: Scripture
+tags:
+ - bible/verse
+ - bible/book/1 Corinthians
+ - verse
+Chapter: Chapter05
+Book: 1 Corinthians
+Aliases: [1 Corinthians 5]
+previous: ['1 Cor 4']
+up: ['1 Corinthians']
+next: ['1 Cor 6']
+category: Bible
+---
+# 1 Corinthians 5
+
+***
+
+
+###### 1 
+It is actually reported that there is sexual immorality among you, and of a kind that even pagans do not tolerate: A man is sleeping with his father's wife. 
+
+###### 2 
+And you are proud! Shouldn't you rather have gone into mourning and have put out of your fellowship the man who has been doing this? 
+
+###### 3 
+For my part, even though I am not physically present, I am with you in spirit. As one who is present with you in this way, I have already passed judgment in the name of our Lord Jesus on the one who has been doing this. 
+
+###### 4 
+So when you are assembled and I am with you in spirit, and the power of our Lord Jesus is present, 
+
+###### 5 
+hand this man over to Satan for the destruction of the flesh, so that his spirit may be saved on the day of the Lord. 
+
+###### 6 
+Your boasting is not good. Don't you know that a little yeast leavens the whole batch of dough? 
+
+###### 7 
+Get rid of the old yeast, so that you may be a new unleavened batch--as you really are. For Christ, our Passover lamb, has been sacrificed. 
+
+###### 8 
+Therefore let us keep the Festival, not with the old bread leavened with malice and wickedness, but with the unleavened bread of sincerity and truth. 
+
+###### 9 
+I wrote to you in my letter not to associate with sexually immoral people-- 
+
+###### 10 
+not at all meaning the people of this world who are immoral, or the greedy and swindlers, or idolaters. In that case you would have to leave this world. 
+
+###### 11 
+But now I am writing to you that you must not associate with anyone who claims to be a brother or sister but is sexually immoral or greedy, an idolater or slanderer, a drunkard or swindler. Do not even eat with such people. 
+
+###### 12 
+What business is it of mine to judge those outside the church? Are you not to judge those inside? 
+
+###### 13 
+God will judge those outside. "Expel the wicked person from among you." 

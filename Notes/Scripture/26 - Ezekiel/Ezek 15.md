@@ -1,0 +1,43 @@
+---
+title: Ezekiel 15
+type: Scripture
+tags:
+ - bible/verse
+ - bible/book/Ezekiel
+ - verse
+Chapter: Chapter15
+Book: Ezekiel
+Aliases: [Ezekiel 15]
+previous: ['Ezek 14']
+up: ['Ezekiel']
+next: ['Ezek 16']
+category: Bible
+---
+# Ezekiel 15
+
+***
+
+
+###### 1 
+The word of the LORD came to me: 
+
+###### 2 
+"Son of man, how is the wood of a vine different from that of a branch from any of the trees in the forest? 
+
+###### 3 
+Is wood ever taken from it to make anything useful? Do they make pegs from it to hang things on? 
+
+###### 4 
+And after it is thrown on the fire as fuel and the fire burns both ends and chars the middle, is it then useful for anything? 
+
+###### 5 
+If it was not useful for anything when it was whole, how much less can it be made into something useful when the fire has burned it and it is charred? 
+
+###### 6 
+"Therefore this is what the Sovereign LORD says: As I have given the wood of the vine among the trees of the forest as fuel for the fire, so will I treat the people living in Jerusalem. 
+
+###### 7 
+I will set my face against them. Although they have come out of the fire, the fire will yet consume them. And when I set my face against them, you will know that I am the LORD. 
+
+###### 8 
+I will make the land desolate because they have been unfaithful, declares the Sovereign LORD." 

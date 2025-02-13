@@ -8,22 +8,95 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "31a7cb7209e0488e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠 Homepage.md",
-                "mode": "preview",
+                "file": "Notes/glos notes.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "🏠 Homepage"
+              "title": "glos notes"
+            }
+          },
+          {
+            "id": "5da6d76b78d433e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Aviation/Glossary/E.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "E"
+            }
+          },
+          {
+            "id": "8e1c3b113eb3db6a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Aviation/Aviation Glossary Updated.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Aviation Glossary Updated"
+            }
+          },
+          {
+            "id": "ad40a7abd0502c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Aviation/Glossary/V.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V"
+            }
+          },
+          {
+            "id": "d242d01cc7dc4caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Aviation/Glossary/E.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E"
+            }
+          },
+          {
+            "id": "feba6a47389a4e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Aviation/Glossary/E.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "E"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"category\":Linux",
+                "query": "Non-Towered Airport Flight",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🏠 Homepage.md",
+                "file": "Notes/Aviation/Glossary/E.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,12 +209,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.3589921643666556,
+                  "scale": 0.5832220551566838,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 🏠 Homepage"
+              "title": "Graph of E"
             }
           },
           {
@@ -225,10 +298,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "🏠 Homepage.md"
+                "file": "Notes/Aviation/Glossary/E.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 🏠 Homepage"
+              "title": "File properties for E"
             }
           },
           {
@@ -237,13 +310,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Python NumPy.md",
+                "file": "Notes/Aviation/Glossary/E.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Python NumPy"
+              "title": "Outline of E"
             }
           },
           {
@@ -271,12 +344,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 336,
-    "collapsed": true
+    "width": 336
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,47 +367,48 @@
       "obsidian-projects:Open projects": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-git:Open Git source control": false,
+      "recipe-grabber:Recipe Grabber": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5da6d76b78d433e7",
   "lastOpenFiles": [
-    "🏠 Homepage.md",
-    "README.md",
-    "Level 1/Sidebar.md",
-    "Level 1/Tasks Calendar.md",
-    "Level 1/Tasks Dashboard.md",
-    "Level 2/Dummy Maths Note.md",
-    "Level 2/Exercises.md",
-    "Level 2/Practice.md",
-    "Level 2/Quote Book.md",
-    "Notes/Security.md",
-    "Notes/Recovery Codes.md",
-    "Notes/RaspiDigiDisplay.md",
-    "Notes/Tech Glossary.md",
-    "Notes/FAR/Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md",
-    "Notes/FAR/Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md",
-    "Notes/FAR/Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md",
-    "Notes/FAR/Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md",
-    "Notes/FAR/Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md",
-    "Notes/FAR/Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md",
-    "Notes/FAR/Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md",
-    "Notes/Navigation Aids.md",
-    "Notes/National Security and Interception Procedures.md",
-    "Notes/Mechanical and Spatial Aptitude.md",
-    "Notes/Other Airspace Areas.md",
-    "Notes/Performance-Based Navigation (PBN) and Area Navigation (RNAV).md",
-    "Notes/Preflight.md",
-    "Notes/FAR/Volume 5/B Air transportation stabilization board",
-    "Notes/FAR/Volume 5/A Office of management and budget",
-    "Notes/FAR/Volume 4/F Policy statements",
-    "Notes/FAR/Volume 4/E Organization",
-    "Notes/FAR/Volume 4/D Special regulations",
-    "Notes/FAR/Volume 4/C Licensing",
-    "Notes/FAR/Volume 4/B Procedure",
-    "Notes/FAR/Volume 4/B Procedural regulations",
-    "Notes/FAR/Volume 4/A General",
-    "Notes/FAR/Volume 4/A Economic regulations",
+    "Notes/Aviation/Aviation Glossary Updated.md",
+    "Notes/glos notes.md",
+    "Notes/Aviation/Glossary/E.md",
+    "Notes/Aviation/Glossary/V.md",
+    "Notes/Aviation/Glossary/U.md",
+    "Notes/Aviation/Aviation Glossary.md",
+    "Assets/Attachments/FAA_Order_6850.2C.pdf",
+    "Notes/Aviation/Glossary/J.md",
+    "Notes/Aviation/FAR/Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md",
+    "Notes/Aviation/Glossary/D.md",
+    "Notes/Aviation/Glossary/A.md",
+    "Notes/Aviation/Glossary/C.md",
+    "Notes/Aviation/Glossary/T.md",
+    "Notes/Aviation/Glossary/K.md",
+    "Notes/Aviation/Glossary/L.md",
+    "Notes/Aviation/Glossary/M.md",
+    "Notes/Aviation/Glossary/N.md",
+    "Notes/Aviation/Glossary/O.md",
+    "Notes/Aviation/Glossary/P.md",
+    "Notes/Aviation/Glossary/Q.md",
+    "Notes/Aviation/Glossary/R.md",
+    "Notes/Aviation/Glossary/S.md",
+    "Notes/Aviation/Glossary/W.md",
+    "Notes/Aviation/Glossary/B.md",
+    "Notes/Aviation/Glossary/I.md",
+    "Notes/Aviation/Glossary/H.md",
+    "Notes/Aviation/Glossary/G.md",
+    "Notes/Aviation/Glossary",
+    "Notes/Aviation/untitled folder",
+    "Assets/Attachments/ac_90-66c.pdf",
+    "Notes/Electrical",
+    "Notes/Recipes",
+    "Notes/Photography",
+    "Notes/Networking",
+    "Notes/Recipes",
+    "Assets/Templates/Category Templates",
     "pixel-banner-images/pixel-banner-image.png",
     "Assets/Attachments/section formula proof.png",
     "Assets/Attachments/distance formula.png"

@@ -1,0 +1,61 @@
+---
+title: Romans 13
+type: Scripture
+tags:
+ - bible/verse
+ - bible/book/Romans
+ - verse
+Chapter: Chapter13
+Book: Romans
+Aliases: [Romans 13]
+previous: ['Rom 12']
+up: ['Romans']
+next: ['Rom 14']
+category: Bible
+---
+# Romans 13
+
+***
+
+
+###### 1 
+Let everyone be subject to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God. 
+
+###### 2 
+Consequently, whoever rebels against the authority is rebelling against what God has instituted, and those who do so will bring judgment on themselves. 
+
+###### 3 
+For rulers hold no terror for those who do right, but for those who do wrong. Do you want to be free from fear of the one in authority? Then do what is right and you will be commended. 
+
+###### 4 
+For the one in authority is God's servant for your good. But if you do wrong, be afraid, for rulers do not bear the sword for no reason. They are God's servants, agents of wrath to bring punishment on the wrongdoer. 
+
+###### 5 
+Therefore, it is necessary to submit to the authorities, not only because of possible punishment but also as a matter of conscience. 
+
+###### 6 
+This is also why you pay taxes, for the authorities are God's servants, who give their full time to governing. 
+
+###### 7 
+Give to everyone what you owe them: If you owe taxes, pay taxes; if revenue, then revenue; if respect, then respect; if honor, then honor. ## Love Fulfills the Law 
+
+###### 8 
+Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law. 
+
+###### 9 
+The commandments, "You shall not commit adultery," "You shall not murder," "You shall not steal," "You shall not covet," and whatever other command there may be, are summed up in this one command: "Love your neighbor as yourself." 
+
+###### 10 
+Love does no harm to a neighbor. Therefore love is the fulfillment of the law. ## The Day Is Near 
+
+###### 11 
+And do this, understanding the present time: The hour has already come for you to wake up from your slumber, because our salvation is nearer now than when we first believed. 
+
+###### 12 
+The night is nearly over; the day is almost here. So let us put aside the deeds of darkness and put on the armor of light. 
+
+###### 13 
+Let us behave decently, as in the daytime, not in carousing and drunkenness, not in sexual immorality and debauchery, not in dissension and jealousy. 
+
+###### 14 
+Rather, clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the flesh. 

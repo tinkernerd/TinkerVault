@@ -21,6 +21,26 @@
     {
       "folder": "Notes/Quick Notes",
       "template": "Assets/Templates/Quick Note Template.md"
+    },
+    {
+      "folder": "Notes/Aviation",
+      "template": "Assets/Templates/Category Templates/Aviation Template.md"
+    },
+    {
+      "folder": "Notes/Bible",
+      "template": "Assets/Templates/Category Templates/Bible Template.md"
+    },
+    {
+      "folder": "Notes/Electrical",
+      "template": "Assets/Templates/Category Templates/Electrical Template.md"
+    },
+    {
+      "folder": "Notes/Info Tech",
+      "template": "Assets/Templates/Category Templates/Info Tech Template.md"
+    },
+    {
+      "folder": "Notes/Photography",
+      "template": "Assets/Templates/Category Templates/Photography Template.md"
     }
   ],
   "enable_file_templates": false,
