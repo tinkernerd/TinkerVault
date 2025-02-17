@@ -1,6 +1,5 @@
 [
   "dataview",
-  "calendar",
   "broken-links",
   "callout-manager",
   "yet-another-obsidian-synchronizer",
@@ -8,7 +7,6 @@
   "table-editor-obsidian",
   "frontmatter-modified-date",
   "obsidian-underline",
-  "obsidian-tasks-plugin",
   "obsidian-style-settings",
   "settings-search",
   "quickadd",
@@ -18,16 +16,11 @@
   "obsidian-icon-folder",
   "obsidian-list-callouts",
   "markdown-attributes",
-  "obsidian-plugin-update-tracker",
-  "obsidian-projects",
-  "periodic-notes",
   "obsidian-meta-bind-plugin",
-  "obsidian-latex-suite",
-  "tray",
   "obsidian-trash-explorer",
   "obsidian-auto-link-title",
   "highlightr-plugin",
   "pexels-banner",
   "obsidian-git",
-  "recipe-grabber"
+  "obsidian-footnotes"
 ]
