@@ -15,8 +15,8 @@
               "type": "markdown",
               "state": {
                 "file": "🏠 Homepage.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
